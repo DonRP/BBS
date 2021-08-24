@@ -256,7 +256,7 @@ translate crowdin strings:
 
     # game/labels/prologue.rpy:42
     old "Special thanks"
-    new "Special thanks"
+    new "Ringraziamenti speciali"
 
     # game/labels/prologue.rpy:46
     old "3D Modeling\nBigIrishLug\nkrekerman003\nschlebbsaga\n\nVarious support\nbxIvan\nMegaplayboy10k\nSummmerP"
@@ -264,39 +264,39 @@ translate crowdin strings:
 
     # game/labels/prologue.rpy:114
     old "mom"
-    new "mom"
+    new "mamma"
 
     # game/labels/prologue.rpy:114
     old "mother"
-    new "mother"
+    new "madre"
 
     # game/labels/prologue.rpy:116
     old "step son"
-    new "step son"
+    new "figliastro"
 
     # game/labels/prologue.rpy:117
     old "step mom"
-    new "step mom"
+    new "matrigna"
 
     # game/labels/prologue.rpy:120
     old "brother"
-    new "brother"
+    new "fratello"
 
     # game/labels/prologue.rpy:121
     old "sister"
-    new "sister"
+    new "sorella"
 
     # game/labels/prologue.rpy:122
     old "step brother"
-    new "step brother"
+    new "fratellastro"
 
     # game/labels/prologue.rpy:123
     old "step sister"
-    new "step sister"
+    new "sorellastra"
 
     # game/labels/prologue.rpy:138
     old "landlord"
-    new "landlord"
+    new "padrone di casa"
 
     # game/labels/prologue.rpy:139
     old "leaseholder"
@@ -304,5 +304,5 @@ translate crowdin strings:
 
     # game/labels/prologue.rpy:142
     old "housemate"
-    new "housemate"
+    new "coinquilina"
 
