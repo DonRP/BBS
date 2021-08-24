@@ -431,7 +431,7 @@ screen main_menu():
                 imagebutton:
                     idle Frame(github_idle, xfill=True, yfill=True)
                     hover Frame(github_hover, xfill=True, yfill=True)
-                    action OpenURL("https://github.com/DonRP")
+                    action OpenURL("https://github.com/DonRP/BBS")
                     xsize 80
                     ysize 80
                 imagebutton:
