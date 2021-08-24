@@ -420,7 +420,7 @@ screen main_menu():
             imagebutton:
                 idle Frame(patreon_idle, xfill=True, yfill=True)
                 hover Frame(patreon_hover, xfill=True, yfill=True)
-                action OpenURL("https://www.patreon.com/")
+                action OpenURL("https://www.patreon.com/TeamSaga")
                 ysize 128 # Y patreon icon
                 xalign 0.5
 
@@ -431,25 +431,31 @@ screen main_menu():
                 imagebutton:
                     idle Frame(github_idle, xfill=True, yfill=True)
                     hover Frame(github_hover, xfill=True, yfill=True)
-                    action OpenURL("https://github.com/")
+                    action OpenURL("https://github.com/DonRP")
                     xsize 80
                     ysize 80
                 imagebutton:
                     idle Frame(discord_idle, xfill=True, yfill=True)
                     hover Frame(discord_hover, xfill=True, yfill=True)
-                    action OpenURL("https://discordapp.com/invite/")
+                    action OpenURL("https://discord.gg/UdRJ5Yq85E")
                     xsize 80
                     ysize 80
                 imagebutton:
                     idle Frame(buymeacoffee_idle, xfill=True, yfill=True)
                     hover Frame(buymeacoffee_hover, xfill=True, yfill=True)
-                    action OpenURL("https://www.buymeacoffee.com/")
+                    action OpenURL("https://www.buymeacoffee.com/DRincs")
                     xsize 80
                     ysize 80
+                # imagebutton:
+                #     idle Frame(subscribestar_idle, xfill=True, yfill=True)
+                #     hover Frame(subscribestar_hover, xfill=True, yfill=True)
+                #     action OpenURL("https://www.subscribestar.com/")
+                #     xsize 80
+                #     ysize 80
                 imagebutton:
-                    idle Frame(subscribestar_idle, xfill=True, yfill=True)
-                    hover Frame(subscribestar_hover, xfill=True, yfill=True)
-                    action OpenURL("https://www.subscribestar.com/")
+                    idle Frame(translation_idle, xfill=True, yfill=True)
+                    hover Frame(translation_hover, xfill=True, yfill=True)
+                    action OpenURL("https://crowdin.com/project/bad-bobby-saga-the-return")
                     xsize 80
                     ysize 80
 
