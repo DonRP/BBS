@@ -4,11 +4,11 @@
 translate crowdin renaming_mc_24748d50:
 
     # "Player" "My name is:"
-    "Player" "My name is:"
+    "Giocatore" "Mi chiamo:"
 
 # game/tool/characters_handler.rpy:158
 translate crowdin renaming_mc_e6f6fb33:
 
     # "Player" "My surname is:"
-    "Player" "My surname is:"
+    "Giocatore" "Il mio cognome è:"
 
