@@ -4,7 +4,7 @@
 translate crowdin temporary_end_story_25e4d9c4:
 
     # "This is the temporary end (current version: [config.version]). You'll have to wait new update."
-    "This is the temporary end (current version: [config.version]). You'll have to wait new update."
+    "Questa una fine temporanea (versione corrente: [config.version]). Dovrai aspettare un nuovo aggiornamento."
 
 # game/tool/temporary_end.rpy:6
 translate crowdin temporary_end_story_2ea26734:
@@ -16,19 +16,19 @@ translate crowdin temporary_end_story_2ea26734:
 translate crowdin temporary_end_game_ae6086f7:
 
     # "Save the game now and not later."
-    "Save the game now and not later."
+    "Salva il gioco ora e non dopo."
 
 # game/tool/temporary_end.rpy:18
 translate crowdin temporary_end_game_e8ca7291:
 
     # "Pressing ENTER will return to the Main Menu."
-    "Pressing ENTER will return to the Main Menu."
+    "Premendo INVIO tornerai al menu principale."
 
 # game/tool/temporary_end.rpy:25
 translate crowdin coming_soon_368b820a:
 
     # "(Coming soon)"
-    "(Coming soon)"
+    "(Prossimamente)"
 
 # game/tool/temporary_end.rpy:26
 translate crowdin coming_soon_7ee8dad6:
