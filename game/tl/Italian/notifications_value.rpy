@@ -4,23 +4,23 @@ translate crowdin strings:
 
     # game/tool/notifications_value.rpy:1
     old "Is against a love affair with you"
-    new "Is against a love affair with you"
+    new "E' contraria ad una relazione di amore con te"
 
     # game/tool/notifications_value.rpy:2
     old "Has too much fear of you for a love affair"
-    new "Has too much fear of you for a love affair"
+    new "Ha troppa paura di te per una storia d'amore"
 
     # game/tool/notifications_value.rpy:4
     old "{color=#00ff00}{b}+{/b} Energy"
-    new "{color=#00ff00}{b}+{/b} Energy"
+    new "{color=#00ff00}{b}+{/b} Energia"
 
     # game/tool/notifications_value.rpy:5
     old "{color=#f00} {b}-{/b} Energy"
-    new "{color=#f00} {b}-{/b} Energy"
+    new "{color=#f00} {b}-{/b} Energia"
 
     # game/tool/notifications_value.rpy:6
     old "{color=#00ff00}{b}+{/b} Willpower"
-    new "{color=#00ff00}{b}+{/b} Willpower"
+    new "{color=#00ff00}{b}+{/b} Volontà"
 
     # game/tool/notifications_value.rpy:7
     old "{color=#f00} {b}-{/b} Willpower"
@@ -28,19 +28,19 @@ translate crowdin strings:
 
     # game/tool/notifications_value.rpy:8
     old "{color=#f00}{b}+{/b} Inhibition"
-    new "{color=#f00}{b}+{/b} Inhibition"
+    new "{color=#f00}{b}+{/b} Inibizione"
 
     # game/tool/notifications_value.rpy:9
     old "{color=#00ff00} {b}-{/b} Inhibition"
-    new "{color=#00ff00} {b}-{/b} Inhibition"
+    new "{color=#00ff00} {b}-{/b} Inibizione"
 
     # game/tool/notifications_value.rpy:10
     old "{color=#00ff00}{b}+{/b} Addictions"
-    new "{color=#00ff00}{b}+{/b} Addictions"
+    new "{color=#00ff00}{b}+{/b} Dipendenze"
 
     # game/tool/notifications_value.rpy:11
     old "{color=#f00} {b}-{/b} Addictions"
-    new "{color=#f00} {b}-{/b} Addictions"
+    new "{color=#f00} {b}-{/b} Dipendenze"
 
     # game/tool/notifications_value.rpy:12
     old "{color=#00ff00}{b}+{/b} Lust"
@@ -84,7 +84,7 @@ translate crowdin strings:
 
     # game/tool/notifications_value.rpy:23
     old "{color=#f00}{b}+{/b} Anger"
-    new "{color=#f00}{b}+{/b} Anger"
+    new "{color=#f00}{b}+{/b} Rabbia"
 
     # game/tool/notifications_value.rpy:24
     old "{color=#00ff00} {b}-{/b} Anger"
