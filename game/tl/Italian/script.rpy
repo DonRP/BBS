@@ -4,11 +4,11 @@
 translate crowdin start_c09080c3:
 
     # "Welcome to [config.name]"
-    "Welcome to [config.name]"
+    "Benvenuto a [config.name]"
 
 translate crowdin strings:
 
     # game/script.rpy:12
     old "Smurf"
-    new "Smurf"
+    new "Puffo"
 
