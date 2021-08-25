@@ -86,7 +86,7 @@ label intro:
     with fade
     "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
     "Murtaugh" "The real question is whether there is more of a thief or more of a killer."
-    "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+    "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
     show prologue B02
     with fade
     show prologue B05
