@@ -16,5 +16,5 @@ translate crowdin strings:
 
     # game/tool/time_label.rpy:4
     old "You can't do it now"
-    new "You can't do it now"
+    new "Non puoi farlo ora"
 
