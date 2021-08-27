@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+"X-Crowdin-Project: bad-bobby-saga-the-return\n"
+"X-Crowdin-Project-ID: 473156\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /[DonRP.BBS] master/game/tl/crowdin/tool/action_label.po\n"
+"X-Crowdin-File-ID: 579\n"
+"Project-Id-Version: bad-bobby-saga-the-return\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"PO-Revision-Date: 2021-08-27 14:15\n"
+
+msgid "ERROR"
+msgstr ""
+
+msgid "In development"
+msgstr ""
+
+#    # game/tool/action_label.rpy:10
+msgid "Nap for 3 hour"
+msgstr ""
+
+#    # game/tool/action_label.rpy:10
+msgid "Sleep"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "What time do you want to set the alarm?"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "[tm.hour_new_day]:00"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "7:00"
+msgstr ""
+
+#    # game/tool/action_label.rpy:23
+msgid "9:00"
+msgstr ""
+
