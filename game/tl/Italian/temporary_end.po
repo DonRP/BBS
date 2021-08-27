@@ -11,23 +11,23 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 14:14\n"
+"PO-Revision-Date: 2021-08-27 14:36\n"
 
 msgid "This is the temporary end (current version: [config.version]). You'll have to wait new update."
-msgstr ""
+msgstr "Questa è la fine temporanea (versione corrente: [config.version]). Dovrai attendere un nuovo aggiornamento."
 
 msgid "If you want more updates, support me on {a=https://www.patreon.com/TeamSaga}Patreon"
 msgstr ""
 
 msgid "Save the game now and not later."
-msgstr ""
+msgstr "Salva il gioco ora e non più tardi."
 
 msgid "Pressing ENTER will return to the Main Menu."
-msgstr ""
+msgstr "Premendo INVIO tornerai al menu principale."
 
 msgid "(Coming soon)"
-msgstr ""
+msgstr "(Prossimamente)"
 
 msgid "Support me on {a=https://www.patreon.com/TeamSaga}Patreon"
-msgstr ""
+msgstr "Sostienimi su {a=https://www.patreon.com/TeamSaga}Patreon"
 
