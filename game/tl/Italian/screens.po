@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 14:15\n"
+"PO-Revision-Date: 2021-08-27 14:36\n"
 
 #    # game/tool/screens.rpy:188
 msgid "Talk"
-msgstr ""
+msgstr "Parla"
 
 #    # game/tool/screens.rpy:196
 msgid "Wait"
-msgstr ""
+msgstr "Attendere"
 
 #    # game/tool/screens.rpy:229
 msgid "Settings"
-msgstr ""
+msgstr "Impostazioni"
 
 #    # game/tool/screens.rpy:239
 msgid "Characters info"
-msgstr ""
+msgstr "Informazioni sui personaggi"
 
 #    # game/tool/screens.rpy:250
 msgid "Memo"
-msgstr ""
+msgstr "Promemoria"
 
 #    # game/tool/screens.rpy:277
 msgid "Backpack"
-msgstr ""
+msgstr "Zaino"
 
 #    # game/tool/screens.rpy:287
 msgid "Smartphone"
-msgstr ""
+msgstr "Cellulare"
 
 #    # game/tool/screens.rpy:297
 msgid "Map"
-msgstr ""
+msgstr "Mappa"
 
 #    # game/tool/screens.rpy:383
 msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
-msgstr ""
+msgstr "È attualmente la fine di questa storia, purtroppo devi aspettare un aggiornamento per continuare questa storia."
 
 #    # game/tool/screens.rpy:385
 msgid "You have completed all the quests."
-msgstr ""
+msgstr "Hai completato tutte le missioni."
 
