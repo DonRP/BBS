@@ -1,5 +1,5 @@
 files:
-  - source: /game/tl/crowdin/**/*.rpy
+  - source: /game/tl/crowdin/**/*
     ignore:
       - /game/tl/crowdin/common.rpy
       - /game/tl/crowdin/screens.rpy
