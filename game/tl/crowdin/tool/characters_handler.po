@@ -3,12 +3,12 @@
 # game/tool/characters_handler.rpy:156
 # translate crowdin renaming_mc_24748d50:
 
-msgid "Player" "My name is:"
-msgstr "Player" "My name is:"
+msgid "Player[2double_postrophe]My name is:"
+msgstr "Player[2double_postrophe]My name is:"
 
 # game/tool/characters_handler.rpy:158
 # translate crowdin renaming_mc_e6f6fb33:
 
-msgid "Player" "My surname is:"
-msgstr "Player" "My surname is:"
+msgid "Player[2double_postrophe]My surname is:"
+msgstr "Player[2double_postrophe]My surname is:"
 
