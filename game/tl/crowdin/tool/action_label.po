@@ -1,40 +1,40 @@
 ﻿# TODO: Translation updated at 2021-08-24 18:55
 
 # game/tool/action_label.rpy:43
-translate crowdin error_label_cde7440f:
+# translate crowdin error_label_cde7440f:
 
-    # "ERROR"
-    "ERROR"
+msgid "ERROR"
+msgstr "ERROR"
 
 # game/tool/action_label.rpy:47
-translate crowdin development_62f6e59d:
+# translate crowdin development_62f6e59d:
 
-    # "In development"
-    "In development"
+msgid "In development"
+msgstr "In development"
 
-translate crowdin strings:
+# translate crowdin strings:
 
-    # game/tool/action_label.rpy:10
-    old "Nap for 3 hour"
-    new "Nap for 3 hour"
+#    # game/tool/action_label.rpy:10
+msgid "Nap for 3 hour"
+msgstr "Nap for 3 hour"
 
-    # game/tool/action_label.rpy:10
-    old "Sleep"
-    new "Sleep"
+#    # game/tool/action_label.rpy:10
+msgid "Sleep"
+msgstr "Sleep"
 
-    # game/tool/action_label.rpy:23
-    old "What time do you want to set the alarm?"
-    new "What time do you want to set the alarm?"
+#    # game/tool/action_label.rpy:23
+msgid "What time do you want to set the alarm?"
+msgstr "What time do you want to set the alarm?"
 
-    # game/tool/action_label.rpy:23
-    old "[tm.hour_new_day]:00"
-    new "[tm.hour_new_day]:00"
+#    # game/tool/action_label.rpy:23
+msgid "[tm.hour_new_day]:00"
+msgstr "[tm.hour_new_day]:00"
 
-    # game/tool/action_label.rpy:23
-    old "7:00"
-    new "7:00"
+#    # game/tool/action_label.rpy:23
+msgid "7:00"
+msgstr "7:00"
 
-    # game/tool/action_label.rpy:23
-    old "9:00"
-    new "9:00"
+#    # game/tool/action_label.rpy:23
+msgid "9:00"
+msgstr "9:00"
 
