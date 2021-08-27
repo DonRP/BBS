@@ -3,262 +3,254 @@
 # game/labels/prologue.rpy:53
 # translate crowdin intro_8579f776:
 
-msgid "Newbie" "Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr "Newbie" "Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
+msgid "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
+msgstr "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 
 # game/labels/prologue.rpy:54
 # translate crowdin intro_91afd8ba:
 
-msgid "Policewoman" "No!"
-msgstr "Policewoman" "No!"
+msgid "Policewoman[2double_postrophe]No!"
+msgstr "Policewoman[2double_postrophe]No!"
 
 # game/labels/prologue.rpy:55
 # translate crowdin intro_b8550983:
 
-msgid "Newbie" "Me neither, but I've heard good things about it. We could..."
-msgstr "Newbie" "Me neither, but I've heard good things about it. We could..."
+msgid "Newbie[2double_postrophe]Me neither, but I've heard good things about it. We could..."
+msgstr "Newbie[2double_postrophe]Me neither, but I've heard good things about it. We could..."
 
 # game/labels/prologue.rpy:56
 # translate crowdin intro_56665528:
 
-msgid "Policewoman" "No!!!"
-msgstr "Policewoman" "No!!!"
+msgid "Policewoman[2double_postrophe]No!!!"
+msgstr "Policewoman[2double_postrophe]No!!!"
 
 # game/labels/prologue.rpy:57
 # translate crowdin intro_2d2db388:
 
-msgid "Newbie" "Um... I didn't mean to hit on you it was just to get to know you a little bit."
-msgstr "Newbie" "Um... I didn't mean to hit on you it was just to get to know you a little bit."
+msgid "Newbie[2double_postrophe]Um... I didn't mean to hit on you it was just to get to know you a little bit."
+msgstr "Newbie[2double_postrophe]Um... I didn't mean to hit on you it was just to get to know you a little bit."
 
 # game/labels/prologue.rpy:58
 # translate crowdin intro_7122b427:
 
-msgid "Policewoman" "Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-msgstr "Policewoman" "Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
+msgid "Policewoman[2double_postrophe]Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
+msgstr "Policewoman[2double_postrophe]Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
 
 # game/labels/prologue.rpy:59
 # translate crowdin intro_5764f902:
 
-msgid "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-msgstr "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
+msgid "Policewoman[2double_postrophe]Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
+msgstr "Policewoman[2double_postrophe]Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
 
 # game/labels/prologue.rpy:60
 # translate crowdin intro_3f42f6d8:
 
-msgid "Newbie" "Yes! Mrs!"
-msgstr "Newbie" "Yes! Mrs!"
+msgid "Newbie[2double_postrophe]Yes! Mrs!"
+msgstr "Newbie[2double_postrophe]Yes! Mrs!"
 
 # game/labels/prologue.rpy:63
 # translate crowdin intro_b446d53c:
 
-msgid "Policewoman" "Okay, we're here."
-msgstr "Policewoman" "Okay, we're here."
+msgid "Policewoman[2double_postrophe]Okay, we're here."
+msgstr "Policewoman[2double_postrophe]Okay, we're here."
 
 # game/labels/prologue.rpy:66
 # translate crowdin intro_33059159:
 
-msgid "Policewoman" "Newbie, let's see how canvas cables move a handcuffed thug."
-msgstr "Policewoman" "Newbie, let's see how canvas cables move a handcuffed thug."
+msgid "Policewoman[2double_postrophe]Newbie, let's see how canvas cables move a handcuffed thug."
+msgstr "Policewoman[2double_postrophe]Newbie, let's see how canvas cables move a handcuffed thug."
 
 # game/labels/prologue.rpy:67
 # translate crowdin intro_3f8277d3:
 
-msgid "Newbie" "You heard her, the back! Today is your big day..."
-msgstr "Newbie" "You heard her, the back! Today is your big day..."
+msgid "Newbie[2double_postrophe]You heard her, the back! Today is your big day..."
+msgstr "Newbie[2double_postrophe]You heard her, the back! Today is your big day..."
 
 # game/labels/prologue.rpy:76
 # translate crowdin intro_768a94bf:
 
-msgid "Cop" "Make cheese..."
-msgstr "Cop" "Make cheese..."
+msgid "Cop[2double_postrophe]Make cheese..."
+msgstr "Cop[2double_postrophe]Make cheese..."
 
 # game/labels/prologue.rpy:77
 # translate crowdin intro_61c6935c:
 
-msgid "Cop" "Okay, now let's see who we have here today:"
-msgstr "Cop" "Okay, now let's see who we have here today:"
+msgid "Cop[2double_postrophe]Okay, now let's see who we have here today:"
+msgstr "Cop[2double_postrophe]Okay, now let's see who we have here today:"
 
 # game/labels/prologue.rpy:78
 # translate crowdin intro_bf5c44e3:
 
-msgid "Cop" "Name:"
-msgstr "Cop" "Name:"
+msgid "Cop[2double_postrophe]Name:"
+msgstr "Cop[2double_postrophe]Name:"
 
 # game/labels/prologue.rpy:81
 # translate crowdin intro_a936d40f:
 
-msgid "Cop" "Surname:"
-msgstr "Cop" "Surname:"
+msgid "Cop[2double_postrophe]Surname:"
+msgstr "Cop[2double_postrophe]Surname:"
 
 # game/labels/prologue.rpy:83
 # translate crowdin intro_751c66ec:
 
-msgid "Cop" "Age: 24 years."
-msgstr "Cop" "Age: 24 years."
+msgid "Cop[2double_postrophe]Age: 24 years."
+msgstr "Cop[2double_postrophe]Age: 24 years."
 
 # game/labels/prologue.rpy:84
 # translate crowdin intro_b80ea27f:
 
-msgid "Cop" "Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
-msgstr "Cop" "Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
+msgid "Cop[2double_postrophe]Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
+msgstr "Cop[2double_postrophe]Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
 
 # game/labels/prologue.rpy:87
 # translate crowdin intro_7c0e1f1a:
 
-msgid "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
-msgstr "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
+msgid "Riggs[2double_postrophe]Here he is! Our suspect... How about that... he has a face like a criminal."
+msgstr "Riggs[2double_postrophe]Here he is! Our suspect... How about that... he has a face like a criminal."
 
 # game/labels/prologue.rpy:88
 # translate crowdin intro_7ff89330:
 
-msgid "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
-msgstr "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
+msgid "Murtaugh[2double_postrophe]The real question is whether he is more of a thief or more of a killer."
+msgstr "Murtaugh[2double_postrophe]The real question is whether he is more of a thief or more of a killer."
 
 # game/labels/prologue.rpy:89
 # translate crowdin intro_b8f8393d:
 
-msgid "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
-msgstr "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+msgid "Murtaugh[2double_postrophe]Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+msgstr "Murtaugh[2double_postrophe]Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
 
 # game/labels/prologue.rpy:96
 # translate crowdin intro_e8dc01e6:
 
-msgid "Riggs" "YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-msgstr "Riggs" "YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
+msgid "Riggs[2double_postrophe]YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
+msgstr "Riggs[2double_postrophe]YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
 
 # game/labels/prologue.rpy:97
 # translate crowdin intro_3d9c7f8e:
 
-msgid "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
-msgstr "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
+msgid "Murtaugh[2double_postrophe]Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
+msgstr "Murtaugh[2double_postrophe]Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
 
 # game/labels/prologue.rpy:104
 # translate crowdin intro_a1a31ebe:
 
-msgid "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+msgid "Murtaugh[2double_postrophe]Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+msgstr "Murtaugh[2double_postrophe]Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
 
 # game/labels/prologue.rpy:108
 # translate crowdin intro_f7cf171f:
 
-msgid "Riggs" "Whereas, she..."
-msgstr "Riggs" "Whereas, she..."
+msgid "Riggs[2double_postrophe]Whereas, she..."
+msgstr "Riggs[2double_postrophe]Whereas, she..."
 
 # game/labels/prologue.rpy:110
 # translate crowdin intro_03b3b897:
 
-msgid "Riggs" "Your..."
-msgstr "Riggs" "Your..."
+msgid "Riggs[2double_postrophe]Your..."
+msgstr "Riggs[2double_postrophe]Your..."
 
 # game/labels/prologue.rpy:112
 # translate crowdin intro_cb092682:
 
-msgid "Riggs" "Was desperate to help you, while you didn't care. Right?"
-msgstr "Riggs" "Was desperate to help you, while you didn't care. Right?"
+msgid "Riggs[2double_postrophe]Was desperate to help you, while you didn't care. Right?"
+msgstr "Riggs[2double_postrophe]Was desperate to help you, while you didn't care. Right?"
 
 # game/labels/prologue.rpy:113
 # translate crowdin intro_7ef8ffc8:
 
-msgid "Murtaugh" "Let's rewind..."
-msgstr "Murtaugh" "Let's rewind..."
+msgid "Murtaugh[2double_postrophe]Let's rewind..."
+msgstr "Murtaugh[2double_postrophe]Let's rewind..."
 
 # game/labels/prologue.rpy:127
 # translate crowdin intro_2904e7aa:
 
-msgid "Murtaugh" "Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
-msgstr "Murtaugh" "Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
+msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
+msgstr "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
 
 # game/labels/prologue.rpy:129
 # translate crowdin intro_b6a64605:
 
-msgid "Murtaugh" "The children of the man who impregnated her when she was only 18 and then left her."
-msgstr "Murtaugh" "The children of the man who impregnated her when she was only 18 and then left her."
+msgid "Murtaugh[2double_postrophe]The children of the man who impregnated her when she was only 18 and then left her."
+msgstr "Murtaugh[2double_postrophe]The children of the man who impregnated her when she was only 18 and then left her."
 
 # game/labels/prologue.rpy:131
 # translate crowdin intro_ebe73251:
 
-msgid "Murtaugh" "Not recognizing his daughter..."
-msgstr "Murtaugh" "Not recognizing his daughter..."
+msgid "Murtaugh[2double_postrophe]Not recognizing his daughter..."
+msgstr "Murtaugh[2double_postrophe]Not recognizing his daughter..."
 
 # game/labels/prologue.rpy:134
 # translate crowdin intro_bd6b4b60:
 
-msgid "Murtaugh" "After that she tried to rebuild her life by having another daughter by a better man...."
-msgstr "Murtaugh" "After that she tried to rebuild her life by having another daughter by a better man...."
+msgid "Murtaugh[2double_postrophe]After that she tried to rebuild her life by having another daughter by a better man...."
+msgstr "Murtaugh[2double_postrophe]After that she tried to rebuild her life by having another daughter by a better man...."
 
 # game/labels/prologue.rpy:148
 # translate crowdin intro_0c196394:
 
-msgid "Murtaugh" "Anna after your mother died, she decided to bring you into her home..."
-msgstr "Murtaugh" "Anna after your mother died, she decided to bring you into her home..."
+msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you into her home..."
+msgstr "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you into her home..."
 
 # game/labels/prologue.rpy:149
 # translate crowdin intro_dcd4541b:
 
-msgid "Murtaugh" "Although you are the son of her ex-boyfriend."
-msgstr "Murtaugh" "Although you are the son of her ex-boyfriend."
+msgid "Murtaugh[2double_postrophe]Although you are the son of her ex-boyfriend."
+msgstr "Murtaugh[2double_postrophe]Although you are the son of her ex-boyfriend."
 
 # game/labels/prologue.rpy:151
 # translate crowdin intro_67da7ce3:
 
-msgid "Murtaugh" "Treating you like another son, making you sleep under the same roof as his daughters..."
-msgstr "Murtaugh" "Treating you like another son, making you sleep under the same roof as his daughters..."
+msgid "Murtaugh[2double_postrophe]Treating you like another son, making you sleep under the same roof as his daughters..."
+msgstr "Murtaugh[2double_postrophe]Treating you like another son, making you sleep under the same roof as his daughters..."
 
 # game/labels/prologue.rpy:154
 # translate crowdin intro_96eef14f:
 
-msgid "Murtaugh" "And..."
-msgstr "Murtaugh" "And..."
+msgid "Murtaugh[2double_postrophe]And..."
+msgstr "Murtaugh[2double_postrophe]And..."
 
 # game/labels/prologue.rpy:157
 # translate crowdin intro_3a06be21:
 
-msgid "Murtaugh" "and her leaseholder..."
-msgstr "Murtaugh" "and her leaseholder..."
+msgid "Murtaugh[2double_postrophe]and her leaseholder..."
+msgstr "Murtaugh[2double_postrophe]and her leaseholder..."
 
 # game/labels/prologue.rpy:169
 # translate crowdin intro_2dcadfc2:
 
-msgid "Riggs" "You don't talk huh?"
-msgstr "Riggs" "You don't talk huh?"
+msgid "Riggs[2double_postrophe]You don't talk huh?"
+msgstr "Riggs[2double_postrophe]You don't talk huh?"
 
 # game/labels/prologue.rpy:170
 # translate crowdin intro_7cf3b3c4:
 
-msgid "Riggs" "Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
-msgstr "Riggs" "Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
+msgid "Riggs[2double_postrophe]Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
+msgstr "Riggs[2double_postrophe]Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 
 # game/labels/prologue.rpy:173
 # translate crowdin intro_935e61f1:
 
-# msgid mc
-msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-# msgstr mc
-msgstr "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgstr "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
 
 # game/labels/prologue.rpy:174
 # translate crowdin intro_18e0ec68:
 
-# msgid mc
-msgid "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-# msgstr mc
-msgstr "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
+msgid "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
+msgstr "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
 
 # game/labels/prologue.rpy:175
 # translate crowdin intro_f700e86b:
 
-# msgid mc
-msgid "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-# msgstr mc
-msgstr "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
+msgid "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
+msgstr "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
 
 # game/labels/prologue.rpy:176
 # translate crowdin intro_2d7b920a:
 
-# msgid mc
-msgid "I'm starting to fall apart after that dream...."
-# msgstr mc
-msgstr "I'm starting to fall apart after that dream...."
+msgid "[TALKmc] I'm starting to fall apart after that dream...."
+msgstr "[TALKmc] I'm starting to fall apart after that dream...."
 
 # translate crowdin strings:
 
