@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-27 14:15\n"
+"PO-Revision-Date: 2021-08-27 14:35\n"
 
 msgid "ERROR"
-msgstr ""
+msgstr "ERRORE"
 
 msgid "In development"
-msgstr ""
+msgstr "In fase di sviluppo"
 
 #    # game/tool/action_label.rpy:10
 msgid "Nap for 3 hour"
-msgstr ""
+msgstr "Pisolino per 3 ore"
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
-msgstr ""
+msgstr "Dormi"
 
 #    # game/tool/action_label.rpy:23
 msgid "What time do you want to set the alarm?"
-msgstr ""
+msgstr "A che ora vuoi impostare la sveglia?"
 
 #    # game/tool/action_label.rpy:23
 msgid "[tm.hour_new_day]:00"
