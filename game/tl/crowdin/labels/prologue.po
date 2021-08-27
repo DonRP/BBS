@@ -231,30 +231,26 @@ msgstr "Riggs[2double_postrophe]Well, we have enough to keep you in for a few ni
 # game/labels/prologue.rpy:173
 # translate crowdin intro_935e61f1:
 
-# msgid mc
-msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgstr "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
 
 # game/labels/prologue.rpy:174
 # translate crowdin intro_18e0ec68:
 
-# msgid mc
-msgid "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-msgstr "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
+msgid "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
+msgstr "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
 
 # game/labels/prologue.rpy:175
 # translate crowdin intro_f700e86b:
 
-# msgid mc
-msgid "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-msgstr "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
+msgid "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
+msgstr "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
 
 # game/labels/prologue.rpy:176
 # translate crowdin intro_2d7b920a:
 
-# msgid mc
-msgid "I'm starting to fall apart after that dream...."
-msgstr "I'm starting to fall apart after that dream...."
+msgid "[TALKmc] I'm starting to fall apart after that dream...."
+msgstr "[TALKmc] I'm starting to fall apart after that dream...."
 
 # translate crowdin strings:
 
