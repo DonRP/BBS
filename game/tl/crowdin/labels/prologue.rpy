@@ -37,7 +37,7 @@ translate crowdin intro_7122b427:
     "Policewoman" "Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
 
 # game/labels/prologue.rpy:59
-translate crowdin intro_fbfacfa6:
+translate crowdin intro_5764f902:
 
     # "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
     "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
@@ -109,16 +109,16 @@ translate crowdin intro_7c0e1f1a:
     "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
 
 # game/labels/prologue.rpy:88
-translate crowdin intro_01d699dc:
+translate crowdin intro_7ff89330:
 
     # "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
     "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
 
 # game/labels/prologue.rpy:89
-translate crowdin intro_7ba7d0b8:
+translate crowdin intro_b8f8393d:
 
-    # "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
-    "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+    # "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+    "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
 
 # game/labels/prologue.rpy:96
 translate crowdin intro_e8dc01e6:
@@ -127,13 +127,13 @@ translate crowdin intro_e8dc01e6:
     "Riggs" "YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
 
 # game/labels/prologue.rpy:97
-translate crowdin intro_e670fa9d:
+translate crowdin intro_3d9c7f8e:
 
     # "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
     "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
 
 # game/labels/prologue.rpy:104
-translate crowdin intro_0c17df15:
+translate crowdin intro_a1a31ebe:
 
     # "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
     "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
@@ -157,7 +157,7 @@ translate crowdin intro_cb092682:
     "Riggs" "Was desperate to help you, while you didn't care. Right?"
 
 # game/labels/prologue.rpy:113
-translate crowdin intro_fcebb8bf:
+translate crowdin intro_7ef8ffc8:
 
     # "Murtaugh" "Let's rewind..."
     "Murtaugh" "Let's rewind..."
