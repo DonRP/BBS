@@ -233,7 +233,6 @@ msgstr "Riggs" "Well, we have enough to keep you in for a few nights. let's see 
 
 # msgid mc
 msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-# msgstr mc
 msgstr "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
 
 # game/labels/prologue.rpy:174
@@ -241,7 +240,6 @@ msgstr "What happened to me... I was such a happy child... I really thought I wa
 
 # msgid mc
 msgid "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-# msgstr mc
 msgstr "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
 
 # game/labels/prologue.rpy:175
@@ -249,7 +247,6 @@ msgstr "At first at [ann]'s house, it seemed to go well. I was really hoping it 
 
 # msgid mc
 msgid "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-# msgstr mc
 msgstr "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
 
 # game/labels/prologue.rpy:176
@@ -257,7 +254,6 @@ msgstr "But then from that cold late summer a few years ago... when Nokia was st
 
 # msgid mc
 msgid "I'm starting to fall apart after that dream...."
-# msgstr mc
 msgstr "I'm starting to fall apart after that dream...."
 
 # translate crowdin strings:
