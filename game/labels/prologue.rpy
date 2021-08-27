@@ -56,7 +56,7 @@ label intro:
     "Policewoman" "No!!!"
     "Newbie" "Um... I didn't mean to hit on you it was just to get to know you a little bit."
     "Policewoman" "Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-    "Policewoman" "Other than that, each to their own way , and each work has their own cases. And I'm not here to make friends. Clear!?"
+    "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
     "Newbie" "Yes! Mrs!"
     window hide
     pause
@@ -85,7 +85,7 @@ label intro:
     show prologue B01 at center_delay(0.1)
     with fade
     "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
-    "Murtaugh" "The real question is whether there is more of a thief or more of a killer."
+    "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
     "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
     show prologue B02
     with fade
@@ -94,14 +94,14 @@ label intro:
     show prologue B03A
     with fade
     "Riggs" "YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-    "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner in crime was."
+    "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
     show prologue B05
     with fade
     show prologue B03B
     with fade
     show prologue B04
     with fade
-    "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of reformers..."
+    "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
     show icon ann at center_delay(0.1)
     if renpy.variant("pc"):
         show prologue B04 blur with dissolve
@@ -110,7 +110,7 @@ label intro:
     "Riggs" "Your..."
     $ annR.changeNPClabel()
     "Riggs" "Was desperate to help you, while you didn't care. Right?"
-    "Murtaugh" "Let's go further back..."
+    "Murtaugh" "Let's rewind..."
     if (annR.NPClabel.lower() == __("mom") or annR.NPClabel.lower() == __("mother")):
         $ bl_values["incs"] = True
         $ annR.MClabel = __("step son")
@@ -174,7 +174,5 @@ label intro:
     mc "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
     mc "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
     mc "I'm starting to fall apart after that dream...."
-
-
-label intro_dream:
+    hide prologue
     return

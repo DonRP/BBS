@@ -39,8 +39,8 @@ translate crowdin intro_7122b427:
 # game/labels/prologue.rpy:59
 translate crowdin intro_fbfacfa6:
 
-    # "Policewoman" "Other than that, each to their own way , and each work has their own cases. And I'm not here to make friends. Clear!?"
-    "Policewoman" "Other than that, each to their own way , and each work has their own cases. And I'm not here to make friends. Clear!?"
+    # "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
+    "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
 
 # game/labels/prologue.rpy:60
 translate crowdin intro_3f42f6d8:
@@ -111,8 +111,8 @@ translate crowdin intro_7c0e1f1a:
 # game/labels/prologue.rpy:88
 translate crowdin intro_01d699dc:
 
-    # "Murtaugh" "The real question is whether there is more of a thief or more of a killer."
-    "Murtaugh" "The real question is whether there is more of a thief or more of a killer."
+    # "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
+    "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
 
 # game/labels/prologue.rpy:89
 translate crowdin intro_7ba7d0b8:
@@ -129,14 +129,14 @@ translate crowdin intro_e8dc01e6:
 # game/labels/prologue.rpy:97
 translate crowdin intro_e670fa9d:
 
-    # "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner in crime was."
-    "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner in crime was."
+    # "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
+    "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
 
 # game/labels/prologue.rpy:104
 translate crowdin intro_0c17df15:
 
-    # "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of reformers..."
-    "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of reformers..."
+    # "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+    "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
 
 # game/labels/prologue.rpy:108
 translate crowdin intro_f7cf171f:
@@ -159,8 +159,8 @@ translate crowdin intro_cb092682:
 # game/labels/prologue.rpy:113
 translate crowdin intro_fcebb8bf:
 
-    # "Murtaugh" "Let's go further back..."
-    "Murtaugh" "Let's go further back..."
+    # "Murtaugh" "Let's rewind..."
+    "Murtaugh" "Let's rewind..."
 
 # game/labels/prologue.rpy:127
 translate crowdin intro_2904e7aa:
