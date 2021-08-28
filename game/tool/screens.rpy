@@ -198,7 +198,7 @@ screen room_navigation():
                 for act in getActions(room):
                     if (act.is_in_room == True):
                         imagebutton:
-                            pos (act.xpos, act.ypos)
+                            align (act.xalign, act.yalign)
                             idle act.icon
                             if not act.icon_selected == None:
                                 hover act.icon_selected
