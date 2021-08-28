@@ -28,6 +28,7 @@ label start:
     # The real start of the game
     stop music fadeout 1.0
     call screen check_age
+    show screen watermark
     "Welcome to [config.name]"
 
     call intro
