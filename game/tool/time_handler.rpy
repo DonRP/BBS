@@ -88,14 +88,10 @@ init python:
             return True
 
         def update_image_time(self):
-            if (self.get_hour_name() == "Evening"):
-                self.image_time = 2
-            elif (self.get_hour_name() == "Night"):
-                self.image_time = 3
-            elif (self.get_hour_name() == "Morning"):
-                self.image_time = 0
-            else:
+            if (self.get_hour_name() == "Night"):
                 self.image_time = 1
+            else:
+                self.image_time = 0
 
         def new_day(self):
             self.hour = self.hour_new_day
