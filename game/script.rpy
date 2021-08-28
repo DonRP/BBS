@@ -26,6 +26,7 @@ default jnnR = Relationship("housemate", "housemate", True)
 
 label start:
     # The real start of the game
+    stop music fadeout 1.0
     call screen check_age
     "Welcome to [config.name]"
 

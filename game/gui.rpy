@@ -114,6 +114,12 @@ define buymeacoffee_idle = "gui/logos/buymeacoffee.webp"
 define buymeacoffee_hover = im.MatrixColor("gui/logos/buymeacoffee.webp", im.matrix.brightness(0.1))
 define translation_idle = "gui/logos/translation.webp"
 define translation_hover = im.MatrixColor("gui/logos/translation.webp", im.matrix.brightness(0.1))
+# Link
+define patreon_link = "https://www.patreon.com/TeamSaga"
+define discord_link = "https://discord.gg/UdRJ5Yq85E"
+define github_link = "https://github.com/DonRP/BBS"
+define subscribestar_link = "https://www.subscribestar.com/"
+define buymeacoffee_link = "https://www.buymeacoffee.com/DRincs"
 
 
 ## Dialogue ####################################################################
