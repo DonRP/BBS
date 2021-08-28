@@ -10,73 +10,73 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-08-27 15:20\n"
+"PO-Revision-Date: 2021-08-28 15:34\n"
 
 msgid "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr ""
+msgstr "Débutant[2double_postrophe]Avez-vous essayé ce nouveau restaurant italien... comment s’appelait-il?! Ah bon ! Da Luigi."
 
 msgid "Policewoman[2double_postrophe]No!"
-msgstr ""
+msgstr "Policière[2double_postrophe]Non!"
 
 msgid "Newbie[2double_postrophe]Me neither, but I've heard good things about it. We could..."
-msgstr ""
+msgstr "Newbie[2double_postrophe]Moi non plus, mais j'ai entendu de bonnes choses à ce sujet. On pourrait ..."
 
 msgid "Policewoman[2double_postrophe]No!!!"
-msgstr ""
+msgstr "Policière[2double_postrophe]Non!!!"
 
 msgid "Newbie[2double_postrophe]Um... I didn't mean to hit on you it was just to get to know you a little bit."
-msgstr ""
+msgstr "Débutant[2double_postrophe]Um... Je ne voulais pas vous frapper, c’était juste pour apprendre à vous connaître un peu."
 
 msgid "Policewoman[2double_postrophe]Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-msgstr ""
+msgstr "Policière[2double_postrophe]Rookie, j’ai déjà expliqué... Je suis seulement là pour que tu ne te fasses pas tuer et parce que le patron dit que je ne peux pas travailler seul... Des conneries !"
 
 msgid "Policewoman[2double_postrophe]Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-msgstr ""
+msgstr "Policière[2double_postrophe]En dehors de cela, à chacun son propre cas, et à son propre cas. Je ne suis pas là pour me faire des amis. Compris?"
 
 msgid "Newbie[2double_postrophe]Yes! Mrs!"
-msgstr ""
+msgstr "Débutant[2double_postrophe]Oui! Madame!"
 
 msgid "Policewoman[2double_postrophe]Okay, we're here."
-msgstr ""
+msgstr "Policière[2double_postrophe]D’accord, nous sommes là."
 
 msgid "Policewoman[2double_postrophe]Newbie, let's see how canvas cables move a handcuffed thug."
-msgstr ""
+msgstr "Policière[2double_postrophe]Newbie, voyons comment les câbles en toile déplacent un voyou menotté."
 
 msgid "Newbie[2double_postrophe]You heard her, the back! Today is your big day..."
-msgstr ""
+msgstr "Débutant[2double_postrophe]Vous l’avez entendue, le dos! Aujourd’hui, c’est votre grand jour..."
 
 msgid "Cop[2double_postrophe]Make cheese..."
-msgstr ""
+msgstr "Flic[2double_postrophe]Faire du fromage..."
 
 msgid "Cop[2double_postrophe]Okay, now let's see who we have here today:"
-msgstr ""
+msgstr "Cop[2double_postrophe]D’accord, voyons maintenant qui nous avons ici aujourd’hui:"
 
 msgid "Cop[2double_postrophe]Name:"
-msgstr ""
+msgstr "Policier[2double_postrophe]Nom:"
 
 msgid "Cop[2double_postrophe]Surname:"
-msgstr ""
+msgstr "Policier[2double_postrophe]Prénom:"
 
 msgid "Cop[2double_postrophe]Age: 24 years."
-msgstr ""
+msgstr "Policier[2double_postrophe]Age: 24 ans."
 
 msgid "Cop[2double_postrophe]Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
-msgstr ""
+msgstr "Policier[2double_postrophe]Bien ! Allez maintenant directement dans la salle d’interrogatoire et attendez les officiers Murtaugh et Riggs."
 
 msgid "Riggs[2double_postrophe]Here he is! Our suspect... How about that... he has a face like a criminal."
-msgstr ""
+msgstr "Riggs[2double_postrophe]Le voici! Notre suspect... Que dites-vous de cela... il a un visage de criminel."
 
 msgid "Murtaugh[2double_postrophe]The real question is whether he is more of a thief or more of a killer."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]La vraie question est de savoir si c'est plus un voleur ou plus un tueur."
 
 msgid "Murtaugh[2double_postrophe]Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Oh désolé, j’oubliais mes manières. Nous sommes Murtaugh et Riggs, et vous... devez être [mc]! AKA le méchant!"
 
 msgid "Riggs[2double_postrophe]YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-msgstr ""
+msgstr "Riggs[2double_postrophe]VOUS PENSEZ QUE C’EST UN JEU!!! VOULEZ-VOUS FINIR COMME VOTRE PÈRE???"
 
 msgid "Murtaugh[2double_postrophe]Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Riggs doucement. Mec, je sais que tu ne l’as pas fait. Tu dois nous dire qui est ton complice."
 
 msgid "Murtaugh[2double_postrophe]Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
 msgstr ""
@@ -85,13 +85,13 @@ msgid "Riggs[2double_postrophe]Whereas, she..."
 msgstr ""
 
 msgid "Riggs[2double_postrophe]Your..."
-msgstr ""
+msgstr "Riggs[2double_postrophe]Votre..."
 
 msgid "Riggs[2double_postrophe]Was desperate to help you, while you didn't care. Right?"
 msgstr ""
 
 msgid "Murtaugh[2double_postrophe]Let's rewind..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Recommencons..."
 
 msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
 msgstr ""
@@ -155,27 +155,27 @@ msgstr ""
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
-msgstr ""
+msgstr "maman"
 
 #    # game/labels/prologue.rpy:114
 msgid "mother"
-msgstr ""
+msgstr "mère"
 
 #    # game/labels/prologue.rpy:116
 msgid "step son"
-msgstr ""
+msgstr "beau fils"
 
 #    # game/labels/prologue.rpy:117
 msgid "step mom"
-msgstr ""
+msgstr "belle-mère"
 
 #    # game/labels/prologue.rpy:120
 msgid "brother"
-msgstr ""
+msgstr "frère"
 
 #    # game/labels/prologue.rpy:121
 msgid "sister"
-msgstr ""
+msgstr "sœur"
 
 #    # game/labels/prologue.rpy:122
 msgid "step brother"
