@@ -8,16 +8,19 @@ image icon lucy = "/icon_lucy.webp"
 image icon mcroom = "location/mcroom-icon.webp"
 image icon lizaroom = "location/lizaroom-icon.webp"
 image icon livingroom = "location/livingroom-icon.webp"
+image icon kitchen = "location/kitchen-icon.webp"
 
 image icon mcroom a = im.MatrixColor("location/mcroom-icon.webp", im.matrix.brightness(-0.5))
 image icon lizaroom a = im.MatrixColor("location/lizaroom-icon.webp", im.matrix.brightness(-0.5))
 image icon livingroom a = im.MatrixColor("location/livingroom-icon.webp", im.matrix.brightness(-0.5))
+image icon kitchen a = im.MatrixColor("location/kitchen-icon.webp", im.matrix.brightness(-0.5))
 
 ## Background
 # location
 image bg mcroom = "location/mcroom-[tm.image_time].webp"
 image bg lizaroom = "location/lizaroom-[tm.image_time].webp"
 image bg livingroom = "location/livingroom-[tm.image_time].webp"
+image bg kitchen = "location/kitchen-[tm.image_time].webp"
 
 # Anna
 image bg AnnaMCRoom A01A = "/Anna-MCRoom/A01A.webp"
