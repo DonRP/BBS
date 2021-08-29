@@ -10,38 +10,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-08-27 15:19\n"
+"PO-Revision-Date: 2021-08-29 15:37\n"
 
 msgid "[TALKmc] Hi [a]"
-msgstr ""
+msgstr "[TALKmc] Bonjour [a]"
 
 msgid "[TALKa] Hi, can you tell me something?"
-msgstr ""
+msgstr "[TALKa] Bonjour, pouvez-vous me dire quelque chose?"
 
 msgid "Now is busy test later."
-msgstr ""
+msgstr "est occupé test plus tard."
 
 msgid "[TALKmc] OK, I'm off. See you."
-msgstr ""
+msgstr "[TALKmc] OK, je suis épuisé. A plus tard."
 
 msgid "[TALKmc] It's getting late. See you."
-msgstr ""
+msgstr "[TALKmc] Il se fait tard. A la prochaine."
 
 msgid "[TALKmc] Sorry, but I have to go now. Bye."
-msgstr ""
+msgstr "[TALKmc] Désolé, mais je dois y aller maintenant. Au revoir."
 
 msgid "[TALKmc] Good talk. We should do this more often."
-msgstr ""
+msgstr "[TALKmc] Bonne conversation. Nous devrions le faire plus souvent."
 
 msgid "[TALKmc] I just remembered something. Gotta go! Bye."
-msgstr ""
+msgstr "[TALKmc] je viens de me souvenir de quelque chose. Je dois y aller! Au revoir."
 
 msgid "[TALKmc] I won't keep you any longer. Bye."
-msgstr ""
+msgstr "[TALKmc] Je ne vous dérangerai pas plus longtemps. Au revoir."
 
 msgid "[TALKmc] I was supposed to tell you something else.... But I don't remember."
-msgstr ""
+msgstr "[TALKmc] j’étais censé vous dire autre chose... Mais je ne m’en souviens pas."
 
 msgid "[TALKmc] Patience when it comes back to me I'll let you know, bye."
-msgstr ""
+msgstr "[TALKmc] Patience quand ça me reviendra, je vous le ferai savoir, au revoir."
 
