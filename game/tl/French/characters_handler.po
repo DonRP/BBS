@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-08-27 15:20\n"
+"PO-Revision-Date: 2021-08-29 15:37\n"
 
 msgid "Player[2double_postrophe]My name is:"
-msgstr ""
+msgstr "Joueur[2double_postrophe]Mon nom est :"
 
 msgid "Player[2double_postrophe]My surname is:"
-msgstr ""
+msgstr "Joueur[2double_postrophe]Mon nom de famille est :"
 
