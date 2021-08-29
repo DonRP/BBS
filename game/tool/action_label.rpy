@@ -46,3 +46,17 @@ label error_label:
 label development:
     "In development"
     call screen room_navigation
+
+## BBS
+# Laptop
+label laptop:
+    call coming_soon
+    jump after_wait
+
+label laptop_liza:
+    call coming_soon
+    jump after_wait
+
+label go_kitchen:
+    $ cur_room = rooms[3] # kitchen
+    jump after_wait
