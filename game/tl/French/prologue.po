@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-08-28 15:34\n"
+"PO-Revision-Date: 2021-08-29 15:37\n"
 
 msgid "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Débutant[2double_postrophe]Avez-vous essayé ce nouveau restaurant italien... comment s’appelait-il?! Ah bon ! Da Luigi."
@@ -88,59 +88,59 @@ msgid "Riggs[2double_postrophe]Your..."
 msgstr "Riggs[2double_postrophe]Votre..."
 
 msgid "Riggs[2double_postrophe]Was desperate to help you, while you didn't care. Right?"
-msgstr ""
+msgstr "Riggs[2double_postrophe]était désespéré de vous aider, alors que vous ne vous en souciez pas. Droite?"
 
 msgid "Murtaugh[2double_postrophe]Let's rewind..."
 msgstr "Murtaugh[2double_postrophe]Recommencons..."
 
 msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Anna après la mort de votre mère, a décidé de vous amener, vous et votre [lizR.NPClabel] , chez elle..."
 
 msgid "Murtaugh[2double_postrophe]The children of the man who impregnated her when she was only 18 and then left her."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Les enfants de l’homme qui l’a fécondée alors qu’elle n’avait que 18 ans et l’a ensuite quittée."
 
 msgid "Murtaugh[2double_postrophe]Not recognizing his daughter..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Ne pas reconnaître sa fille..."
 
 msgid "Murtaugh[2double_postrophe]After that she tried to rebuild her life by having another daughter by a better man...."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Après cela, elle a essayé de reconstruire sa vie en ayant une autre fille avec un homme meilleur...."
 
 msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you into her home..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Anna après la mort de votre mère, a décidé de vous amener chez elle..."
 
 msgid "Murtaugh[2double_postrophe]Although you are the son of her ex-boyfriend."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Bien que vous soyez le fils de son ex-petit ami."
 
 msgid "Murtaugh[2double_postrophe]Treating you like another son, making you sleep under the same roof as his daughters..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Vous traiter comme un autre fils, vous faire dormir sous le même toit que ses filles..."
 
 msgid "Murtaugh[2double_postrophe]And..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]Et..."
 
 msgid "Murtaugh[2double_postrophe]and her leaseholder..."
-msgstr ""
+msgstr "Murtaugh[2double_postrophe]et son locataire..."
 
 msgid "Riggs[2double_postrophe]You don't talk huh?"
-msgstr ""
+msgstr "Riggs[2double_postrophe]Tu ne parles pas hein?"
 
 msgid "Riggs[2double_postrophe]Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
-msgstr ""
+msgstr "Riggs[2double_postrophe]Eh bien, nous avons assez pour vous garder pendant quelques nuits. voyons si vous changez d’avis!"
 
 msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr ""
+msgstr "[TALKmc] Qu’est-ce qui m’est arrivé... J’étais un enfant si heureux... Je pensais vraiment que je laissais toute la douleur derrière moi."
 
 msgid "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-msgstr ""
+msgstr "[TALKmc] Au début, chez [ann], ça semblait bien se passer. J’espérais vraiment que tout irait bien."
 
 msgid "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-msgstr ""
+msgstr "[TALKmc] Mais à partir de cette froide fin d’été il y a quelques années... quand Nokia était encore une bonne marque de smartphones."
 
 msgid "[TALKmc] I'm starting to fall apart after that dream...."
-msgstr ""
+msgstr "[TALKmc] je commence à m’effondrer après ce rêve...."
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
-msgstr ""
+msgstr "Un grand merci"
 
 #    # game/labels/prologue.rpy:46
 msgid "3D Modeling\n"
@@ -151,7 +151,14 @@ msgid "3D Modeling\n"
 "bxIvan\n"
 "Megaplayboy10k\n"
 "SummmerP"
-msgstr ""
+msgstr "Modélisation 3D\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Divers\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
@@ -179,21 +186,21 @@ msgstr "sœur"
 
 #    # game/labels/prologue.rpy:122
 msgid "step brother"
-msgstr ""
+msgstr "demi-frère"
 
 #    # game/labels/prologue.rpy:123
 msgid "step sister"
-msgstr ""
+msgstr "demi-sœur"
 
 #    # game/labels/prologue.rpy:138
 msgid "landlord"
-msgstr ""
+msgstr "propriétaire"
 
 #    # game/labels/prologue.rpy:139
 msgid "leaseholder"
-msgstr ""
+msgstr "locataire"
 
 #    # game/labels/prologue.rpy:142
 msgid "housemate"
-msgstr ""
+msgstr "colocataire"
 
