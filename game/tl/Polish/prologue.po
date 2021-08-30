@@ -10,34 +10,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-27 15:20\n"
+"PO-Revision-Date: 2021-08-30 15:38\n"
 
 msgid "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr ""
 
 msgid "Policewoman[2double_postrophe]No!"
-msgstr ""
+msgstr "Policjantka[2double_postrophe]Nie!"
 
 msgid "Newbie[2double_postrophe]Me neither, but I've heard good things about it. We could..."
 msgstr ""
 
 msgid "Policewoman[2double_postrophe]No!!!"
-msgstr ""
+msgstr "Policjantka[2double_postrophe]Nie!!!"
 
 msgid "Newbie[2double_postrophe]Um... I didn't mean to hit on you it was just to get to know you a little bit."
 msgstr ""
 
 msgid "Policewoman[2double_postrophe]Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-msgstr ""
+msgstr "Policjantka[2double_postrophe]Już Ci mówiłam, świeżaku... Jestem tutaj tylko po to, żebyś nie zginął i dlatego, że szef kazał mi z kimś pracować... Pierdolenie!"
 
 msgid "Policewoman[2double_postrophe]Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-msgstr ""
+msgstr "Policjantka[2double_postrophe]A poza tym mam gdzieś, co masz do powiedzenia. Nie jestem tutaj, aby szukać przyjaciół. Kapujesz?"
 
 msgid "Newbie[2double_postrophe]Yes! Mrs!"
 msgstr ""
 
 msgid "Policewoman[2double_postrophe]Okay, we're here."
-msgstr ""
+msgstr "Policjantka[2double_postrophe]No dobrze, jesteśmy."
 
 msgid "Policewoman[2double_postrophe]Newbie, let's see how canvas cables move a handcuffed thug."
 msgstr ""
@@ -52,13 +52,13 @@ msgid "Cop[2double_postrophe]Okay, now let's see who we have here today:"
 msgstr ""
 
 msgid "Cop[2double_postrophe]Name:"
-msgstr ""
+msgstr "Glina[2double_postrophe]Imię:"
 
 msgid "Cop[2double_postrophe]Surname:"
-msgstr ""
+msgstr "Glina[2double_postrophe]Nazwisko:"
 
 msgid "Cop[2double_postrophe]Age: 24 years."
-msgstr ""
+msgstr "Glina[2double_postrophe]Wiek: 24 lata."
 
 msgid "Cop[2double_postrophe]Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
 msgstr ""
@@ -155,11 +155,11 @@ msgstr ""
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
-msgstr ""
+msgstr "mama"
 
 #    # game/labels/prologue.rpy:114
 msgid "mother"
-msgstr ""
+msgstr "matka"
 
 #    # game/labels/prologue.rpy:116
 msgid "step son"
@@ -171,23 +171,23 @@ msgstr ""
 
 #    # game/labels/prologue.rpy:120
 msgid "brother"
-msgstr ""
+msgstr "brat"
 
 #    # game/labels/prologue.rpy:121
 msgid "sister"
-msgstr ""
+msgstr "siostra"
 
 #    # game/labels/prologue.rpy:122
 msgid "step brother"
-msgstr ""
+msgstr "przyrodni brat"
 
 #    # game/labels/prologue.rpy:123
 msgid "step sister"
-msgstr ""
+msgstr "przyrodnia siostra"
 
 #    # game/labels/prologue.rpy:138
 msgid "landlord"
-msgstr ""
+msgstr "właściciel"
 
 #    # game/labels/prologue.rpy:139
 msgid "leaseholder"
