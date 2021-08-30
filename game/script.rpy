@@ -32,5 +32,16 @@ label start:
     "Welcome to [config.name]"
 
     call intro
+    call intro_dream
+    call start_scene
 
+    $ sp_routine["liza_kitchen1"] = Commitment(chs={}, tm_start=0, tm_stop=24, id_location="house", id_room="kitchen", label_event="liza_kitchen1")
+
+    $ cur_room = rooms[0]
+    $ cur_location = locations[cur_room.id_location]
+    $ prev_room = rooms[0]
+    $ updateBL()
+    $ bl_values["block_spendtime"] = True
+
+    call after_wait
     return
