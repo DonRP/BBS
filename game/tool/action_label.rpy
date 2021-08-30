@@ -58,5 +58,7 @@ label laptop_liza:
     jump after_wait
 
 label go_kitchen:
+    $ prev_room = cur_room
     $ cur_room = rooms[3] # kitchen
-    jump after_wait
+    $ sp_bg_change_room = getBgRoomRoutine(cur_routines_location, cur_room.id)
+    jump change_room
