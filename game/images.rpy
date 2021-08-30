@@ -1,7 +1,11 @@
+# Gui
 image icon ann = "/icon_ann.webp"
 image icon jenny = "/icon_jenny.webp"
 image icon liza = "/icon_liza.webp"
 image icon lucy = "/icon_lucy.webp"
+
+# Emo
+# image side mcemo ""
 
 ## Icon
 # location
@@ -23,6 +27,44 @@ image bg livingroom = "location/livingroom-[tm.image_time].webp"
 image bg kitchen = "location/kitchen-[tm.image_time].webp"
 
 # Anna
+image bg AnnaDream A01 = Movie(play="/Anna-Dream/A01.webm", loop=True, size=(gui.width, gui.height))
+image bg AnnaDream A02A animated:
+    "/Anna-Dream/A02C.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 1
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 1
+    repeat
+image bg AnnaDream A02B animated:
+    "/Anna-Dream/A02A.webp" with dissolve
+    pause 0.7
+    "/Anna-Dream/A02B.webp" with dissolve
+    pause 0.7
+    repeat
+image bg AnnaDream A02C = "/Anna-Dream/A02C.webp"
 image bg AnnaMCRoom A01A = "/Anna-MCRoom/A01A.webp"
 image bg AnnaMCRoom A01B = "/Anna-MCRoom/A01B.webp"
 image bg AnnaMCRoom A01C = "/Anna-MCRoom/A01C.webp"
@@ -43,6 +85,7 @@ image bg Bobby A01 = "/Bobby/A01.webp"
 image bg Bobby A02 = "/Bobby/A02.webp"
 image bg Bobby A03 = "/Bobby/A03.webp"
 image bg Bobby A04 = "/Bobby/A04.webp"
+image smartphone bobby liza = "/Bobby/smartphone_liza.webp"
 # Liza
 image bg LizaKitchen A00 = "/Liza-Kitchen/A00.webp"
 image bg LizaKitchen A01 = "/Liza-Kitchen/A01.webp"
@@ -61,6 +104,25 @@ image bg LizaKitchen A08E = "/Liza-Kitchen/A08E.webp"
 image bg LizaKitchen A08F = "/Liza-Kitchen/A08F.webp"
 image bg LizaKitchen A08G = "/Liza-Kitchen/A08G.webp"
 image bg LizaKitchen A09 = "/Liza-Kitchen/A09.webp"
-image bg LizaKitchen B banane = "/Liza-Kitchen/B0C.webp"
-image bg LizaKitchen B ananas = "/Liza-Kitchen/B0B.webp"
-image bg LizaKitchen B kiwi = "/Liza-Kitchen/B0A.webp"
+image item LizaKitchen B banana = "/Liza-Kitchen/B0C.webp"
+image item LizaKitchen B ananas = "/Liza-Kitchen/B0B.webp"
+image item LizaKitchen B kiwi = "/Liza-Kitchen/B0A.webp"
+# Lucy
+image bg LucyLivingroom A01A = "/Lucy-Livingroom/A01A.webp"
+image bg LucyLivingroom A01B = "/Lucy-Livingroom/A01B.webp"
+image bg LucyLivingroom A01C = "/Lucy-Livingroom/A01C.webp"
+image bg LucyLivingroom A02 = "/Lucy-Livingroom/A02.webp"
+image bg LucyLivingroom A03 = "/Lucy-Livingroom/A03.webp"
+image bg LucyLivingroom A04A = "/Lucy-Livingroom/A04A.webp"
+image bg LucyLivingroom A04B = "/Lucy-Livingroom/A04B.webp"
+image bg LucyLivingroom A05 = "/Lucy-Livingroom/A05.webp"
+image bg LucyLivingroom A06 = "/Lucy-Livingroom/A06.webp"
+image bg LucyLivingroom A07 = "/Lucy-Livingroom/A07.webp"
+image bg LucyLivingroom A07A = "/Lucy-Livingroom/A07A.webp"
+image bg LucyLivingroom A08 = "/Lucy-Livingroom/A08.webp"
+image bg LucyLivingroom A09 = "/Lucy-Livingroom/A09.webp"
+image bg LucyLivingroom A10 = "/Lucy-Livingroom/A10.webp"
+image bg LucyLivingroom A11 = "/Lucy-Livingroom/A11.webp"
+image bg LucyLivingroom A12 = "/Lucy-Livingroom/A12.webp"
+image bg LucyLivingroom A13A = "/Lucy-Livingroom/A13A.webp"
+image bg LucyLivingroom A13B = "/Lucy-Livingroom/A13B.webp"
