@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-27 15:05\n"
+"PO-Revision-Date: 2021-08-30 15:38\n"
 
 #    # game/tool/notifications_value.rpy:1
 msgid "Is against a love affair with you"
-msgstr ""
+msgstr "Nie zgadza się na romans z Tobą"
 
 #    # game/tool/notifications_value.rpy:2
 msgid "Has too much fear of you for a love affair"
@@ -22,11 +22,11 @@ msgstr ""
 
 #    # game/tool/notifications_value.rpy:4
 msgid "{color=#00ff00}{b}+{/b} Energy"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Energia"
 
 #    # game/tool/notifications_value.rpy:5
 msgid "{color=#f00} {b}-{/b} Energy"
-msgstr ""
+msgstr "{color=#f00} {b}-{/b} Energia"
 
 #    # game/tool/notifications_value.rpy:6
 msgid "{color=#00ff00}{b}+{/b} Willpower"
