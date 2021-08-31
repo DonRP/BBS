@@ -31,9 +31,49 @@ label liza_kitchen1B:
     menu:
         "Indeed!" if (smartphone_liza):
             pass
-        "Not yet!" if True:
+        "Not yet!":
             liz 06 "Go ahead! What are you waiting for."
             jump after_wait
+
+    liz 08 "Finally! what took you so long?"
+    menu:
+        "I couldn't find it":
+            mc 02 "I had a little trouble finding it!"
+            liz 03 "Bah, you are so weird! it was right on my nightstand."
+        "About your password...":
+            mc 06 "By the way, what is the password?"
+            liz 09 "Excuse me?!! Why do you ask?"
+            liz 05 "Wait, what did you want to look at?"
+            mc 08 "Nooo... nothing..."
+            liz 02 "Ha ha! You little pervert..."
+    show bg LizaKitchen A01B
+    mc 10 "So where's my breakfast?"
+    liz 01 "There's nothing here for you, [lizN.MClabel]!"
+    mc 08 "What??"
+    mc 11 "But we made a deal!"
+    liz 03 "I'm sorry, it's all for me because you don't deserve it!"
+    mc 01 "Okay, {p}All right, {p}I'm not hungry anyway!"
+    mc 01 "{i}I hate her!"
+    show bg Bobby A02
+    mc 02 "{i}Guess I'll have to make do with a coffee."
+    show bg LizaKitchen A02
+    mc 02 "Hey, could you give me a cup of coffee?"
+    mc 00 "They are in that drawer"
+    liz 08 "They are in the bottom drawer."
+    show bg LizaKitchen A03
+    mc 08 "{i}Wow, what a cute little ass!"
+    if (bl_values["incs"]):
+        mc 03 "{i}Hmm... maybe I shouldn't stare at it like that."
+    else:
+        mc 03 "{i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel] like that."
+    show bg LizaKitchen A04A
+    mc 03 "{i}Damn! [liz] how can she be so sour, but so hot..."
+    show bg LizaKitchen A04B
+    liz 08 "Catch!"
+    mc 00 "Thanks!"
+    show bg Bobby A02
+    window hide
+    pause
     jump liza_kitchen1end
 label liza_kitchen1Error:
     jump liza_kitchen1end
