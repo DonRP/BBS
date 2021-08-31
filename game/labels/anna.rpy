@@ -43,4 +43,5 @@ label start_scene:
     window hide
     pause
     show bg AnnaMCRoom A01A
+    ann "Good morning Bobby! Time to get up!"
     return
