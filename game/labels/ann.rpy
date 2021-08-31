@@ -4,19 +4,19 @@ label intro_dream:
     show bg AnnaDream A01
     with fade
     window hide
-    mc "Wow!!"
+    mc 03 "Wow!!"
     pause
-    mc "Mmmm! Is fantastic!"
+    mc 00 "Mmmm! Is fantastic!"
     window hide
     pause
     show bg AnnaDream A02A animated
     window hide
     pause
-    mc "WTF!"
+    mc 08 "WTF!"
     if (bl_values["incs"]):
-        "[annR.NPClabel]?!"
+        mc 08 "[annR.NPClabel]?!"
     else:
-        "Mrs. [ann]?!"
+        mc 08 "Mrs. [ann]?!"
     window hide
     pause
     show bg AnnaDream A02B animated
