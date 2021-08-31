@@ -11,8 +11,8 @@ define liz = Character("{b}[lizI.name]{/b}", color="#d600d0", image="lizemo")
 default lizR = Relationship("housemate", "housemate", True)
 default lizN = Relationship("", _("Smurf"), True)
 default lizforann = Relationship("leaseholder", "landlord", True)
-# Ann's family
-default annI = Information(name = "Ann", sname = "Bernard", age = 40, active = True, rel_status = rel.get('single'))
+# Anna's family
+default annI = Information(name = "Anna", sname = "Bernard", age = 40, active = True, rel_status = rel.get('single'))
 define ann = Character("{b}[annI.name]{/b}", color="#8a0086", image="annemo")
 default annR = Relationship("landlord", "leaseholder", True)
 default lcyI = Information(name = "Lucy", sname = annI.sname, age = (22))
