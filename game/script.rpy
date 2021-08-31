@@ -1,8 +1,8 @@
 ﻿label start:
     menu:
         "Fable 2":
-            call start_fable_2_minigame #lable in File 'minigame_fable_2'
-            "End"
+            $ fable_minigame_goal = 5
+            call start_fable_2_minigame
         "Exit":
             return
     jump start
