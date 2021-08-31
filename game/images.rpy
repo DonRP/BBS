@@ -5,7 +5,18 @@ image icon liza = "/icon_liza.webp"
 image icon lucy = "/icon_lucy.webp"
 
 # Emo
-# image side mcemo ""
+image side mcemo 00 = "/emo/Bobby00.webp"
+image side mcemo 01 = "/emo/Bobby01.webp"
+image side mcemo 02 = "/emo/Bobby02.webp"
+image side mcemo 03 = "/emo/Bobby03.webp"
+image side mcemo 04 = "/emo/Bobby04.webp"
+image side mcemo 05 = "/emo/Bobby05.webp"
+image side mcemo 06 = "/emo/Bobby06.webp"
+image side mcemo 07 = "/emo/Bobby07.webp"
+image side mcemo 08 = "/emo/Bobby08.webp"
+image side mcemo 09 = "/emo/Bobby09.webp"
+image side mcemo 10 = "/emo/Bobby10.webp"
+image side mcemo 11 = "/emo/Bobby11.webp"
 
 ## Icon
 # location
