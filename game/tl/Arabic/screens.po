@@ -10,45 +10,45 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-08-27 15:05\n"
+"PO-Revision-Date: 2021-08-31 15:43\n"
 
-#    # game/tool/screens.rpy:188
+#    # game/tool/screens.rpy:254
 msgid "Talk"
 msgstr ""
 
-#    # game/tool/screens.rpy:196
+#    # game/tool/screens.rpy:262
 msgid "Wait"
 msgstr ""
 
-#    # game/tool/screens.rpy:229
+#    # game/tool/screens.rpy:304
 msgid "Settings"
 msgstr ""
 
-#    # game/tool/screens.rpy:239
+#    # game/tool/screens.rpy:314
 msgid "Characters info"
 msgstr ""
 
-#    # game/tool/screens.rpy:250
+#    # game/tool/screens.rpy:325
 msgid "Memo"
 msgstr ""
 
-#    # game/tool/screens.rpy:277
+#    # game/tool/screens.rpy:356
 msgid "Backpack"
 msgstr ""
 
-#    # game/tool/screens.rpy:287
+#    # game/tool/screens.rpy:366
 msgid "Smartphone"
 msgstr ""
 
-#    # game/tool/screens.rpy:297
+#    # game/tool/screens.rpy:376
 msgid "Map"
 msgstr ""
 
-#    # game/tool/screens.rpy:383
+#    # game/tool/screens.rpy:482
 msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
 msgstr ""
 
-#    # game/tool/screens.rpy:385
+#    # game/tool/screens.rpy:484
 msgid "You have completed all the quests."
 msgstr ""
 
