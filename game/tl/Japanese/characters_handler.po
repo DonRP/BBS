@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Player[2double_postrophe]My name is:\n"
+"Player [says] My name is:\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: bad-bobby-saga-the-return\n"
 "X-Crowdin-Project-ID: 473156\n"
@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-08-28 15:34\n"
+"PO-Revision-Date: 2021-08-31 15:41\n"
 
-msgid "Player[2double_postrophe]My name is:"
+msgid "Player [says] My name is:"
 msgstr ""
 
-msgid "Player[2double_postrophe]My surname is:"
+msgid "Player [says] My surname is:"
 msgstr ""
 
