@@ -2,43 +2,43 @@
 
 # translate crowdin strings:
 
-#    # game/tool/screens.rpy:188
+#    # game/tool/screens.rpy:254
 msgid "Talk"
 msgstr "Talk"
 
-#    # game/tool/screens.rpy:196
+#    # game/tool/screens.rpy:262
 msgid "Wait"
 msgstr "Wait"
 
-#    # game/tool/screens.rpy:229
+#    # game/tool/screens.rpy:304
 msgid "Settings"
 msgstr "Settings"
 
-#    # game/tool/screens.rpy:239
+#    # game/tool/screens.rpy:314
 msgid "Characters info"
 msgstr "Characters info"
 
-#    # game/tool/screens.rpy:250
+#    # game/tool/screens.rpy:325
 msgid "Memo"
 msgstr "Memo"
 
-#    # game/tool/screens.rpy:277
+#    # game/tool/screens.rpy:356
 msgid "Backpack"
 msgstr "Backpack"
 
-#    # game/tool/screens.rpy:287
+#    # game/tool/screens.rpy:366
 msgid "Smartphone"
 msgstr "Smartphone"
 
-#    # game/tool/screens.rpy:297
+#    # game/tool/screens.rpy:376
 msgid "Map"
 msgstr "Map"
 
-#    # game/tool/screens.rpy:383
+#    # game/tool/screens.rpy:482
 msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
 msgstr "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
 
-#    # game/tool/screens.rpy:385
+#    # game/tool/screens.rpy:484
 msgid "You have completed all the quests."
 msgstr "You have completed all the quests."
 
