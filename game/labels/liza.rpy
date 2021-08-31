@@ -63,9 +63,9 @@ label liza_kitchen1B:
     show bg LizaKitchen A03
     mc 08 "{i}Wow, what a cute little ass!"
     if (bl_values["incs"]):
-        mc 03 "{i}Hmm... maybe I shouldn't stare at it like that."
-    else:
         mc 03 "{i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel] like that."
+    else:
+        mc 03 "{i}Hmm... maybe I shouldn't stare at it like that."
     show bg LizaKitchen A04A
     mc 03 "{i}Damn! [liz] how can she be so sour, but so hot..."
     show bg LizaKitchen A04B
@@ -74,8 +74,94 @@ label liza_kitchen1B:
     show bg Bobby A02
     window hide
     pause
+    scene black
+    mc 02 "{i}My stomach is growling... What a fam!"
+    show bg LizaKitchen A05
+    with fade
+    mc 07 "{i}It looks like your breakfast is so good!"
+    mc 01 "{i}Hmm... I'll get my revenge somehow."
+    mc 20 "So how's breakfast?"
+    liz 01 "Mmmmmm"
+    liz 00 "It's so good!"
+    liz 01 "I am such a good cook!"
+    liz 02 "Don't worry, you can eat some fruit from the table!"
+    mc 06 "{i}I've got an idea! I could get revenge now..."
+    show bg LizaKitchen A07
+    mc 05 "Ha ha! You don't know what you're missing... [ann] did buy them on special delivery yesterday."
+    mc 05 "I have never had such good fruit, too bad they are all for me."
+    menu:
+        mc "Just because you're my [lizR.NPClabel], I could give you one:"
+        "Ananas":
+            show item LizaKitchen B ananas
+            jump liza_kitchen1Error
+        "Banana":
+            show item LizaKitchen B banana
+            pass
+        "Kiwi":
+            show item LizaKitchen B kiwi
+            jump liza_kitchen1Error
+    liz 04 "Did you say in special consegana!?"
+    mc 00 "Yes! you know, only Anna knows where to buy good fresh fruit, at a good price."
+    liz 04 "Hmm... Okay! They say bananas are good for fitness."
+    hide item
+    show bg LizaKitchen A08A
+    mc 04 "Here, try one! It's so sweet."
+    liz 03 "Haha, you tried!"
+    mc 10 "Go ahead! Try it for yourself."
+    mc 00 "You can take a little bite!"
+    liz 08 "Ha ha ha really?! Get lost!"
+    mc 11 "I'm not going anywhere until you try it!"
+    liz 08 "Okay, but then leave me alone, you pervert!"
+    show bg LizaKitchen A08B
+    window hide
+    pause
+    show bg LizaKitchen A08C
+    window hide
+    pause
+    show bg LizaKitchen A08D
+    liz 06 "Mmmmmmmm"
+    window hide
+    pause
+    show bg LizaKitchen A08E
+    window hide
+    pause
+    show bg LizaKitchen A08F
+    liz 06 "(Cough...)"
+    window hide
+    pause
+    show bg LizaKitchen A08G
+    window hide
+    pause
+    liz 05 "You are dead!!!"
+    show bg LizaKitchen A09
+    mc 12 "Ow! Ow! You're hurting me!"
+    window hide
+    pause
+    show bg Bobby A01
+    mc 07 "{i}Ow! What a pain! But it was worth it!"
+    mc 05 "{i}It was crazy!"
+    mc 04 "{i}My sweet revenge!"
+    show bg Bobby A03
+    mc 05 "{i}I definitely should have pushed it deeper down her throat!"
+    mc 07 "{i}...."
+    mc 07 "{i}Damn!!!"
+    mc 07 "{i}What's wrong with me ... she is my [lizR.NPClabel]!!"
+    mc 07 "{i}He will probably tell [ann]..."
+    mc 07 "{i}Shit, I have to think of an excuse."
     jump liza_kitchen1end
 label liza_kitchen1Error:
+    liz 04 "Hmmm... also no... thanks!"
+    liz 10 "Just give a little taste."
+    liz 05 "NO! go away! before I call [ann]."
+    hide item
+    show bg Bobby A03
+    mc 07 "Damn!!!"
+    mc 07 "I failed! I must think of another revenge."
     jump liza_kitchen1end
 label liza_kitchen1end:
+    "(A few hours later)"
+    $ del sp_routine["liza_kitchen1B"]
+    $ cur_room = rooms[0]
+    $ tm.new_hour(5)
+    $ del smartphone_liza
     jump after_wait
