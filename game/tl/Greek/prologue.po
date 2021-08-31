@@ -10,120 +10,120 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-08-27 15:19\n"
+"PO-Revision-Date: 2021-08-31 15:42\n"
 
-msgid "Newbie[2double_postrophe]Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
+msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]No!"
+msgid "Policewoman [says] No!"
 msgstr ""
 
-msgid "Newbie[2double_postrophe]Me neither, but I've heard good things about it. We could..."
+msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]No!!!"
+msgid "Policewoman [says] No!!!"
 msgstr ""
 
-msgid "Newbie[2double_postrophe]Um... I didn't mean to hit on you it was just to get to know you a little bit."
+msgid "Newbie [says] Um... I didn't mean to hit on you it was just to get to know you a little bit."
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
+msgid "Policewoman [says] Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
+msgid "Policewoman [says] Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
 msgstr ""
 
-msgid "Newbie[2double_postrophe]Yes! Mrs!"
+msgid "Newbie [says] Yes! Mrs!"
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]Okay, we're here."
+msgid "Policewoman [says] Okay, we're here."
 msgstr ""
 
-msgid "Policewoman[2double_postrophe]Newbie, let's see how canvas cables move a handcuffed thug."
+msgid "Policewoman [says] Newbie, let's see how canvas cables move a handcuffed thug."
 msgstr ""
 
-msgid "Newbie[2double_postrophe]You heard her, the back! Today is your big day..."
+msgid "Newbie [says] You heard her, the back! Today is your big day..."
 msgstr ""
 
-msgid "Cop[2double_postrophe]Make cheese..."
+msgid "Cop [says] Make cheese..."
 msgstr ""
 
-msgid "Cop[2double_postrophe]Okay, now let's see who we have here today:"
+msgid "Cop [says] Okay, now let's see who we have here today:"
 msgstr ""
 
-msgid "Cop[2double_postrophe]Name:"
+msgid "Cop [says] Name:"
 msgstr ""
 
-msgid "Cop[2double_postrophe]Surname:"
+msgid "Cop [says] Surname:"
 msgstr ""
 
-msgid "Cop[2double_postrophe]Age: 24 years."
+msgid "Cop [says] Age: 24 years."
 msgstr ""
 
-msgid "Cop[2double_postrophe]Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
+msgid "Cop [says] Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
 msgstr ""
 
-msgid "Riggs[2double_postrophe]Here he is! Our suspect... How about that... he has a face like a criminal."
+msgid "Riggs [says] Here he is! Our suspect... How about that... he has a face like a criminal."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]The real question is whether he is more of a thief or more of a killer."
+msgid "Murtaugh [says] The real question is whether he is more of a thief or more of a killer."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+msgid "Murtaugh [says] Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
 msgstr ""
 
-msgid "Riggs[2double_postrophe]YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
+msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
+msgid "Murtaugh [says] Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
 msgstr ""
 
-msgid "Riggs[2double_postrophe]Whereas, she..."
+msgid "Riggs [says] Whereas, she..."
 msgstr ""
 
-msgid "Riggs[2double_postrophe]Your..."
+msgid "Riggs [says] Your..."
 msgstr ""
 
-msgid "Riggs[2double_postrophe]Was desperate to help you, while you didn't care. Right?"
+msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Let's rewind..."
+msgid "Murtaugh [says] Let's rewind..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
+msgid "Murtaugh [says] Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]The children of the man who impregnated her when she was only 18 and then left her."
+msgid "Murtaugh [says] The children of the man who impregnated her when she was only 18 and then left her."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Not recognizing his daughter..."
+msgid "Murtaugh [says] Not recognizing his daughter..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]After that she tried to rebuild her life by having another daughter by a better man...."
+msgid "Murtaugh [says] After that she tried to rebuild her life by having another daughter by a better man...."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Anna after your mother died, she decided to bring you into her home..."
+msgid "Murtaugh [says] Anna after your mother died, she decided to bring you into her home..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Although you are the son of her ex-boyfriend."
+msgid "Murtaugh [says] Although you are the son of her ex-boyfriend."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]Treating you like another son, making you sleep under the same roof as his daughters..."
+msgid "Murtaugh [says] Treating you like another son, making you sleep under the same roof as his daughters..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]And..."
+msgid "Murtaugh [says] And..."
 msgstr ""
 
-msgid "Murtaugh[2double_postrophe]and her leaseholder..."
+msgid "Murtaugh [says] and her leaseholder..."
 msgstr ""
 
-msgid "Riggs[2double_postrophe]You don't talk huh?"
+msgid "Riggs [says] You don't talk huh?"
 msgstr ""
 
-msgid "Riggs[2double_postrophe]Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
+msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr ""
 
 msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
