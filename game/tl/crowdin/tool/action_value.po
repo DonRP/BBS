@@ -1,0 +1,20 @@
+﻿# TODO: Translation updated at 2021-08-31 17:17
+
+# translate crowdin strings:
+
+#    # game/tool/action_value.rpy:7
+msgid "Nap"
+msgstr "Nap"
+
+#    # game/tool/action_value.rpy:7
+msgid "Laptop"
+msgstr "Laptop"
+
+#    # game/tool/action_value.rpy:7
+msgid "Stealt training"
+msgstr "Stealt training"
+
+#    # game/tool/action_value.rpy:7
+msgid "Go to kitchen"
+msgstr "Go to kitchen"
+
