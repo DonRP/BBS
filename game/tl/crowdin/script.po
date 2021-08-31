@@ -1,6 +1,6 @@
-﻿# TODO: Translation updated at 2021-08-24 18:55
+# TODO: Translation updated at 2021-08-24 18:55
 
-# game/script.rpy:30
+# game/script.rpy:32
 # translate crowdin start_c09080c3:
 
 msgid "Welcome to [config.name]"

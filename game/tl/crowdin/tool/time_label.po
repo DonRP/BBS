@@ -6,7 +6,7 @@
 msgid "[block_spendtime_dialogue]"
 msgstr "[block_spendtime_dialogue]"
 
-# game/tool/time_label.rpy:27
+# game/tool/time_label.rpy:26
 # translate crowdin wait_75201fb1:
 
 msgid "(It's late, you have to go to bed)"

@@ -1,0 +1,230 @@
+﻿# TODO: Translation updated at 2021-08-31 17:17
+
+# game/labels/anna.rpy:7
+# translate crowdin intro_dream_464f0c5f:
+
+msgid "[TALKmc03] Wow!!"
+msgstr "[TALKmc03] Wow!!"
+
+# game/labels/anna.rpy:9
+# translate crowdin intro_dream_362de832:
+
+msgid "[TALKmc00] Mmmm! Is fantastic!"
+msgstr "[TALKmc00] Mmmm! Is fantastic!"
+
+# game/labels/anna.rpy:15
+# translate crowdin intro_dream_de8dc40d:
+
+msgid "[TALKmc08] WTF!"
+msgstr "[TALKmc08] WTF!"
+
+# game/labels/anna.rpy:17
+# translate crowdin intro_dream_a43f033c:
+
+msgid "[TALKmc08] [annR.NPClabel]?!"
+msgstr "[TALKmc08] [annR.NPClabel]?!"
+
+# game/labels/anna.rpy:19
+# translate crowdin intro_dream_3bb38ec3:
+
+msgid "[TALKmc08] Mrs. [ann]?!"
+msgstr "[TALKmc08] Mrs. [ann]?!"
+
+# game/labels/anna.rpy:34
+# translate crowdin start_scene_76ff7d4d:
+
+msgid "[TALKmc08] {i}Oh God!!! It couldn't have been just a dream. "
+msgstr "[TALKmc08] {i}Oh God!!! It couldn't have been just a dream. "
+
+# game/labels/anna.rpy:37
+# translate crowdin start_scene_6c528f6e:
+
+msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
+msgstr "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
+
+# game/labels/anna.rpy:38
+# translate crowdin start_scene_f9bf883f:
+
+msgid "[TALKmc07] {i}Mhh... Better to hide the flag raising before..."
+msgstr "[TALKmc07] {i}Mhh... Better to hide the flag raising before..."
+
+# game/labels/anna.rpy:40
+# translate crowdin start_scene_4f20d270:
+
+msgid "(KNOCK KNOCK)"
+msgstr "(KNOCK KNOCK)"
+
+# game/labels/anna.rpy:41
+# translate crowdin start_scene_65cc8fb4:
+
+msgid "[TALKmc08] {i}Shit!"
+msgstr "[TALKmc08] {i}Shit!"
+
+# game/labels/anna.rpy:46
+# translate crowdin start_scene_12af3616:
+
+msgid "[TALKann00] Good morning Bobby! Time to get up!"
+msgstr "[TALKann00] Good morning Bobby! Time to get up!"
+
+# game/labels/anna.rpy:47
+# translate crowdin start_scene_00f8b9aa:
+
+msgid "[TALKmc12] Yawn! Morning."
+msgstr "[TALKmc12] Yawn! Morning."
+
+# game/labels/anna.rpy:48
+# translate crowdin start_scene_78080aa5:
+
+msgid "[TALKann00] I need to do laundry, do you have anything to wash?"
+msgstr "[TALKann00] I need to do laundry, do you have anything to wash?"
+
+# game/labels/anna.rpy:50
+# translate crowdin start_scene_e90bc385:
+
+msgid "[TALKmc07] Yawn! Boh, I don't remember."
+msgstr "[TALKmc07] Yawn! Boh, I don't remember."
+
+# game/labels/anna.rpy:51
+# translate crowdin start_scene_955d1c9c:
+
+msgid "[TALKann00] Let's see, I had left... ah! there it is!"
+msgstr "[TALKann00] Let's see, I had left... ah! there it is!"
+
+# game/labels/anna.rpy:56
+# translate crowdin start_scene_1540d7d1:
+
+msgid "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
+msgstr "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
+
+# game/labels/anna.rpy:59
+# translate crowdin start_scene_8d4965b7:
+
+msgid "[TALKmc00] I'm fine, I just had a weird dream."
+msgstr "[TALKmc00] I'm fine, I just had a weird dream."
+
+# game/labels/anna.rpy:60
+# translate crowdin start_scene_20c325d5:
+
+msgid "[TALKann00] Tell me! What dream?"
+msgstr "[TALKann00] Tell me! What dream?"
+
+# game/labels/anna.rpy:61
+# translate crowdin start_scene_cb0e8331:
+
+msgid "[TALKmc08] Ahahahah... emmm... it's in a bit hard to explain."
+msgstr "[TALKmc08] Ahahahah... emmm... it's in a bit hard to explain."
+
+# game/labels/anna.rpy:63
+# translate crowdin start_scene_896141f1:
+
+msgid "[TALKmc10] I just need a hug...."
+msgstr "[TALKmc10] I just need a hug...."
+
+# game/labels/anna.rpy:64
+# translate crowdin start_scene_ad4222be:
+
+msgid "[TALKann00] Ahah! {p}Don't be silly."
+msgstr "[TALKann00] Ahah! {p}Don't be silly."
+
+# game/labels/anna.rpy:70
+# translate crowdin start_scene_2fb1bba4:
+
+msgid "[TALKann00] I'll wash this for you!"
+msgstr "[TALKann00] I'll wash this for you!"
+
+# game/labels/anna.rpy:74
+# translate crowdin start_scene_8dd1bba1:
+
+msgid "[TALKmc10] {i}Oh fuck, what big curves..."
+msgstr "[TALKmc10] {i}Oh fuck, what big curves..."
+
+# game/labels/anna.rpy:75
+# translate crowdin start_scene_52d481e8:
+
+msgid "[TALKmc06] {i}Think [mc]..."
+msgstr "[TALKmc06] {i}Think [mc]..."
+
+# game/labels/anna.rpy:76
+# translate crowdin start_scene_e6b0ffd4:
+
+msgid "[TALKmc] What I could do now: [nointeract]"
+msgstr "[TALKmc] What I could do now: [nointeract]"
+
+# game/labels/anna.rpy:84
+# translate crowdin start_scene_6201682d:
+
+msgid "[TALKmc13] [annR.NPClabel]?!"
+msgstr "[TALKmc13][annR.NPClabel]?!"
+
+# game/labels/anna.rpy:86
+# translate crowdin start_scene_f1f356a3:
+
+msgid "[TALKmc13] Mrs. [ann]?!"
+msgstr "[TALKmc13]Mrs. [ann]?!"
+
+# game/labels/anna.rpy:88
+# translate crowdin start_scene_f79f43b0:
+
+msgid "[TALKann02] Ohh, you scared me!"
+msgstr "[TALKann02] Ohh, you scared me!"
+
+# game/labels/anna.rpy:89
+# translate crowdin start_scene_353602d2:
+
+msgid "[TALKmc10] Hmm, let me help you with the basket."
+msgstr "[TALKmc10] Hmm, let me help you with the basket."
+
+# game/labels/anna.rpy:91
+# translate crowdin start_scene_3050ca0d:
+
+msgid "[TALKann04] ... It's okay, I can do it!"
+msgstr "[TALKann04] ... It's okay, I can do it!"
+
+# game/labels/anna.rpy:92
+# translate crowdin start_scene_4cf45c3c:
+
+msgid "[TALKmc03] {i}Oh my gosh!!! it felt so good!"
+msgstr "[TALKmc03] {i}Oh my gosh!!! it felt so good!"
+
+# game/labels/anna.rpy:95
+# translate crowdin start_scene_da5ed010:
+
+msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
+msgstr "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
+
+# game/labels/anna.rpy:97
+# translate crowdin start_scene_dc382026:
+
+msgid "[TALKann01] Oh honey, you're so sweet."
+msgstr "[TALKann01] Oh honey, you're so sweet."
+
+# game/labels/anna.rpy:98
+# translate crowdin start_scene_435bde07:
+
+msgid "[TALKmc08] ..."
+msgstr "[TALKmc08] ..."
+
+# game/labels/anna.rpy:102
+# translate crowdin start_scene_d610432a:
+
+msgid "[TALKann03] It's okay, I can handle it."
+msgstr "[TALKann03] It's okay, I can handle it."
+
+# translate crowdin strings:
+
+#    # game/labels/anna.rpy:56
+msgid "About the dream"
+msgstr "About the dream"
+
+#    # game/labels/anna.rpy:56
+msgid "I would like to hug"
+msgstr "I would like to hug"
+
+#    # game/labels/anna.rpy:76
+msgid "Play some tricks on her"
+msgstr "Play some tricks on her"
+
+#    # game/labels/anna.rpy:76
+msgid "Help her with the basket"
+msgstr "Help her with the basket"
+
