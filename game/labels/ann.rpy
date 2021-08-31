@@ -29,4 +29,18 @@ label intro_dream:
     return
 
 label start_scene:
+    show black
+    with fade
+    mc 08 "{i}Oh God!!! It couldn't have been just a dream. "
+    show bg Bobby A00
+    with fade
+    mc 07 "{i}What has gotten into me?! This is so wrong!"
+    mc 07 "{i}Mhh... Better to hide the flag raising before..."
+    show bg AnnaMCRoom A01B
+    "(KNOCK KNOCK)"
+    mc 08 "{i}Shit!"
+    show bg AnnaMCRoom A01C
+    window hide
+    pause
+    show bg AnnaMCRoom A01A
     return
