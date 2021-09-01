@@ -4,6 +4,7 @@ default fable_minigame_goal = 3
 default fable_you_press_button = 0
 
 init:
+    $ config.keymap['fable_2'] = [ 'mousedown_1', 'K_SPACE' ]
     transform fable_point_move(frp):
         subpixel True
         rotate_pad True
@@ -21,8 +22,8 @@ screen fable_2_minigame:
         text _("Bar value: [fable_minigame_bar]") align(0.5,0.2)
         text _("Number of presses: [fable_you_press_button]") align(0.5,0.3)
 
-    if fable_minigame_bar >= -14 and fable_minigame_bar <= 14:
-        key "K_SPACE":
+    key "fable_2":
+        if fable_minigame_bar >= -14 and fable_minigame_bar <= 14:
             if fable_you_press_button == 0:
                 if fable_minigame_score < fable_minigame_goal-1:
                     action [SetVariable("fable_minigame_score", fable_minigame_score + 1), SetVariable("fable_you_press_button", fable_you_press_button + 1), Show("you_press_button_good")]
@@ -30,8 +31,8 @@ screen fable_2_minigame:
                     action Jump("end_fable_2_minigame")
             elif fable_you_press_button == 1:
                 action SetVariable("fable_minigame_score", fable_minigame_score + 0)
-    else:
-        key "K_SPACE" action [SetVariable("fable_minigame_score", 0), Show("you_press_button_bad")]
+        else:
+            action [SetVariable("fable_minigame_score", 0), Show("you_press_button_bad")]
 
 screen fable_timer_left:
     timer 0.0001 repeat True action [If(fable_minigame_bar >= -90, SetVariable("fable_minigame_bar", fable_minigame_bar - 1)),If(fable_minigame_bar == -90, Hide("fable_timer_left"), Show("fable_timer_right")), If(fable_minigame_bar == -90, SetVariable("fable_you_press_button", 0))]
