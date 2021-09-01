@@ -71,7 +71,7 @@ label carpet:
             "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
             "And with each roun you will increase your stealth by 1."
             jump after_wait
-        "Avvia":
+        "Start training":
             $ fable_minigame_goal = 15
             call start_fable_2_minigame
             $ stats["mc"].change("stealth", 1)
