@@ -164,4 +164,8 @@ label liza_kitchen1end:
     $ cur_room = rooms[0]
     $ tm.new_hour(5)
     $ del smartphone_liza
+    $ sp_routine["lucy_livingroom1"] = Commitment(chs={"lucy" : TalkObject()}, tm_start=0, tm_stop=24, id_location="house", id_room="livingroom", label_event="lucy_livingroom1")
+    jump after_wait
+
+label liza_lizaroom1:
     jump after_wait
