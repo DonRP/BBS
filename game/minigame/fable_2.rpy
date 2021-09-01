@@ -19,8 +19,6 @@ screen fable_2_minigame:
         add "minigame/Fable_bar.webp" align(0.5,0.9)
         add "minigame/Fable_point.webp" at fable_point_move(fable_minigame_bar)
         text "[fable_minigame_score]/[fable_minigame_goal]" align(0.5,0.1)
-        text _("Bar value: [fable_minigame_bar]") align(0.5,0.2)
-        text _("Number of presses: [fable_you_press_button]") align(0.5,0.3)
 
     key "fable_2":
         if fable_minigame_bar >= -14 and fable_minigame_bar <= 14:
