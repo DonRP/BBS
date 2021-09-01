@@ -59,6 +59,7 @@ image icon kitchen a = im.MatrixColor("location/kitchen-icon.webp", im.matrix.br
 # location
 image bg mcroom = "location/mcroom-[tm.image_time].webp"
 image bg lizaroom = "location/lizaroom-[tm.image_time].webp"
+image bg lizaroom blur = im.Blur("location/lizaroom-[tm.image_time].webp", 7)
 image bg livingroom = "location/livingroom-[tm.image_time].webp"
 image bg kitchen = "location/kitchen-[tm.image_time].webp"
 

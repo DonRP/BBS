@@ -19,11 +19,13 @@ label liza_kitchen1:
 label liza_kitchen1_lizasmartphone:
     mc 09 "{i}Hmmm, Liza's phone! She's always on the phone, I wonder who she's chatting with. I might..."
     show smartphone bobby liza
+    show bg lizaroom blur
     mc 09 "{i}Shit, he's got the password!"
     mc 10 "{i}Ah though! what a background... slutty."
     $ del sp_actions["lizasmartphone"]
     $ smartphone_liza = True
     hide smartphone
+    show bg lizaroom
     jump after_wait
 label liza_kitchen1B:
     show bg LizaKitchen A01
@@ -244,9 +246,11 @@ label liza_lizaroom1:
 label liza_lizasmartphone0:
     mc 06 "{i}Hmmm... Liza is not in her room!" 
     show smartphone bobby liza
+    show bg lizaroom blur
     mc 09 "{i}But he left his phone here!" 
     mc 09 "{i}I need to find a way to unlock it!"
     hide smartphone
+    show bg lizaroom
     mc 07 "{i}I better go think about this in my bedroom!" 
     show bg Bobby A03
     with fade
