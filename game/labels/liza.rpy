@@ -144,6 +144,7 @@ label liza_kitchen1B:
     mc 05 "{i}It was crazy!"
     mc 04 "{i}My sweet revenge!"
     show bg Bobby A03
+    with fade
     mc 05 "{i}I definitely should have pushed it deeper down her throat!"
     mc 07 "{i}...."
     mc 07 "{i}Damn!!!"
@@ -157,6 +158,7 @@ label liza_kitchen1Error:
     liz 05 "NO! go away! before I call [ann]."
     hide item
     show bg Bobby A03
+    with fade
     mc 07 "Damn!!!"
     mc 07 "I failed! I must think of another revenge."
     jump liza_kitchen1end
@@ -171,20 +173,20 @@ label liza_kitchen1end:
 
 label liza_lizaroom1:
     show bg Bobby A05
-    mc 01 "Shit, [liz]'s talking on the phone!" 
-    mc 06 "Maybe you might not notice...."
+    mc 01 "{i}Shit, [liz]'s talking on the phone!" 
+    mc 06 "{i}Maybe you might not notice...."
     if (stats["mc"].get("stealth")>0):
         menu:
-            mc "OK! after this [lcy] will owe me a favor:"
+            mc "{i}OK! after this [lcy] will owe me a favor:"
             "Do it now":
-                pass
+                mc 04 "{i}Are you ready Ninjia?!"
             "Not yet":
-                mc 07 "Hmm... I don't think I'm ready yet."
+                mc 07 "{i}Hmm... I don't think I'm ready yet."
                 $ cur_room = rooms[0]
                 jump after_wait
     else:
-        mc 06 "But first I need to warm up a bit in my room."
-        mc 07 "Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
+        mc 06 "{i}But first I need to warm up a bit in my room."
+        mc 07 "{i}Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
         $ cur_room = rooms[0]
         jump after_wait
     jump after_wait

@@ -40,8 +40,8 @@ label lucy_livingroom1:
     mc 06 "{i}When she stretches her boobs like that... I would literally do anything to my [lcyR.MClabel]"
     mc 05 "Okay, but you owe me!" 
     lcy 03 "Great, it's the pink one." 
-    $ sp_routine["liza_kitchen1B"] = Commitment(chs={"lucy" : TalkObject(bg_before_after="bg LucyLivingroom A06", label_talk="lucy_livingroom1B")}, tm_start=0, tm_stop=24, id_location="house", id_room="livingroom")
-    $ sp_routine["lucy_livingroom1"] = Commitment(chs={"liza" : TalkObject()}, tm_start=0, tm_stop=24, id_location="house", id_room="liza_room", label_event="liza_lizaroom1")
+    $ sp_routine["lucy_livingroom1"] = Commitment(chs={"lucy" : TalkObject(bg_before_after="bg LucyLivingroom A06", label_talk="lucy_livingroom1B")}, tm_start=0, tm_stop=24, id_location="house", id_room="livingroom")
+    $ sp_routine["liza_lizaroom1"] = Commitment(chs={"liza" : TalkObject()}, tm_start=0, tm_stop=24, id_location="house", id_room="liza_room", label_event="liza_lizaroom1")
     $ nail_polish = False
     jump after_wait
 label lucy_livingroom1B:
