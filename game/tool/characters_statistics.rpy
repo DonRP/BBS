@@ -149,6 +149,11 @@ init python:
                     notify(increase_fear_notify)
                 elif (amt < 0):
                     notify(decrease_fear_notify)
+            elif (text == "submission"):
+                if (amt > 0):
+                    notify(increase_submission_notify)
+                elif (amt < 0):
+                    notify(decrease_submission_notify)
         # Additional functions:
         def improve_ability(self, text, amt=1):
             self.change(text, amt, max=10, min=0)

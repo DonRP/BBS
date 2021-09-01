@@ -11,6 +11,8 @@ default increase_addiction_notify = NotifyEx(msg=__("{color=#00ff00}{b}+{/b} Add
 default decrease_addiction_notify = NotifyEx(msg=__("{color=#f00} {b}-{/b} Addictions"), img="/images_tool/icon/notification/characteristics-addiction.webp")
 default increase_lust_notify = NotifyEx(msg=__("{color=#00ff00}{b}+{/b} Lust"), img="/images_tool/icon/notification/characteristics-lust.webp")
 default decrease_lust_notify = NotifyEx(msg=__("{color=#f00} {b}-{/b} Lust"), img="/images_tool/icon/notification/characteristics-lust.webp")
+default increase_submission_notify = NotifyEx(msg=__("{color=#00ff00}{b}+{/b} Submission"), img="/images_tool/icon/notification/relations-submission.webp")
+default decrease_submission_notify = NotifyEx(msg=__("{color=#f00} {b}-{/b} Submission"), img="/images_tool/icon/notification/relations-submission.webp")
 # Relations
 default increase_friendship_notify = NotifyEx(msg=__("{color=#00ff00}{b}+{/b} Friendship"), img="/images_tool/icon/notification/relations-friendship.webp")
 default decrease_friendship_notify = NotifyEx(msg=__("{color=#f00} {b}-{/b} Friendship"), img="/images_tool/icon/notification/relations-friendship.webp")

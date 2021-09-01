@@ -88,6 +88,7 @@ label start_scene:
             ann 02 "Ohh, you scared me!"
             mc 10 "Hmm, let me help you with the basket."
             show bg AnnaMCRoom A04C
+            $ stats["ann"].change("submission", 1)
             ann 04 "... It's okay, I can do it!"
             mc 03 "{i}Oh my gosh!!! it felt so good!"
         "Help her with the basket":
@@ -99,6 +100,7 @@ label start_scene:
             window hide
             pause
             show bg AnnaMCRoom A04C
+            $ stats["ann"].change("favour", 1)
             ann 03 "It's okay, I can handle it."
     window hide
     pause

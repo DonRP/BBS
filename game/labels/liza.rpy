@@ -132,6 +132,7 @@ label liza_kitchen1B:
     show bg LizaKitchen A08G
     window hide
     pause
+    $ stats["liz"].change("anger", 1)
     liz 05 "You are dead!!!"
     show bg LizaKitchen A09
     mc 12 "Ow! Ow! You're hurting me!"
