@@ -26,9 +26,81 @@ default jnnR = Relationship("housemate", "housemate", True)
 default mikI = Information(name = "Mike", sname = "Williams", age = (20))
 define mik = Character("{b}[lcyI.name]{/b}", color="#09f", image="mikemo")
 
+## Functions for discord
+# https://arianeb.com/2019/07/19/adding-discord-rich-presence-to-renpy-games/
+init -20 python:
+    if renpy.variant("pc"):
+        import discord_rpc
+        import time
+
+        def readyCallback(current_user):
+            print('Our user: {}'.format(current_user))
+
+        def disconnectedCallback(codeno, codemsg):
+            print('Disconnected from Discord rich presence RPC. Code {}: {}'.format(
+                codeno, codemsg
+            ))
+
+        def errorCallback(errno, errmsg):
+            print('An error occurred! Error {}: {}'.format(
+                errno, errmsg
+            ))
+
+label before_main_menu:
+    if renpy.variant("pc"):
+        python:
+            # Note: 'event_name': callback
+            callbacks = {
+                'ready': readyCallback,
+                'disconnected': disconnectedCallback,
+                'error': errorCallback,
+            }
+            discord_rpc.initialize('882718196749193286', callbacks=callbacks, log=False)
+            start = time.time()
+            print(start)
+            discord_rpc.update_connection()
+            discord_rpc.run_callbacks()
+            discord_rpc.update_presence(
+                **{
+                    'details': 'Main Menu',
+                    'start_timestamp': start,
+                    'large_image_key': 'Bad Bobby Saga'
+                }
+            )
+            discord_rpc.update_connection()
+            discord_rpc.run_callbacks()
+
+    return
+## END Functions for discord
+
+
 # The game starts here.
 
 label start:
+    ## Adding Discord Rich
+    if renpy.variant("pc"):
+        python:
+            callbacks = {
+                'ready': readyCallback,
+                'disconnected': disconnectedCallback,
+                'error': errorCallback,
+            }
+            discord_rpc.initialize('882718196749193286', callbacks=callbacks, log=False)
+            start = time.time()
+            discord_rpc.update_connection()
+            discord_rpc.run_callbacks()
+            discord_rpc.update_presence(
+                **{
+                    'details': 'At College',
+                    'state': 'Lecture Hall',
+                    'large_image_key': 'Bad Bobby Saga',
+                    'start_timestamp': start
+                }
+            )
+
+            discord_rpc.update_connection()
+            discord_rpc.run_callbacks()
+
     # The real start of the game
     stop music fadeout 1.0
     call screen check_age
