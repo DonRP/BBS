@@ -54,4 +54,69 @@ label lucy_livingroom1B:
         "Not yet!": 
             lcy 06 "Come on!!! I'm waiting for you!" 
             jump after_wait
+    show bg LucyLivingroom A07    
+    menu: 
+        lcy "Really?! Let me see!"
+        "Look and admire":
+            lcy 03 "No way!"
+            show bg LucyLivingroom A07A
+            lcy 05 "It's great!" 
+            lcy 01 "Who would have thought you had skills!" 
+        "Not yet":
+            lcy 06 "Let's go!!!" 
+            lcy 06 "Give it to me!" 
+    show bg LucyLivingroom A07A
+    $ fable_minigame_score = 0
+    mc 06 "{i}Hmm... Think [mc]..."
+    menu:
+        mc "{i}You owe me a favor:"
+        "Not so fast!":
+            show bg LucyLivingroom A08
+            mc 10 "Actually.... I was thinking you should let me apply this on you!" 
+            lcy 07 "What??" 
+            lcy 06 "Stop messing around, [mc]!" 
+            lcy 02 "Come on, I'm in a hurry!" 
+            mc 00 "I'm serious, let me try!" 
+            mc 04 "Or return it to [liz]..." 
+            lcy 06 "You know what...it's fine!" 
+            lcy 01 "You deserve it!" 
+            lcy 07 "But you better apply it perfectly or you are doomed!"
+            mc 08 "{i}Oh my gosh!!! I can't believe I'm actually going to touch her feet!" 
+            mc 03 "{i}This is great!"
+    $ fable_minigame_goal = 3
+    show bg LucyLivingroom A08
+    call start_fable_2_minigame
+    mc 06 "{i}She didn't notice...I can go on!"
+    menu: 
+        "Try to get closer":
+            pass
+    show bg LucyLivingroom A08 2
+    $ fable_minigame_score = 2
+    $ fable_minigame_goal = 5
+    call start_fable_2_minigame
+    show bg LucyLivingroom A11
+    window hide
+    pause
+    mc 03 "{i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!" 
+    $ fable_minigame_score = 0
+    $ fable_minigame_goal = 7
+    call start_fable_2_minigame
+    show bg LucyLivingroom A12
+    window hide
+    pause
+    mc 10 "What's going on? [lcy]?!"
+    lcy 06 "Easy [lcyN.MClabel] don't push!" 
+    lcy 02 "That's enough for you!"
+    show bg LucyLivingroom A13A
+    lcy 00 "Ehi! Where did you learn to do these things?" 
+    lcy 05 "You came out great here! But all in all..."
+    lcy 05 "Well"
+    show bg LucyLivingroom A13B
+    lcy 07 "Good job boy" 
+    lcy 05 "Now go play somewhere else!"
+    $ closed_rooms["livingroom"] = sp_routine["lucy_livingroom1"]
+    $ del sp_routine["lucy_livingroom1"]
+    $ del nail_polish
+    show bg LucyLivingroom A01A
+    with fade
     jump after_wait
