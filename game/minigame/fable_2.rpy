@@ -57,7 +57,7 @@ transform fable_move_bad:
     linear 0.5 alpha 0.0
 ################################################################################
 label start_fable_2_minigame:
-    $ fable_minigame_score = 0
+    # $ fable_minigame_score = 0
     show screen fable_timer_left
     call screen fable_2_minigame
 ################################################################################
@@ -65,4 +65,6 @@ label end_fable_2_minigame: #End minigame. And jump continue game
     hide screen fable_2_minigame
     hide screen fable_timer_left
     hide screen fable_timer_right
+    window hide
+    pause
     return

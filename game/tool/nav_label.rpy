@@ -63,7 +63,11 @@ label closed_room_event:
         show bg Bobby A05
         call screen room_navigation
         return
+    elif (cur_room.id == "livingroom" and tm.day == 0):
+        show bg LucyLivingroom A01A
+        call screen room_navigation
+        return
 
-    # scene expression (Bobby) as bg
+    scene expression (Bobby) as bg
     call screen room_navigation
     return

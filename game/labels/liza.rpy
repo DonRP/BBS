@@ -194,8 +194,6 @@ label liza_lizaroom1:
     show bg LizaLizaRoom A00
     with fade
     call start_fable_2_minigame
-    window hide
-    pause
     mc 04 "{i}Ah Ah! Found it!"
     show bg LizaLizaRoom A04
     with dissolve
