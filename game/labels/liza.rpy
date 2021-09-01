@@ -27,8 +27,9 @@ label liza_kitchen1_lizasmartphone:
     jump after_wait
 label liza_kitchen1B:
     show bg LizaKitchen A01
-    liz 01 "So, did you get my phone?"
+    liz 01 "So..."
     menu:
+        liz "Did you get my phone?"
         "Indeed!" if (smartphone_liza):
             pass
         "Not yet!":
@@ -169,4 +170,21 @@ label liza_kitchen1end:
     jump after_wait
 
 label liza_lizaroom1:
+    show bg Bobby A05
+    mc 01 "Shit, [liz]'s talking on the phone!" 
+    mc 06 "Maybe you might not notice...."
+    if (stats["mc"].get("stealth")>0):
+        menu:
+            mc "OK! after this [lcy] will owe me a favor:"
+            "Do it now":
+                pass
+            "Not yet":
+                mc 07 "Hmm... I don't think I'm ready yet."
+                $ cur_room = rooms[0]
+                jump after_wait
+    else:
+        mc 06 "But first I need to warm up a bit in my room."
+        mc 07 "Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
+        $ cur_room = rooms[0]
+        jump after_wait
     jump after_wait

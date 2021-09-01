@@ -121,6 +121,7 @@ image bg Bobby A01 = "/Bobby/A01.webp"
 image bg Bobby A02 = "/Bobby/A02.webp"
 image bg Bobby A03 = "/Bobby/A03.webp"
 image bg Bobby A04 = "/Bobby/A04.webp"
+image bg Bobby A05 = "/Bobby/A05.webp"
 image smartphone bobby liza = "/Bobby/smartphone_liza.webp"
 # Liza
 image bg LizaKitchen A00 = "/Liza-Kitchen/A00.webp"
