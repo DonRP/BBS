@@ -3,4 +3,8 @@ label after_load:
     $ clearExpiredSPActions()
     $ clearExpiredSPRoutine()
     $ updateBL()
+
+    #BBS
+    if ("mc" in stats):
+        $ stats["mc"] = Statistics(gender = "M", virgin = True)
     return

@@ -62,3 +62,20 @@ label go_kitchen:
     $ cur_room = rooms[3] # kitchen
     $ sp_bg_change_room = getBgRoomRoutine(cur_routines_location, cur_room.id)
     jump change_room
+
+label carpet:
+    menu:
+        "Tutorial":
+            "You want to become a ninja?! then what are you waiting for!"
+            "Start the game to power up the stealth."
+            "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
+            "And with each roun you will increase your stealth by 1."
+            jump after_wait
+        "Avvia":
+            $ fable_minigame_goal = 15
+            call start_fable_2_minigame
+            $ stats["mc"].change("stealth", 1)
+            $ notifyEx(msg=__("{color=#00ff00}{b}+{/b} Stealth"))
+            jump after_wait
+        "Back":
+            jump after_wait
