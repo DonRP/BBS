@@ -37,7 +37,7 @@ label lucy_livingroom1:
     mc 08 "She'll kill me if he finds out!" 
     show bg LucyLivingroom A04A
     lcy 07 "Come on... you're my little [lcyR.MClabel]!!!! Be nice, do it for me." 
-    mc 06 "{i}When he stretches out his boobs like that... I would literally do anything to my [lcyR.MClabel]"
+    mc 06 "{i}When she stretches her boobs like that... I would literally do anything to my [lcyR.MClabel]"
     mc 05 "Okay, but you owe me!" 
     lcy 03 "Great, it's the pink one." 
     $ sp_routine["liza_kitchen1B"] = Commitment(chs={"lucy" : TalkObject(bg_before_after="bg LucyLivingroom A06", label_talk="lucy_livingroom1B")}, tm_start=0, tm_stop=24, id_location="house", id_room="livingroom")
