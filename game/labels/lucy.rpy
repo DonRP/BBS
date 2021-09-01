@@ -34,7 +34,7 @@ label lucy_livingroom1:
     lcy 07 "It would be great if you could... Steal it from her?" 
     show bg LucyLivingroom A04B
     mc 08 "What? You're crazy!" 
-    mc 08 "She'll kill me if he finds out!" 
+    mc 08 "She'll kill me if she finds out!" 
     show bg LucyLivingroom A04A
     lcy 07 "Come on... you're my little [lcyR.MClabel]!!!! Be nice, do it for me." 
     mc 06 "{i}When she stretches her boobs like that... I would literally do anything to my [lcyR.MClabel]"
