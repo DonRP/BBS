@@ -240,3 +240,70 @@ label liza_lizaroom1:
     $ tm.new_hour(2)
     $ nail_polish = True
     jump after_wait
+
+label liza_lizasmartphone0:
+    mc 06 "{i}Hmmm... Liza is not in her room!" 
+    show smartphone bobby liza
+    mc 09 "{i}But he left his phone here!" 
+    mc 09 "{i}I need to find a way to unlock it!"
+    hide smartphone
+    mc 07 "{i}I better go think about this in my bedroom!" 
+    show bg Bobby A03
+    with fade
+    window hide
+    pause
+    mc "{i}So, how to unlock Liza's phone?" 
+    mc "{i}Hmm....." 
+    mc "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
+    mc "{i}Maybe if I find some kind of invisible ink and spread it on his phone." 
+    mc "{i}It just might work!!!" 
+    mc "{i}All I need is a UV flashlight and some invisible ink!" 
+    mc "{i}I have a UV flashlight, but where can I find the invisible ink?" 
+    mc "{i}I need an online search!" 
+    show bg Bobby A04
+    with fade
+    window hide
+    pause
+    mc 08 "{i}Wait!" 
+    window hide
+    pause
+    mc 00 "{i}LOL!!!" 
+    mc 05 "{i}Eh who could know!" 
+    mc 04 "{i}It says here that semen glows under a UV light." 
+    mc 06 "{i}Well..." 
+    mc 06 "{i}Let's do it!" 
+    $ sp_actions["lizasmartphone"] = Action(name = _("Liza smartphone"), icon = "/location/lizaroom-smartphone.webp", icon_selected = "/location/lizaroom-smartphone a.webp", label = "liza_lizasmartphone1", sp_room='liza_room',
+            is_in_room = True, xpos = 922, ypos = 563)
+    jump after_wait
+label liza_lizasmartphone1:
+    show bg LizaLizaRoom B01A
+    window hide
+    pause
+    show bg LizaLizaRoom B01 animated
+    window hide
+    pause
+    mc 03 "{i}she is so sexy"
+    mc 03 "{i}let's do it"
+    show bg LizaLizaRoom B01B
+    window hide
+    pause
+    show bg LizaLizaRoom B01D
+    window hide
+    pause
+    show bg LizaLizaRoom B01E
+    window hide
+    pause
+    show bg LizaLizaRoom B02 animated
+    window hide
+    pause
+    show bg LizaLizaRoom B02 fast animated
+    window hide
+    pause
+    show bg LizaLizaRoom B02C
+    window hide
+    pause
+    mc 03 "{i}Wow nice. Now I need to rub it genlty and run away"
+    $ del sp_actions["lizasmartphone"]
+    $ tm.new_hour(1)
+    call temporary_end_game
+    jump after_wait

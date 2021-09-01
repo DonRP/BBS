@@ -117,6 +117,10 @@ label lucy_livingroom1B:
     $ closed_rooms["livingroom"] = sp_routine["lucy_livingroom1"]
     $ del sp_routine["lucy_livingroom1"]
     $ del nail_polish
+    $ del closed_rooms["liza_room"]
     show bg LucyLivingroom A01A
     with fade
+    $ tm.new_hour(2)
+    $ sp_actions["lizasmartphone"] = Action(name = _("Liza smartphone"), icon = "/location/lizaroom-smartphone.webp", icon_selected = "/location/lizaroom-smartphone a.webp", label = "liza_lizasmartphone0", sp_room='liza_room',
+            is_in_room = True, xpos = 922, ypos = 563)
     jump after_wait

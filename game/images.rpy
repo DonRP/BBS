@@ -148,6 +148,29 @@ image bg LizaLizaRoom A00 = "/Liza-LizaRoom/A0[fable_minigame_score].webp"
 image bg LizaLizaRoom A04 = "/Liza-LizaRoom/A04.webp"
 image bg LizaLizaRoom A05 = "/Liza-LizaRoom/A05.webp"
 image bg LizaLizaRoom A06 = "/Liza-LizaRoom/A06.webp"
+image bg LizaLizaRoom B01A = "/Liza-LizaRoom/B01A.webp"
+image bg LizaLizaRoom B01 animated:
+    "/Liza-LizaRoom/B01B.webp" with dissolve
+    pause 1
+    "/Liza-LizaRoom/B01C.webp" with dissolve
+    pause 1
+    repeat
+image bg LizaLizaRoom B01B = "/Liza-LizaRoom/B01B.webp"
+image bg LizaLizaRoom B01D = "/Liza-LizaRoom/B01D.webp"
+image bg LizaLizaRoom B01E = "/Liza-LizaRoom/B01E.webp"
+image bg LizaLizaRoom B02 animated:
+    "/Liza-LizaRoom/B02A.webp" with dissolve
+    pause 0.7
+    "/Liza-LizaRoom/B02B.webp" with dissolve
+    pause 0.7
+    repeat
+image bg LizaLizaRoom B02 fast animated:
+    "/Liza-LizaRoom/B02A.webp" with dissolve
+    pause 0.5
+    "/Liza-LizaRoom/B02B.webp" with dissolve
+    pause 0.5
+    repeat
+image bg LizaLizaRoom B02C = "/Liza-LizaRoom/B02C.webp"
 
 # Lucy
 image bg LucyLivingroom A01A = "/Lucy-Livingroom/A01A.webp"
