@@ -199,6 +199,7 @@ init python:
     build.classify('LICENSE', None)
     build.classify('README.md', None)
     build.classify('game/images/.git/*', None)
+    build.classify('images/*', None)
     # crowdin
     build.classify('crowdin.yml', None)
     build.classify('**.po', None)
