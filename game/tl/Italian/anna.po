@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-08-31 20:01\n"
+"PO-Revision-Date: 2021-09-01 20:02\n"
 
 msgid "[TALKmc03] Wow!!"
-msgstr ""
+msgstr "[TALKmc03] Wow!!"
 
 msgid "[TALKmc00] Mmmm! Is fantastic!"
-msgstr ""
+msgstr "[TALKmc00] Mmmm! È fantastico!"
 
 msgid "[TALKmc08] WTF!"
-msgstr ""
+msgstr "[TALKmc08] WTF!"
 
 msgid "[TALKmc08] [annR.NPClabel]?!"
-msgstr ""
+msgstr "[TALKmc08] [annR.NPClabel]?!"
 
 msgid "[TALKmc08] Mrs. [ann]?!"
-msgstr ""
+msgstr "[TALKmc08] Sig.ra [ann]?!"
 
 msgid "[TALKmc08] {i}Oh God!!! It couldn't have been just a dream. "
-msgstr ""
+msgstr "[TALKmc08] {i}Oh Dio!!! Non poteva essere solo un sogno. "
 
 msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
 msgstr ""
@@ -37,7 +37,7 @@ msgid "[TALKmc07] {i}Mhh... Better to hide the flag raising before..."
 msgstr ""
 
 msgid "(KNOCK KNOCK)"
-msgstr ""
+msgstr "(TOC TOC)"
 
 msgid "[TALKmc08] {i}Shit!"
 msgstr ""
