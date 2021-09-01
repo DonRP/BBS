@@ -21,6 +21,9 @@ default lcyR = Relationship("housemate", "housemate", True)
 default jnnI = Information(name = "Jenny", sname = annI.sname, age = (18))
 define jnn = Character("{b}[lcyI.name]{/b}", color="#a800a3", image="jnnemo")
 default jnnR = Relationship("housemate", "housemate", True)
+# Olther
+default mikI = Information(name = "Mike", sname = "Williams", age = (20))
+define mik = Character("{b}[lcyI.name]{/b}", color="#09f", image="mikemo")
 
 # The game starts here.
 

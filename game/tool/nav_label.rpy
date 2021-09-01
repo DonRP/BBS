@@ -59,6 +59,11 @@ label closed_room_event:
     # Custom code
     # if (cur_room == ...):
         # ...
-    scene expression (bg_loc) as bg
+    if (cur_room.id == "liza_room" and tm.day == 0):
+        show bg Bobby A05
+        call screen room_navigation
+        return
+
+    # scene expression (Bobby) as bg
     call screen room_navigation
     return

@@ -189,4 +189,56 @@ label liza_lizaroom1:
         mc 07 "{i}Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
         $ cur_room = rooms[0]
         jump after_wait
+    $ fable_minigame_goal = 4
+    $ fable_minigame_score = 0
+    show bg LizaLizaRoom A00
+    with fade
+    call start_fable_2_minigame
+    window hide
+    pause
+    mc 04 "{i}Ah Ah! Found it!"
+    show bg LizaLizaRoom A04
+    with dissolve
+    liz 09 "Asshole!!!"
+    mc 08 "{i}WTF"
+    liz 09 "No way [mik]!"
+    scene black
+    mc 08 "{i}Fuck!"
+    window hide
+    pause
+    show bg LizaLizaRoom A05
+    with fade
+    window hide
+    pause
+    mc 00 "{i}Saved by the skin of my teeth!"
+    liz 05 "You promised me you would delete those pictures!" 
+    mc 07 "{i}Photos? Who the fuck is [mik]?"
+    show bg LizaLizaRoom A06
+    liz 05 "No, [mik]!"
+    window hide
+    pause
+    liz 07 "Please...don't!" 
+    liz 07 "You don't have to say anything to my boyfriend!" 
+    mc 08 "{i}Oh my God! I think this [mik] guy is blackmailing her!" 
+    liz 09 "Absolutely not!"
+    window hide
+    pause
+    liz 06 "That's what you said last time!" 
+    liz 07 "I can't do this again... please." 
+    window hide
+    pause
+    liz 07 "Don't do that!"
+    window hide
+    pause
+    liz 05 "Never!!! Fuck you!" 
+    mc 01 "{i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
+    mc 07 "{i}I need to find out more about these photos but I need to get out of here early and fast!"
+    show bg Bobby A05
+    with fade
+    window hide
+    pause
+    $ closed_rooms["liza_room"] = sp_routine["liza_lizaroom1"]
+    $ del sp_routine["liza_lizaroom1"]
+    $ tm.new_hour(2)
+    $ nail_polish = True
     jump after_wait
