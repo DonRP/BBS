@@ -135,8 +135,8 @@ msgstr "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let hi
 # game/labels/prologue.rpy:104
 # translate crowdin intro_a1a31ebe:
 
-msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
+msgstr "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
 
 # game/labels/prologue.rpy:108
 # translate crowdin intro_f7cf171f:
@@ -153,8 +153,8 @@ msgstr "Riggs [says] Your..."
 # game/labels/prologue.rpy:112
 # translate crowdin intro_cb092682:
 
-msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
-msgstr "Riggs [says] Was desperate to help you, while you didn't care. Right?"
+msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
+msgstr "Riggs [says] Was desperate to help. But you didn't care. Right?"
 
 # game/labels/prologue.rpy:113
 # translate crowdin intro_7ef8ffc8:

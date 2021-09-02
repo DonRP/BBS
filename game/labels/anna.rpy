@@ -75,7 +75,7 @@ label start_scene:
     mc 06 "{i}Think [mc]..."
     menu:
         mc "What I could do now:"
-        "Play some tricks on her":
+        "Play a trick on her":
             show bg AnnaMCRoom A03C
             window hide
             pause

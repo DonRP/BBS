@@ -101,7 +101,7 @@ label intro:
     with fade
     show prologue B04
     with fade
-    "Murtaugh" "Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
+    "Murtaugh" "Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
     show icon ann at center_delay(0.1)
     if renpy.variant("pc"):
         show prologue B04 blur with dissolve
@@ -109,7 +109,7 @@ label intro:
     $ annI.changeName()
     "Riggs" "Your..."
     $ annR.changeNPClabel()
-    "Riggs" "Was desperate to help you, while you didn't care. Right?"
+    "Riggs" "Was desperate to help. But you didn't care. Right?"
     "Murtaugh" "Let's rewind..."
     if (annR.NPClabel.lower() == __("mom") or annR.NPClabel.lower() == __("mother")):
         $ bl_values["incs"] = True
