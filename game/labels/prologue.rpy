@@ -53,18 +53,18 @@ label intro:
     "Newbie" "Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
     "Policewoman" "No!"
     "Newbie" "Me neither, but I've heard good things about it. We could..."
-    "Policewoman" "No!!!"
-    "Newbie" "Um... I didn't mean to hit on you it was just to get to know you a little bit."
-    "Policewoman" "Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-    "Policewoman" "Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-    "Newbie" "Yes! Mrs!"
+    "Policewoman" "I don't think so!!!"
+    "Newbie" "Um... I wasn't coming on to you, just wanted to know a bit more about you."
+    "Policewoman" "Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
+    "Policewoman" "With that said, I'm not here to make friends, were partners. Understood?"
+    "Newbie" "Yes! Mam!"
     window hide
     pause
     "Policewoman" "Okay, we're here."
     window hide
     pause
-    "Policewoman" "Newbie, let's see how canvas cables move a handcuffed thug."
-    "Newbie" "You heard her, the back! Today is your big day..."
+    "Policewoman" "Newbie, make sure the thug is getting comfortable with the handcuffs."
+    "Newbie" "You heard her! Today is your big day..."
     show prologue A03
     with fade
     window hide
@@ -73,20 +73,20 @@ label intro:
     with fade
     window hide
     pause
-    "Cop" "Make cheese..."
+    "Cop" "Smile pretty..."
     "Cop" "Okay, now let's see who we have here today:"
     "Cop" "Name:"
     $ mcI.changeName()
     show prologue B00B
     "Cop" "Surname:"
     $ mcI.changeSurname()
-    "Cop" "Age: 24 years."
-    "Cop" "Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
+    "Cop" "Age: 24 years old."
+    "Cop" "Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
     show prologue B01 at center_delay(0.1)
     with fade
-    "Riggs" "Here he is! Our suspect... How about that... he has a face like a criminal."
-    "Murtaugh" "The real question is whether he is more of a thief or more of a killer."
-    "Murtaugh" "Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
+    "Riggs" "Here he is! Our suspect... How about that... He doesn't look like a criminal."
+    "Murtaugh" "The real question is whether he is more of a petty thief or hardened killer."
+    "Murtaugh" "Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you... [mc]! AKA are the bad guy!"
     show prologue B02
     with fade
     show prologue B05
@@ -94,7 +94,7 @@ label intro:
     show prologue B03A
     with fade
     "Riggs" "YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-    "Murtaugh" "Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
+    "Murtaugh" "Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
     show prologue B05
     with fade
     show prologue B03B
@@ -124,14 +124,14 @@ label intro:
         $ jnnR.MClabel = lcyR.MClabel
         $ jnnR.NPClabel = lcyR.NPClabel
         show icon liza at center_delay(0.1)
-        "Murtaugh" "Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
+        "Murtaugh" "Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
         $ lizI.changeName()
         "Murtaugh" "The children of the man who impregnated her when she was only 18 and then left her."
         show icon lucy at center_delay(0.1)
-        "Murtaugh" "Not recognizing his daughter..."
+        "Murtaugh" "Not caring about her..."
         $ lcyI.changeName()
         show icon jenny at center_delay(0.1)
-        "Murtaugh" "After that she tried to rebuild her life by having another daughter by a better man...."
+        "Murtaugh" "After that she tried to rebuild her life by having another child with a better man...."
         $ jnnI.changeName()
     else:
         $ bl_values["incs"] = False
@@ -145,16 +145,16 @@ label intro:
         $ lcyR.NPClabel = lizR.NPClabel
         $ jnnR.MClabel = lcyR.MClabel
         $ jnnR.NPClabel = lcyR.NPClabel
-        "Murtaugh" "Anna after your mother died, she decided to bring you into her home..."
+        "Murtaugh" "[ann], after your step-mother died, she decided to bring you into her home..."
         "Murtaugh" "Although you are the son of her ex-boyfriend."
         show icon lucy at center_delay(0.1)
-        "Murtaugh" "Treating you like another son, making you sleep under the same roof as his daughters..."
+        "Murtaugh" "Treating you like a son, letting you sleep under the same roof as her daughters..."
         $ lcyI.changeName()
         show icon jenny at center_delay(0.1)
         "Murtaugh" "And..."
         $ jnnI.changeName()
         show icon liza at center_delay(0.1)
-        "Murtaugh" "and her leaseholder..."
+        "Murtaugh" "and the other..."
         $ lizI.changeName()
     show prologue B04 with dissolve
     hide icon
@@ -166,13 +166,13 @@ label intro:
     with fade
     show prologue B06
     with fade
-    "Riggs" "You don't talk huh?"
+    "Riggs" "You don't talk much, huh?"
     "Riggs" "Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
     show prologue B07
     with fade
     mc "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-    mc "At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-    mc "But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-    mc "I'm starting to fall apart after that dream...."
+    mc "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
+    mc "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+    mc "It all started unravelling after that dream...."
     hide prologue
     return

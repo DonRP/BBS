@@ -221,8 +221,8 @@ msgid "I would like a hug"
 msgstr "I would like a hug"
 
 #    # game/labels/anna.rpy:76
-msgid "Play a trick on her"
-msgstr "Play a trick on her"
+msgid "Play some tricks on her"
+msgstr "Play some tricks on her"
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
