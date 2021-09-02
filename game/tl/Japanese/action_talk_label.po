@@ -10,38 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-08-28 15:35\n"
+"PO-Revision-Date: 2021-09-02 12:50\n"
 
-msgid "[TALKmc] Hi [a]"
+msgid "OK, I'm off. See you."
 msgstr ""
 
-msgid "[TALKa] Hi, can you tell me something?"
+msgid "It's getting late. See you."
 msgstr ""
 
-msgid "Now is busy test later."
+msgid "Sorry, but I have to go now. Bye."
 msgstr ""
 
-msgid "[TALKmc] OK, I'm off. See you."
+msgid "Good talk. We should do this more often."
 msgstr ""
 
-msgid "[TALKmc] It's getting late. See you."
+msgid "I just remembered something. Gotta go! Bye."
 msgstr ""
 
-msgid "[TALKmc] Sorry, but I have to go now. Bye."
+msgid "I won't keep you any longer. Bye."
 msgstr ""
 
-msgid "[TALKmc] Good talk. We should do this more often."
+msgid "I was supposed to tell you something else.... But I can't remember."
 msgstr ""
 
-msgid "[TALKmc] I just remembered something. Gotta go! Bye."
-msgstr ""
-
-msgid "[TALKmc] I won't keep you any longer. Bye."
-msgstr ""
-
-msgid "[TALKmc] I was supposed to tell you something else.... But I don't remember."
-msgstr ""
-
-msgid "[TALKmc] Patience when it comes back to me I'll let you know, bye."
+msgid "When it comes back to me I'll let you know, bye."
 msgstr ""
 
