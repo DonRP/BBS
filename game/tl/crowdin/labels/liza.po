@@ -249,8 +249,8 @@ msgstr "[TALKmc01] {i}Hmm... I'll get my revenge somehow."
 # game/labels/liza.rpy:87
 # translate crowdin liza_kitchen1B_c7c4d98a:
 
-    # mc 20 "So how's breakfast?"
-    mc 20 "So how's breakfast?"
+msgid "[TALKmc20] So how's breakfast?"
+msgstr "[TALKmc20] So how's breakfast?"
 
 # game/labels/liza.rpy:88
 # translate crowdin liza_kitchen1B_ce0ce35f:
