@@ -10,12 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2021-08-27 15:05\n"
+"PO-Revision-Date: 2021-09-02 12:51\n"
 
 msgid "Welcome to [config.name]"
 msgstr ""
 
 #    # game/script.rpy:12
-msgid "Smurf"
+msgid "smurf"
+msgstr ""
+
+#    # game/script.rpy:20
+msgid "dwarf"
 msgstr ""
 
