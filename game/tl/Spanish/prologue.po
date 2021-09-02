@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-02 10:32\n"
+"PO-Revision-Date: 2021-09-02 12:51\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Novato [says] Probaste ese nuevo restaurante italiano ¿cómo se llamaba? ¡Así lo recuerdo! Da Luigi."
@@ -78,8 +78,8 @@ msgstr "Riggs [says] CREES QUE ESTO ES UN JUEGO!!! ¿QUIERES TERMINAR COMO TU PA
 msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
 msgstr ""
 
-msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr "Murtaugh [says] Echemos un vistazo más de cerca a su archivo... Después de los 20 años comenzó a entrar y salir de las casas de medio camino..."
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
+msgstr ""
 
 msgid "Riggs [says] Whereas, she..."
 msgstr "Riggs [says] Mientras que, ella..."
@@ -87,8 +87,8 @@ msgstr "Riggs [says] Mientras que, ella..."
 msgid "Riggs [says] Your..."
 msgstr "Riggs [says] Tu..."
 
-msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
-msgstr "Riggs [says] Estaba desesperado por ayudarte, mientras que a ti no te importaba. ¿Correcto?"
+msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
+msgstr ""
 
 msgid "Murtaugh [says] Let's rewind..."
 msgstr "Murtaugh [says] Rebobinamos..."
@@ -126,16 +126,16 @@ msgstr ""
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr "Riggs [says] Bueno, tenemos suficiente para mantenerte dentro por algunas noches. ¡A ver si cambias de opinión!"
 
-msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr "[TALKmc] ¿Qué me pasó... Era un niño tan feliz... Realmente pensé que estaba dejando todo el dolor atrás."
-
-msgid "[TALKmc] At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
+msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
 msgstr ""
 
-msgid "[TALKmc] But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
 msgstr ""
 
-msgid "[TALKmc] It all started unravelling after that dream...."
+msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+msgstr ""
+
+msgid "It all started unravelling after that dream...."
 msgstr ""
 
 #    # game/labels/prologue.rpy:42
