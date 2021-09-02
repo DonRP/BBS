@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-02 10:33\n"
+"PO-Revision-Date: 2021-09-02 12:51\n"
 
 #    # game/tool/action_value.rpy:7
 msgid "Nap"
@@ -22,9 +22,9 @@ msgstr "PC portable"
 
 #    # game/tool/action_value.rpy:7
 msgid "Stealth Training"
-msgstr ""
+msgstr "Entraînement à la furtivité"
 
 #    # game/tool/action_value.rpy:7
 msgid "Go to Kitchen"
-msgstr ""
+msgstr "Aller à la cuisine"
 
