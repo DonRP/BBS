@@ -1,10 +1,10 @@
 ﻿# TODO: Translation updated at 2021-08-31 17:17
 
 # game/tool/temporary_end.rpy:5
-# translate crowdin temporary_end_story_25e4d9c4:
+# translate crowdin temporary_end_story_6b1ac0bf:
 
-msgid "This is the temporary end (current version: [config.version]). You'll have to wait new update."
-msgstr "This is the temporary end (current version: [config.version]). You'll have to wait new update."
+msgid "This is the temporary end (current version: [config.version]). You'll have to wait for a new update."
+msgstr "This is the temporary end (current version: [config.version]). You'll have to wait for a new update."
 
 # game/tool/temporary_end.rpy:6
 # translate crowdin temporary_end_story_f6efdedc:
@@ -13,16 +13,16 @@ msgid "If you want more updates, support me on {a=patreon_link}Patreon"
 msgstr "If you want more updates, support me on {a=patreon_link}Patreon"
 
 # game/tool/temporary_end.rpy:14
-# translate crowdin temporary_end_game_ae6086f7:
+# translate crowdin temporary_end_game_483daf94:
 
-msgid "Save the game now and not later."
-msgstr "Save the game now and not later."
+msgid "Save your game now."
+msgstr "Save your game now."
 
 # game/tool/temporary_end.rpy:18
-# translate crowdin temporary_end_game_e8ca7291:
+# translate crowdin temporary_end_game_acd601c2:
 
-msgid "Pressing ENTER will return to the Main Menu."
-msgstr "Pressing ENTER will return to the Main Menu."
+msgid "Pressing ENTER will return you to the Main Menu."
+msgstr "Pressing ENTER will return you to the Main Menu."
 
 # game/tool/temporary_end.rpy:25
 # translate crowdin coming_soon_368b820a:
