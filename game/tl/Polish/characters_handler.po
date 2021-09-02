@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-31 15:42\n"
+"PO-Revision-Date: 2021-09-02 10:33\n"
 
 msgid "Player [says] My name is:"
-msgstr ""
+msgstr "Gracz[says] Moje imię to:"
 
 msgid "Player [says] My surname is:"
-msgstr ""
+msgstr "Gracz [says] Moje nazwisko to:"
 
