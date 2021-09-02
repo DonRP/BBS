@@ -6,7 +6,7 @@ label intro_dream:
     window hide
     mc 03 "Wow!!"
     pause
-    mc 00 "Mmmm! Is fantastic!"
+    mc 00 "Mmmm! It's fantastic!"
     window hide
     pause
     show bg AnnaDream A02A animated
@@ -14,7 +14,7 @@ label intro_dream:
     pause
     mc 08 "WTF!"
     if (bl_values["incs"]):
-        mc 08 "[annR.NPClabel]?!"
+        mc 08 "[annR.NPClabel] Huh?!"
     else:
         mc 08 "Mrs. [ann]?!"
     window hide
@@ -31,23 +31,23 @@ label intro_dream:
 label start_scene:
     show black
     with fade
-    mc 08 "{i}Oh God!!! It couldn't have been just a dream. "
+    mc 08 "{i}Oh God!!! Was it just a dream. "
     show bg Bobby A00
     with fade
     mc 07 "{i}What has gotten into me?! This is so wrong!"
-    mc 07 "{i}Mhh... Better to hide the flag raising before..."
+    mc 07 "{i}Mhh... Better to hide this tent pole before..."
     show bg AnnaMCRoom A01B
     "(KNOCK KNOCK)"
-    mc 08 "{i}Shit!"
+    mc 08 "{i}Damn it!"
     show bg AnnaMCRoom A01C
     window hide
     pause
     show bg AnnaMCRoom A01A
     ann 00 "Good morning Bobby! Time to get up!"
     mc 12 "Yawn! Morning."
-    ann 00 "I need to do laundry, do you have anything to wash?"
+    ann 00 "I'm doing laundry, do you have anything to wash?"
     show bg AnnaMCRoom A02A
-    mc 07 "Yawn! Boh, I don't remember."
+    mc 07 "Yawn! Sorry, I can't remember."
     ann 00 "Let's see, I had left... ah! there it is!"
     show bg AnnaMCRoom A02B
     window hide
@@ -56,11 +56,11 @@ label start_scene:
     menu:
         ann "What's the matter, honey? You're so quiet this morning."
         "About the dream":
-            mc 00 "I'm fine, I just had a weird dream."
+            mc 00 "I'm fine, I just a weird dream."
             ann 00 "Tell me! What dream?"
-            mc 08 "Ahahahah... emmm... it's in a bit hard to explain."
+            mc 08 "Ahahahah... emmm... it's a bit hard to explain."
         "I would like to hug":
-            mc 10 "I just need a hug...."
+            mc 10 "I really need a hug...."
             ann 00 "Ahah! {p}Don't be silly."
     window hide
     pause
@@ -71,7 +71,7 @@ label start_scene:
     show bg AnnaMCRoom A03D
     window hide
     pause
-    mc 10 "{i}Oh fuck, what big curves..."
+    mc 10 "{i}Oh fuck, what nice curves..."
     mc 06 "{i}Think [mc]..."
     menu:
         mc "What I could do now:"
@@ -81,7 +81,7 @@ label start_scene:
             pause
             show bg AnnaMCRoom A03A
             if (bl_values["incs"]):
-                mc 13 "[annR.NPClabel]?!"
+                mc 13 "[annR.NPClabel] Huh?!"
             else:
                 mc 13 "Mrs. [ann]?!"
             show bg AnnaMCRoom A03B
