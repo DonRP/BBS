@@ -10,137 +10,137 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-31 15:42\n"
+"PO-Revision-Date: 2021-09-02 10:33\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr ""
+msgstr "Świeżak [says] próbowałeś tej nowej włoskiej restauracji... jak się nazywała?! A tak! Da Luigi."
 
 msgid "Policewoman [says] No!"
-msgstr ""
+msgstr "Policjantka [says] Nie!"
 
 msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
+msgstr "Świeżak [says] Ja też, ale słyszałem o tym dobre rzeczy. Moglibyśmy..."
+
+msgid "Policewoman [says] I don't think so!!!"
+msgstr "Policjantka [says] Nie wydaje mi się!!!"
+
+msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
 msgstr ""
 
-msgid "Policewoman [says] No!!!"
+msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
+msgstr "Policjantka[says] Już Ci mówiłam, świeżaku... Jestem tutaj tylko po to, żebyś nie zginął i dlatego, że szef kazał mi z kimś pracować... Pierdolenie!"
+
+msgid "Policewoman [says] With that said, I'm not here to make friends, were partners. Understood?"
 msgstr ""
 
-msgid "Newbie [says] Um... I didn't mean to hit on you it was just to get to know you a little bit."
-msgstr ""
-
-msgid "Policewoman [says] Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-msgstr ""
-
-msgid "Policewoman [says] Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-msgstr ""
-
-msgid "Newbie [says] Yes! Mrs!"
-msgstr ""
+msgid "Newbie [says] Yes! Mam!"
+msgstr "Świeżak [says] Tak proszę pani!"
 
 msgid "Policewoman [says] Okay, we're here."
-msgstr ""
+msgstr "Policjantka [says] No dobrze, jesteśmy."
 
-msgid "Policewoman [says] Newbie, let's see how canvas cables move a handcuffed thug."
-msgstr ""
+msgid "Policewoman [says] Newbie, make sure the thug is getting comfortable with the handcuffs."
+msgstr "Policjantka [says] Świeżak, upewnij się, że bandyta czuje się komfortowo z kajdankami."
 
-msgid "Newbie [says] You heard her, the back! Today is your big day..."
-msgstr ""
+msgid "Newbie [says] You heard her! Today is your big day..."
+msgstr "Świeżak [says] Słyszałeś ją! Dziś jest twój wielki dzień..."
 
-msgid "Cop [says] Make cheese..."
-msgstr ""
+msgid "Cop [says] Smile pretty..."
+msgstr "Glina [says] Uśmiechnij się ładnie..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
-msgstr ""
+msgstr "Glina [says] W porządku, zobaczmy kogo mamy dzisiaj:"
 
 msgid "Cop [says] Name:"
-msgstr ""
+msgstr "Glina [says] Imię:"
 
 msgid "Cop [says] Surname:"
-msgstr ""
+msgstr "Glina [says] Nazwisko:"
 
-msgid "Cop [says] Age: 24 years."
-msgstr ""
+msgid "Cop [says] Age: 24 years old."
+msgstr "Glina [says] Wiek: 24 lata."
 
-msgid "Cop [says] Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
-msgstr ""
+msgid "Cop [says] Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
+msgstr "Glina [says] Dobrze! Teraz, prosto do pokoju przesłuchań, funkcjonariusze Murtaugh i Riggs chcą z tobą pogawędzić."
 
-msgid "Riggs [says] Here he is! Our suspect... How about that... he has a face like a criminal."
-msgstr ""
+msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
+msgstr "Riggs [says] Tutaj jest! Nasz podejrzany... A co z tym... On nie wygląda jak przestępca."
 
-msgid "Murtaugh [says] The real question is whether he is more of a thief or more of a killer."
-msgstr ""
+msgid "Murtaugh [says] The real question is whether he is more of a petty thief or hardened killer."
+msgstr "Murtaugh [says] Prawdziwą zagadką jest to czy jest on drobnym złodziejem, czy zatwardziałym mordercą."
 
-msgid "Murtaugh [says] Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
-msgstr ""
+msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you... [mc]! AKA are the bad guy!"
+msgstr "Murtaugh [says] Oh moje przeprosiny, gdzie są moje maniery? Jesteśmy Murtaugh i Riggs, a ty... [mc]! AKA zły facet!"
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-msgstr ""
+msgstr "Riggs [says] MYŚLISZ, ŻE TO JEST GRA!!! CZY CHCESZ SKOŃCZYĆ JAK TWÓJ OJCIEC???"
 
-msgid "Murtaugh [says] Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
-msgstr ""
+msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
+msgstr "Murtaugh [says] Spokojnie... Spokojnie Riggs. Wiemy, że jest niewinny. Ale żeby go wypuścili, musimy wiedzieć, kim jest jego partner."
 
 msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr ""
+msgstr "Murtaugh [says] Przyjrzyjmy się bliżej Twojej kartotece... Po skończeniu 20 lat był częstym gościem ośrodków resocjalizacji..."
 
 msgid "Riggs [says] Whereas, she..."
-msgstr ""
+msgstr "Riggs [says] Podczas gdy ona..."
 
 msgid "Riggs [says] Your..."
-msgstr ""
+msgstr "Riggs [says] Twoje..."
 
 msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
-msgstr ""
+msgstr "Riggs [says] był zdesperowany, by ci pomóc, a ty się nie przejmowałeś. Prawda?"
 
 msgid "Murtaugh [says] Let's rewind..."
-msgstr ""
+msgstr "Murtaugh [says] Cofnijmy się..."
 
-msgid "Murtaugh [says] Anna after your mother died, she decided to bring you and your [lizR.NPClabel] into her home..."
-msgstr ""
+msgid "Murtaugh [says] Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
+msgstr "Murtaugh [says] Anna, po śmierci twojej macochy, postanowiła sprowadzić Ciebie i Twojego [lizR.NPClabel] do jej domu..."
 
 msgid "Murtaugh [says] The children of the man who impregnated her when she was only 18 and then left her."
-msgstr ""
+msgstr "Murtaugh [says] Dzieci mężczyzny, który ją zapłodnił gdy miała tylko 18 lat a potem ją zostawili."
 
-msgid "Murtaugh [says] Not recognizing his daughter..."
-msgstr ""
+msgid "Murtaugh [says] Not caring about her..."
+msgstr "Murtaugh [says] Nie troszczy się o nią..."
 
-msgid "Murtaugh [says] After that she tried to rebuild her life by having another daughter by a better man...."
-msgstr ""
+msgid "Murtaugh [says] After that she tried to rebuild her life by having another child with a better man...."
+msgstr "Murtaugh [says] Po tym, jak próbowała odbudować swoje życie przez zrobienie jeszcze jednego dziecka z lepszym człowiekiem...."
 
-msgid "Murtaugh [says] Anna after your mother died, she decided to bring you into her home..."
-msgstr ""
+msgid "Murtaugh [says] [ann], after your step-mother died, she decided to bring you into her home..."
+msgstr "Murtaugh [says] [ann], po śmierci twojej macochy, postanowiła sprowadzić Ciebie do jej domu..."
 
 msgid "Murtaugh [says] Although you are the son of her ex-boyfriend."
-msgstr ""
+msgstr "Murtaugh [says] Mimo że jesteś synem jej byłego chłopaka."
 
-msgid "Murtaugh [says] Treating you like another son, making you sleep under the same roof as his daughters..."
-msgstr ""
+msgid "Murtaugh [says] Treating you like a son, letting you sleep under the same roof as her daughters..."
+msgstr "Murtaugh [says] Trakując cię jak syna, pozwalając spać pod tym samym dachem co jej córki..."
 
 msgid "Murtaugh [says] And..."
-msgstr ""
+msgstr "Murtaugh [says] I..."
 
-msgid "Murtaugh [says] and her leaseholder..."
-msgstr ""
+msgid "Murtaugh [says] and the other..."
+msgstr "Murtaugh [says] i inne..."
 
-msgid "Riggs [says] You don't talk huh?"
-msgstr ""
+msgid "Riggs [says] You don't talk much, huh?"
+msgstr "Riggs [says] Nie gadasz zbyt wiele, co?"
 
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
-msgstr ""
+msgstr "Riggs [says] Cóż, mamy wystarczająco dużo, aby zatrzymać Cię na kilka nocy. Zobaczmy, czy zmienisz zdanie!"
 
 msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr ""
+msgstr "[TALKmc] Co się ze mną stało... Byłem takim szczęśliwym dzieckiem... Naprawdę myślałam, że zostawiam cały ból za sobą."
 
-msgid "[TALKmc] At first at [ann]'s house, it seemed to go well. I was really hoping it would all work out."
-msgstr ""
+msgid "[TALKmc] At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
+msgstr "[TALKmc] Na początku, w domu [ann], wydawało się, że wszystko idzie dobrze. Miałem nadzieję, że wszystko się ułoży."
 
-msgid "[TALKmc] But then from that cold late summer a few years ago... when Nokia was still a good smartphone brand."
-msgstr ""
+msgid "[TALKmc] But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+msgstr "[TALKmc] Ale potem, pod koniec lata, kilka lat temu... (scoffing), gdy Nokia była jeszcze dobrym smartfonem."
 
-msgid "[TALKmc] I'm starting to fall apart after that dream...."
-msgstr ""
+msgid "[TALKmc] It all started unravelling after that dream...."
+msgstr "[TALKmc] Wszystko zaczęło się wyjaśniać po tym śnie...."
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
-msgstr ""
+msgstr "Specjalne podziękowania"
 
 #    # game/labels/prologue.rpy:46
 msgid "3D Modeling\n"
@@ -151,7 +151,14 @@ msgid "3D Modeling\n"
 "bxIvan\n"
 "Megaplayboy10k\n"
 "SummmerP"
-msgstr ""
+msgstr "Modelowanie 3D\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Pozostałe wsparcie\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
@@ -163,11 +170,11 @@ msgstr "matka"
 
 #    # game/labels/prologue.rpy:116
 msgid "step son"
-msgstr ""
+msgstr "pasierb"
 
 #    # game/labels/prologue.rpy:117
 msgid "step mom"
-msgstr ""
+msgstr "macocha"
 
 #    # game/labels/prologue.rpy:120
 msgid "brother"
@@ -191,9 +198,9 @@ msgstr "właściciel"
 
 #    # game/labels/prologue.rpy:139
 msgid "leaseholder"
-msgstr ""
+msgstr "dzierżawca"
 
 #    # game/labels/prologue.rpy:142
 msgid "housemate"
-msgstr ""
+msgstr "współlokator"
 
