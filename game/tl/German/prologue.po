@@ -10,85 +10,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-08-31 15:42\n"
+"PO-Revision-Date: 2021-09-02 09:30\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr ""
+msgstr "Neuling [says] Hast Du das neue italienische Restaurant ausprobiert... wie hieß es?! Oh, okay! Da Luigi."
 
 msgid "Policewoman [says] No!"
-msgstr ""
+msgstr "Polizistin [says] Nein!"
 
 msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
-msgstr ""
+msgstr "Neuling [says] ich auch nicht, aber ich habe gute Dinge darüber gehört. Wir könnten..."
 
 msgid "Policewoman [says] No!!!"
-msgstr ""
+msgstr "Polizistin [says] Nein!!!"
 
 msgid "Newbie [says] Um... I didn't mean to hit on you it was just to get to know you a little bit."
-msgstr ""
+msgstr "Neuling [says] Uhm... Ich habe nicht gemeint, dich zu daten, es war nur, um dich ein wenig kennenzulernen."
 
 msgid "Policewoman [says] Rookie, I've already explained... I'm only here so you don't get killed and because the boss says I can't work alone... Bullshit!"
-msgstr ""
+msgstr "Polizistin [says] Anfänger, ich habe es schon erklärt... ich bin nur hier, damit du nicht getötet wirst und weil der Boss sagt, dass ich nicht alleine arbeiten kann... Verdammt!"
 
 msgid "Policewoman [says] Other than that, to each their own, and their own cases. I'm not here to make friends. Understood?"
-msgstr ""
+msgstr "Polizistin [says] Abgesehen davon, jedem das Seine, und die eigenen Fälle. Ich bin nicht hier, um Freunde zu finden. Verstanden?"
 
 msgid "Newbie [says] Yes! Mrs!"
-msgstr ""
+msgstr "Neuling [says] Ja! Frau!"
 
 msgid "Policewoman [says] Okay, we're here."
-msgstr ""
+msgstr "Polizistin [says] Okay, wir sind da."
 
 msgid "Policewoman [says] Newbie, let's see how canvas cables move a handcuffed thug."
-msgstr ""
+msgstr "Polizistin [says] Newbie, lass uns mal sehen wie man das Leinenkabel als Handschellen verwenden kann."
 
 msgid "Newbie [says] You heard her, the back! Today is your big day..."
-msgstr ""
+msgstr "Neuling [says] Du hast sie gehört, dreh dich um! Heute ist dein großer Tag..."
 
 msgid "Cop [says] Make cheese..."
-msgstr ""
+msgstr "Polizist [says] Bitte lächeln..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
-msgstr ""
+msgstr "Polizist [says] Okay, jetzt mal sehen, wen wir hier haben:"
 
 msgid "Cop [says] Name:"
-msgstr ""
+msgstr "Polizist [says] Name:"
 
 msgid "Cop [says] Surname:"
-msgstr ""
+msgstr "Polizist [says] Nachname:"
 
 msgid "Cop [says] Age: 24 years."
-msgstr ""
+msgstr "Polizist [says] Alter: 24 Jahre."
 
 msgid "Cop [says] Good! Now go straight to the interrogation room and wait for police officers Murtaugh and Riggs."
-msgstr ""
+msgstr "Polizist [says] Gut! Gehen Sie nun direkt in den Verhörraum und warten Sie auf die Polizisten Murtaugh und Riggs."
 
 msgid "Riggs [says] Here he is! Our suspect... How about that... he has a face like a criminal."
-msgstr ""
+msgstr "Riggs [says] Hier ist er! Unser Verdächtiger... Wie wäre es damit... er hat ein Gesicht wie ein Verbrecher."
 
 msgid "Murtaugh [says] The real question is whether he is more of a thief or more of a killer."
-msgstr ""
+msgstr "Murtaugh [says] Die eigentliche Frage ist, ob er eher ein Dieb oder eher ein Mörder ist."
 
 msgid "Murtaugh [says] Oh sorry I was forgetting my manners. We are Murtaugh and Riggs, and you... should be [mc]! AKA the bad guy!"
-msgstr ""
+msgstr "Murtaugh [says] Oh tut mir leid, dass ich meine Manieren vergessen habe. Wir sind Murtaugh und Riggs, und Sie... sollten [mc] sein! auch bekannt als der Bösewicht!"
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
-msgstr ""
+msgstr "Riggs [says] DU DENKST, DASS IST EIN SPIEL IST!!! WILLST DU WIE DEIN VATER ENDEN???"
 
 msgid "Murtaugh [says] Easy, easy Riggs. Guy, I know you didn't do it. You gotta tell us who your partner is."
-msgstr ""
+msgstr "Murtaugh [says] Ruhig, ruhig Riggs. Bursche, ich weiß, dass du es nicht getan hast. Du musst uns aber sagen, wer dein Partner ist."
 
 msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr ""
+msgstr "Murtaugh [says] Werfen wir einen genaueren Blick auf deine Akte... im Alter von 20 Jahren kam er immer wieder in Rehabilitationszentren..."
 
 msgid "Riggs [says] Whereas, she..."
-msgstr ""
+msgstr "Riggs [says] Wobei sie..."
 
 msgid "Riggs [says] Your..."
-msgstr ""
+msgstr "Riggs [says] Ihre..."
 
 msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
-msgstr ""
+msgstr "Riggs [says] Wollte dir unbedingt helfen, während es dir egal war. r. Richtig?"
 
 msgid "Murtaugh [says] Let's rewind..."
 msgstr ""
