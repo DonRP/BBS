@@ -50,51 +50,59 @@ msgstr "{color=#00ff00}{b}+{/b} Lust"
 msgid "{color=#f00} {b}-{/b} Lust"
 msgstr "{color=#f00} {b}-{/b} Lust"
 
+#    # game/tool/notifications_value.rpy:14
+msgid "{color=#00ff00}{b}+{/b} Submission"
+msgstr "{color=#00ff00}{b}+{/b} Submission"
+
 #    # game/tool/notifications_value.rpy:15
+msgid "{color=#f00} {b}-{/b} Submission"
+msgstr "{color=#f00} {b}-{/b} Submission"
+
+#    # game/tool/notifications_value.rpy:17
 msgid "{color=#00ff00}{b}+{/b} Friendship"
 msgstr "{color=#00ff00}{b}+{/b} Friendship"
 
-#    # game/tool/notifications_value.rpy:16
+#    # game/tool/notifications_value.rpy:18
 msgid "{color=#f00} {b}-{/b} Friendship"
 msgstr "{color=#f00} {b}-{/b} Friendship"
 
-#    # game/tool/notifications_value.rpy:17
+#    # game/tool/notifications_value.rpy:19
 msgid "{color=#00ff00}{b}+{/b} Favour"
 msgstr "{color=#00ff00}{b}+{/b} Favour"
 
-#    # game/tool/notifications_value.rpy:18
+#    # game/tool/notifications_value.rpy:20
 msgid "{color=#f00} {b}-{/b} Favour"
 msgstr "{color=#f00} {b}-{/b} Favour"
 
-#    # game/tool/notifications_value.rpy:19
+#    # game/tool/notifications_value.rpy:21
 msgid "{color=#00ff00}{b}+{/b} Love"
 msgstr "{color=#00ff00}{b}+{/b} Love"
 
-#    # game/tool/notifications_value.rpy:20
+#    # game/tool/notifications_value.rpy:22
 msgid "{color=#f00} {b}-{/b} Love"
 msgstr "{color=#f00} {b}-{/b} Love"
 
-#    # game/tool/notifications_value.rpy:21
+#    # game/tool/notifications_value.rpy:23
 msgid "{color=#00ff00}{b}+{/b} Corruption"
 msgstr "{color=#00ff00}{b}+{/b} Corruption"
 
-#    # game/tool/notifications_value.rpy:22
+#    # game/tool/notifications_value.rpy:24
 msgid "{color=#f00} {b}-{/b} Corruption"
 msgstr "{color=#f00} {b}-{/b} Corruption"
 
-#    # game/tool/notifications_value.rpy:23
+#    # game/tool/notifications_value.rpy:25
 msgid "{color=#f00}{b}+{/b} Anger"
 msgstr "{color=#f00}{b}+{/b} Anger"
 
-#    # game/tool/notifications_value.rpy:24
+#    # game/tool/notifications_value.rpy:26
 msgid "{color=#00ff00} {b}-{/b} Anger"
 msgstr "{color=#00ff00} {b}-{/b} Anger"
 
-#    # game/tool/notifications_value.rpy:25
+#    # game/tool/notifications_value.rpy:27
 msgid "{color=#f00}{b}+{/b} Fear"
 msgstr "{color=#f00}{b}+{/b} Fear"
 
-#    # game/tool/notifications_value.rpy:26
+#    # game/tool/notifications_value.rpy:28
 msgid "{color=#00ff00} {b}-{/b} Fear"
 msgstr "{color=#00ff00} {b}-{/b} Fear"
 

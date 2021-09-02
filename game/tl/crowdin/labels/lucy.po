@@ -1,0 +1,366 @@
+﻿# TODO: Translation updated at 2021-09-02 13:54
+
+# game/labels/lucy.rpy:3
+# translate crowdin lucy_livingroom1_d9c2c9fa:
+
+msgid "[TALKmc00] Ehilà"
+msgstr "[TALKmc00] Ehilà"
+
+# game/labels/lucy.rpy:6
+# translate crowdin lucy_livingroom1_d3a933a9:
+
+msgid "[TALKmc02] Hi [lcy]..."
+msgstr "[TALKmc02] Hi [lcy]..."
+
+# game/labels/lucy.rpy:7
+# translate crowdin lucy_livingroom1_30562893:
+
+msgid "[TALKlcy02] Ehi..."
+msgstr "[TALKlcy02] Ehi..."
+
+# game/labels/lucy.rpy:8
+# translate crowdin lucy_livingroom1_bc9e18a2:
+
+msgid "[TALKmc00] What are you doing?"
+msgstr "[TALKmc00] What are you doing?"
+
+# game/labels/lucy.rpy:10
+# translate crowdin lucy_livingroom1_7e24cfe6:
+
+msgid "[TALKlcy02] What does it look like I'm doing?"
+msgstr "[TALKlcy02] What does it look like I'm doing?"
+
+# game/labels/lucy.rpy:12
+# translate crowdin lucy_livingroom1_dcab4b6e:
+
+msgid "[TALKmc10] Need help?"
+msgstr "[TALKmc10] Need help?"
+
+# game/labels/lucy.rpy:14
+# translate crowdin lucy_livingroom1_dd41f005:
+
+msgid "[TALKlcy06] From you... No, thanks! I don't need your help."
+msgstr "[TALKlcy06] From you... No, thanks! I don't need your help."
+
+# game/labels/lucy.rpy:16
+# translate crowdin lucy_livingroom1_8831e51d:
+
+msgid "[TALKmc03] {i}Mmm... Look at that little foot!"
+msgstr "[TALKmc03] {i}Mmm... Look at that little foot!"
+
+# game/labels/lucy.rpy:17
+# translate crowdin lucy_livingroom1_3862aec6:
+
+msgid "[TALKmc03] {i}She's so hot!"
+msgstr "[TALKmc03] {i}She's so hot!"
+
+# game/labels/lucy.rpy:19
+# translate crowdin lucy_livingroom1_92c2451f:
+
+msgid "[TALKmc06] Mhhh..."
+msgstr "[TALKmc06] Mhhh..."
+
+# game/labels/lucy.rpy:20
+# translate crowdin lucy_livingroom1_23adf3da:
+
+msgid "What should I tell [lcy] about her nails: [nointeract]"
+msgstr "What should I tell [lcy] about her nails: [nointeract]"
+
+# game/labels/lucy.rpy:24
+# translate crowdin lucy_livingroom1_29e54139:
+
+msgid "[TALKmc04] Why transparent, so bad looking!"
+msgstr "[TALKmc04] Why transparent, so bad looking!"
+
+# game/labels/lucy.rpy:25
+# translate crowdin lucy_livingroom1_b865ac85:
+
+msgid "[TALKlcy06] I know, right?"
+msgstr "[TALKlcy06] I know, right?"
+
+# game/labels/lucy.rpy:27
+# translate crowdin lucy_livingroom1_fff4a973:
+
+msgid "[TALKmc00] It's coming along nicely!"
+msgstr "[TALKmc00] It's coming along nicely!"
+
+# game/labels/lucy.rpy:29
+# translate crowdin lucy_livingroom1_160bb914:
+
+msgid "[TALKlcy06] It doesn't!"
+msgstr "[TALKlcy06] It doesn't!"
+
+# game/labels/lucy.rpy:30
+# translate crowdin lucy_livingroom1_aee4c07b:
+
+msgid "[TALKlcy02] I hate clear nail polish!"
+msgstr "[TALKlcy02] I hate clear nail polish!"
+
+# game/labels/lucy.rpy:32
+# translate crowdin lucy_livingroom1_609fe03e:
+
+msgid "[TALKlcy05] Actually... you could help me."
+msgstr "[TALKlcy05] Actually... you could help me."
+
+# game/labels/lucy.rpy:33
+# translate crowdin lucy_livingroom1_44b4ebd9:
+
+msgid "[TALKlcy05] [liz] has great nail polish that I could use, but she'll never lend it to me!"
+msgstr "[TALKlcy05] [liz] has great nail polish that I could use, but she'll never lend it to me!"
+
+# game/labels/lucy.rpy:34
+# translate crowdin lucy_livingroom1_9d958db8:
+
+msgid "[TALKlcy07] It would be great if you could... Steal it from her?"
+msgstr "[TALKlcy07] It would be great if you could... Steal it from her?"
+
+# game/labels/lucy.rpy:36
+# translate crowdin lucy_livingroom1_cae8a4b9:
+
+msgid "[TALKmc08] What? You're crazy!"
+msgstr "[TALKmc08] What? You're crazy!"
+
+# game/labels/lucy.rpy:37
+# translate crowdin lucy_livingroom1_c87677ce:
+
+msgid "[TALKmc08] She'll kill me if she finds out!"
+msgstr "[TALKmc08] She'll kill me if she finds out!"
+
+# game/labels/lucy.rpy:39
+# translate crowdin lucy_livingroom1_a4efe433:
+
+msgid "[TALKlcy07] Come on... you're my little [lcyR.MClabel]!!!! Be nice, do it for me."
+msgstr "[TALKlcy07] Come on... you're my little [lcyR.MClabel]!!!! Be nice, do it for me."
+
+# game/labels/lucy.rpy:40
+# translate crowdin lucy_livingroom1_0c38cad1:
+
+msgid "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything to my [lcyR.NPClabel]"
+msgstr "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything to my [lcyR.NPClabel]"
+
+# game/labels/lucy.rpy:41
+# translate crowdin lucy_livingroom1_7c2f01ba:
+
+msgid "[TALKmc05] Okay, but you owe me!"
+msgstr "[TALKmc05] Okay, but you owe me!"
+
+# game/labels/lucy.rpy:42
+# translate crowdin lucy_livingroom1_f4f138fc:
+
+msgid "[TALKlcy03] Great, it's the pink one."
+msgstr "[TALKlcy03] Great, it's the pink one."
+
+# game/labels/lucy.rpy:49
+# translate crowdin lucy_livingroom1B_4dd3befc:
+
+msgid "[TALKlcy01] So?!"
+msgstr "[TALKlcy01] So?!"
+
+# game/labels/lucy.rpy:50
+# translate crowdin lucy_livingroom1B_14c53769:
+
+msgid "[TALKlcy] Were you able to get the nail polish? [nointeract]"
+msgstr "[TALKlcy] Were you able to get the nail polish? [nointeract]"
+
+# game/labels/lucy.rpy:55
+# translate crowdin lucy_livingroom1B_585343bc:
+
+msgid "[TALKlcy06] Come on!!! I'm waiting for you!"
+msgstr "[TALKlcy06] Come on!!! I'm waiting for you!"
+
+# game/labels/lucy.rpy:58
+# translate crowdin lucy_livingroom1B_2f04071e:
+
+msgid "[TALKlcy] Really?! Let me see! [nointeract]"
+msgstr "[TALKlcy] Really?! Let me see! [nointeract]"
+
+# game/labels/lucy.rpy:61
+# translate crowdin lucy_livingroom1B_a354b3ff:
+
+msgid "[TALKlcy03] No way!"
+msgstr "[TALKlcy03] No way!"
+
+# game/labels/lucy.rpy:63
+# translate crowdin lucy_livingroom1B_4cf4f983:
+
+msgid "[TALKlcy05] It's great!"
+msgstr "[TALKlcy05] It's great!"
+
+# game/labels/lucy.rpy:64
+# translate crowdin lucy_livingroom1B_126939b9:
+
+msgid "[TALKlcy01] Who would have thought you had skills!"
+msgstr "[TALKlcy01] Who would have thought you had skills!"
+
+# game/labels/lucy.rpy:66
+# translate crowdin lucy_livingroom1B_74add3c3:
+
+msgid "[TALKlcy06] Let's go!!!"
+msgstr "[TALKlcy06] Let's go!!!"
+
+# game/labels/lucy.rpy:67
+# translate crowdin lucy_livingroom1B_9539ab85:
+
+msgid "[TALKlcy06] Give it to me!"
+msgstr "[TALKlcy06] Give it to me!"
+
+# game/labels/lucy.rpy:70
+# translate crowdin lucy_livingroom1B_05189c9e:
+
+msgid "[TALKmc06] {i}Hmm... Think [mc]..."
+msgstr "[TALKmc06] {i}Hmm... Think [mc]..."
+
+# game/labels/lucy.rpy:71
+# translate crowdin lucy_livingroom1B_739a3b3a:
+
+msgid "{i}You owe me a favor: [nointeract]"
+msgstr "{i}You owe me a favor: [nointeract]"
+
+# game/labels/lucy.rpy:75
+# translate crowdin lucy_livingroom1B_a5aefff0:
+
+msgid "[TALKmc10] Actually.... I was thinking you should let me apply this on you!"
+msgstr "[TALKmc10] Actually.... I was thinking you should let me apply this on you!"
+
+# game/labels/lucy.rpy:76
+# translate crowdin lucy_livingroom1B_4021fd7d:
+
+msgid "[TALKlcy07] What??"
+msgstr "[TALKlcy07] What??"
+
+# game/labels/lucy.rpy:77
+# translate crowdin lucy_livingroom1B_e8e7066b:
+
+msgid "[TALKlcy06] Stop messing around, [mc]!"
+msgstr "[TALKlcy06] Stop messing around, [mc]!"
+
+# game/labels/lucy.rpy:78
+# translate crowdin lucy_livingroom1B_da3a4210:
+
+msgid "[TALKlcy02] Come on, I'm in a hurry!"
+msgstr "[TALKlcy02] Come on, I'm in a hurry!"
+
+# game/labels/lucy.rpy:79
+# translate crowdin lucy_livingroom1B_2fc6e58f:
+
+msgid "[TALKmc00] I'm serious, let me try!"
+msgstr "[TALKmc00] I'm serious, let me try!"
+
+# game/labels/lucy.rpy:80
+# translate crowdin lucy_livingroom1B_f8929b6e:
+
+msgid "[TALKmc04] Or return it to [liz]..."
+msgstr "[TALKmc04] Or return it to [liz]..."
+
+# game/labels/lucy.rpy:81
+# translate crowdin lucy_livingroom1B_8c2d1ec3:
+
+msgid "[TALKlcy06] You know what...it's fine!"
+msgstr "[TALKlcy06] You know what...it's fine!"
+
+# game/labels/lucy.rpy:82
+# translate crowdin lucy_livingroom1B_9a419d01:
+
+msgid "[TALKlcy01] You deserve it!"
+msgstr "[TALKlcy01] You deserve it!"
+
+# game/labels/lucy.rpy:83
+# translate crowdin lucy_livingroom1B_fa2aed5f:
+
+msgid "[TALKlcy07] But you better apply it perfectly or you are doomed!"
+msgstr "[TALKlcy07] But you better apply it perfectly or you are doomed!"
+
+# game/labels/lucy.rpy:84
+# translate crowdin lucy_livingroom1B_f43f79f4:
+
+msgid "[TALKmc08] {i}Oh my gosh!!! I can't believe I'm actually going to touch her feet!"
+msgstr "[TALKmc08] {i}Oh my gosh!!! I can't believe I'm actually going to touch her feet!"
+
+# game/labels/lucy.rpy:85
+# translate crowdin lucy_livingroom1B_076bc25b:
+
+msgid "[TALKmc03] {i}This is great!"
+msgstr "[TALKmc03] {i}This is great!"
+
+# game/labels/lucy.rpy:89
+# translate crowdin lucy_livingroom1B_e324ea38:
+
+msgid "[TALKmc06] {i}She didn't notice...I can go on!"
+msgstr "[TALKmc06] {i}She didn't notice...I can go on!"
+
+# game/labels/lucy.rpy:100
+# translate crowdin lucy_livingroom1B_c51c1c60:
+
+msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!"
+msgstr "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!"
+
+# game/labels/lucy.rpy:107
+# translate crowdin lucy_livingroom1B_8c5b6c04:
+
+msgid "[TALKmc10] What's going on? [lcy]?!"
+msgstr "[TALKmc10] What's going on? [lcy]?!"
+
+# game/labels/lucy.rpy:108
+# translate crowdin lucy_livingroom1B_6a9524e1:
+
+msgid "[TALKlcy06] Easy [lcyN.MClabel] don't push!"
+msgstr "[TALKlcy06] Easy [lcyN.MClabel] don't push!"
+
+# game/labels/lucy.rpy:109
+# translate crowdin lucy_livingroom1B_1777de14:
+
+msgid "[TALKlcy02] That's enough for you!"
+msgstr "[TALKlcy02] That's enough for you!"
+
+# game/labels/lucy.rpy:111
+# translate crowdin lucy_livingroom1B_4aa1a2e4:
+
+msgid "[TALKlcy00] Ehi! Where did you learn to do these things?"
+msgstr "[TALKlcy00] Ehi! Where did you learn to do these things?"
+
+# game/labels/lucy.rpy:112
+# translate crowdin lucy_livingroom1B_11c80f62:
+
+msgid "[TALKlcy05] You came out great here! But all in all..."
+msgstr "[TALKlcy05] You came out great here! But all in all..."
+
+# game/labels/lucy.rpy:113
+# translate crowdin lucy_livingroom1B_7aa5c586:
+
+msgid "[TALKlcy05] Well"
+msgstr "[TALKlcy05] Well"
+
+# game/labels/lucy.rpy:115
+# translate crowdin lucy_livingroom1B_00bbb889:
+
+msgid "[TALKlcy07] Good job boy"
+msgstr "[TALKlcy07] Good job boy"
+
+# game/labels/lucy.rpy:116
+# translate crowdin lucy_livingroom1B_53c78c3f:
+
+msgid "[TALKlcy05] Now go play somewhere else!"
+msgstr "[TALKlcy05] Now go play somewhere else!"
+
+# translate crowdin strings:
+
+#    # game/labels/lucy.rpy:20
+msgid "They are coming bad"
+msgstr "They are coming bad"
+
+#    # game/labels/lucy.rpy:20
+msgid "They are coming along well"
+msgstr "They are coming along well"
+
+#    # game/labels/lucy.rpy:58
+msgid "Look and admire"
+msgstr "Look and admire"
+
+#    # game/labels/lucy.rpy:71
+msgid "Not so fast!"
+msgstr "Not so fast!"
+
+#    # game/labels/lucy.rpy:90
+msgid "Try to get closer"
+msgstr "Try to get closer"
+

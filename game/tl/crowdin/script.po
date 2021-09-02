@@ -1,6 +1,6 @@
 # TODO: Translation updated at 2021-08-24 18:55
 
-# game/script.rpy:32
+# game/script.rpy:108
 # translate crowdin start_c09080c3:
 
 msgid "Welcome to [config.name]"
@@ -9,6 +9,10 @@ msgstr "Welcome to [config.name]"
 # translate crowdin strings:
 
 #    # game/script.rpy:12
-msgid "Smurf"
-msgstr "Smurf"
+msgid "smurf"
+msgstr "smurf"
+
+#    # game/script.rpy:20
+msgid "dwarf"
+msgstr "dwarf"
 
