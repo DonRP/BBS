@@ -10,38 +10,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-02 10:32\n"
+"PO-Revision-Date: 2021-09-02 12:52\n"
 
-msgid "[TALKmc] Hi [a]"
-msgstr "[TALKmc] Cześć [a]"
-
-msgid "[TALKa] Hi, can you tell me something?"
-msgstr "[TALKa] Cześć, czy mogę Cię o coś zapytać?"
-
-msgid "Now is busy test later."
+msgid "OK, I'm off. See you."
 msgstr ""
 
-msgid "[TALKmc] OK, I'm off. See you."
-msgstr "[TALKmc] OK. Do zobaczenia."
+msgid "It's getting late. See you."
+msgstr ""
 
-msgid "[TALKmc] It's getting late. See you."
-msgstr "[TALKmc] Robi się późno. Do zobaczenia."
+msgid "Sorry, but I have to go now. Bye."
+msgstr ""
 
-msgid "[TALKmc] Sorry, but I have to go now. Bye."
-msgstr "[TALKmc] Niestety, ale muszę już iść. Żegnaj."
+msgid "Good talk. We should do this more often."
+msgstr ""
 
-msgid "[TALKmc] Good talk. We should do this more often."
-msgstr "[TALKmc] Miło się rozmawiało. Musimy to kiedyś powtórzyć."
+msgid "I just remembered something. Gotta go! Bye."
+msgstr ""
 
-msgid "[TALKmc] I just remembered something. Gotta go! Bye."
-msgstr "[TALKmc] Właśnie o czymś sobie przypomniałem. Muszę iść! Na razie."
+msgid "I won't keep you any longer. Bye."
+msgstr ""
 
-msgid "[TALKmc] I won't keep you any longer. Bye."
-msgstr "[TALKmc] Nie będę cię dłużej zatrzymywał. Cześć."
+msgid "I was supposed to tell you something else.... But I can't remember."
+msgstr ""
 
-msgid "[TALKmc] I was supposed to tell you something else.... But I don't remember."
-msgstr "[TALKmc] Chciałem Ci powiedzieć coś jeszcze.... ale nie pamiętam co."
-
-msgid "[TALKmc] Patience when it comes back to me I'll let you know, bye."
-msgstr "[TALKmc] Jak sobie przypomnę to dam ci znać, pa."
+msgid "When it comes back to me I'll let you know, bye."
+msgstr ""
 
