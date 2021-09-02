@@ -59,7 +59,7 @@ label start_scene:
             mc 00 "I'm fine, I just a weird dream."
             ann 00 "Tell me! What dream?"
             mc 08 "Ahahahah... emmm... it's a bit hard to explain."
-        "I would like to hug":
+        "I would like a hug":
             mc 10 "I really need a hug...."
             ann 00 "Ahah! {p}Don't be silly."
     window hide
@@ -75,7 +75,7 @@ label start_scene:
     mc 06 "{i}Think [mc]..."
     menu:
         mc "What I could do now:"
-        "Play some tricks on her":
+        "Play a trick on her":
             show bg AnnaMCRoom A03C
             window hide
             pause
@@ -86,11 +86,11 @@ label start_scene:
                 mc 13 "Mrs. [ann]?!"
             show bg AnnaMCRoom A03B
             ann 02 "Ohh, you scared me!"
-            mc 10 "Hmm, let me help you with the basket."
+            mc 10 "Here. Let me help you with the basket."
             show bg AnnaMCRoom A04C
             $ stats["ann"].change("submission", 1)
-            ann 04 "... It's okay, I can do it!"
-            mc 03 "{i}Oh my gosh!!! it felt so good!"
+            ann 04 "... It's okay baby, I can do it!"
+            mc 03 "{i}Oh my gosh!!! it feels so good!"
         "Help her with the basket":
             show bg AnnaMCRoom A04A
             mc 00 "Hey [annR.NPClabel]! Let me help you with this."

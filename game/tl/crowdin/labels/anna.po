@@ -171,20 +171,20 @@ msgstr "[TALKann02] Ohh, you scared me!"
 # game/labels/anna.rpy:89
 # translate crowdin start_scene_353602d2:
 
-msgid "[TALKmc10] Hmm, let me help you with the basket."
-msgstr "[TALKmc10] Hmm, let me help you with the basket."
+msgid "[TALKmc10] Here. Let me help you with the basket."
+msgstr "[TALKmc10] Here. Let me help you with the basket."
 
 # game/labels/anna.rpy:91
 # translate crowdin start_scene_3050ca0d:
 
-msgid "[TALKann04] ... It's okay, I can do it!"
-msgstr "[TALKann04] ... It's okay, I can do it!"
+msgid "[TALKann04] ... It's okay baby, I can do it!"
+msgstr "[TALKann04] ... It's okay baby, I can do it!"
 
 # game/labels/anna.rpy:92
 # translate crowdin start_scene_4cf45c3c:
 
-msgid "[TALKmc03] {i}Oh my gosh!!! it felt so good!"
-msgstr "[TALKmc03] {i}Oh my gosh!!! it felt so good!"
+msgid "[TALKmc03] {i}Oh my gosh!!! it feels so good!"
+msgstr "[TALKmc03] {i}Oh my gosh!!! it feels so good!"
 
 # game/labels/anna.rpy:95
 # translate crowdin start_scene_da5ed010:
@@ -217,12 +217,12 @@ msgid "About the dream"
 msgstr "About the dream"
 
 #    # game/labels/anna.rpy:56
-msgid "I would like to hug"
-msgstr "I would like to hug"
+msgid "I would like a hug"
+msgstr "I would like a hug"
 
 #    # game/labels/anna.rpy:76
-msgid "Play some tricks on her"
-msgstr "Play some tricks on her"
+msgid "Play a trick on her"
+msgstr "Play a trick on her"
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
