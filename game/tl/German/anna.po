@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-02 10:33\n"
+"PO-Revision-Date: 2021-09-02 12:50\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -84,8 +84,8 @@ msgstr "[TALKmc10] {i}Oh fuck, was für schöne Kurven..."
 msgid "[TALKmc06] {i}Think [mc]..."
 msgstr "[TALKmc06] {i}Denke [mc]..."
 
-msgid "[TALKmc] What could I do now: [nointeract]"
-msgstr "[TALKmc] Was könnte ich tun: [nointeract]"
+msgid "What I could do now: [nointeract]"
+msgstr ""
 
 msgid "[TALKmc13] [annR.NPClabel] Huh?!"
 msgstr "[TALKmc13] [annR.NPClabel] Huch?!"
@@ -126,8 +126,8 @@ msgid "I would like a hug"
 msgstr ""
 
 #    # game/labels/anna.rpy:76
-msgid "Play some tricks on her"
-msgstr "Spielen Sie ihr ein paar Streiche"
+msgid "Play a trick on her"
+msgstr ""
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
