@@ -11,10 +11,10 @@ msgid "Laptop"
 msgstr "Laptop"
 
 #    # game/tool/action_value.rpy:7
-msgid "Stealt training"
-msgstr "Stealt training"
+msgid "Stealth Training"
+msgstr "Stealth Training"
 
 #    # game/tool/action_value.rpy:7
-msgid "Go to kitchen"
-msgstr "Go to kitchen"
+msgid "Go to Kitchen"
+msgstr "Go to Kitchen"
 
