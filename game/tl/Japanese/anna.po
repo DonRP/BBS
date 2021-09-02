@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-09-02 09:30\n"
+"PO-Revision-Date: 2021-09-02 10:33\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr ""
@@ -96,13 +96,13 @@ msgstr ""
 msgid "[TALKann02] Ohh, you scared me!"
 msgstr ""
 
-msgid "[TALKmc10] Hmm, let me help you with the basket."
+msgid "[TALKmc10] Here. Let me help you with the basket."
 msgstr ""
 
-msgid "[TALKann04] ... It's okay, I can do it!"
+msgid "[TALKann04] ... It's okay baby, I can do it!"
 msgstr ""
 
-msgid "[TALKmc03] {i}Oh my gosh!!! it felt so good!"
+msgid "[TALKmc03] {i}Oh my gosh!!! it feels so good!"
 msgstr ""
 
 msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
@@ -122,7 +122,7 @@ msgid "About the dream"
 msgstr ""
 
 #    # game/labels/anna.rpy:56
-msgid "I would like to hug"
+msgid "I would like a hug"
 msgstr ""
 
 #    # game/labels/anna.rpy:76
