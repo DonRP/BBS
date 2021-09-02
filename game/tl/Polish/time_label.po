@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-08-30 15:38\n"
+"PO-Revision-Date: 2021-09-02 12:53\n"
 
 msgid "[block_spendtime_dialogue]"
 msgstr "[block_spendtime_dialogue]"
@@ -19,6 +19,6 @@ msgid "(It's late, you have to go to bed)"
 msgstr "(Jest już późno i trzeba iść spać)"
 
 #    # game/tool/time_label.rpy:4
-msgid "You can't do it now"
-msgstr "Nie możesz teraz tego zrobić"
+msgid "You can't do that now"
+msgstr ""
 
