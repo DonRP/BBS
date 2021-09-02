@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-02 10:33\n"
+"PO-Revision-Date: 2021-09-02 12:52\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Świeżak [says] próbowałeś tej nowej włoskiej restauracji... jak się nazywała?! A tak! Da Luigi."
@@ -25,13 +25,13 @@ msgid "Policewoman [says] I don't think so!!!"
 msgstr "Policjantka [says] Nie wydaje mi się!!!"
 
 msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
-msgstr ""
+msgstr "Świeżak [says] Um... Nie chciałem na Ciebie naskakiwać, po prostu chciałem dowiedzieć się trochę więcej o Tobie."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
 msgstr "Policjantka[says] Już Ci mówiłam, świeżaku... Jestem tutaj tylko po to, żebyś nie zginął i dlatego, że szef kazał mi z kimś pracować... Pierdolenie!"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, were partners. Understood?"
-msgstr ""
+msgstr "Policjantka [says] Jak powiedziałam, nie jestem tu żeby się zaprzyjaźniać, jesteśmy partnerami. Zrozumiałeś?"
 
 msgid "Newbie [says] Yes! Mam!"
 msgstr "Świeżak [says] Tak proszę pani!"
@@ -78,8 +78,8 @@ msgstr "Riggs [says] MYŚLISZ, ŻE TO JEST GRA!!! CZY CHCESZ SKOŃCZYĆ JAK TWÓ
 msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
 msgstr "Murtaugh [says] Spokojnie... Spokojnie Riggs. Wiemy, że jest niewinny. Ale żeby go wypuścili, musimy wiedzieć, kim jest jego partner."
 
-msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 he started going in and out of half-way houses..."
-msgstr "Murtaugh [says] Przyjrzyjmy się bliżej Twojej kartotece... Po skończeniu 20 lat był częstym gościem ośrodków resocjalizacji..."
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
+msgstr ""
 
 msgid "Riggs [says] Whereas, she..."
 msgstr "Riggs [says] Podczas gdy ona..."
@@ -87,8 +87,8 @@ msgstr "Riggs [says] Podczas gdy ona..."
 msgid "Riggs [says] Your..."
 msgstr "Riggs [says] Twoje..."
 
-msgid "Riggs [says] Was desperate to help you, while you didn't care. Right?"
-msgstr "Riggs [says] był zdesperowany, by ci pomóc, a ty się nie przejmowałeś. Prawda?"
+msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
+msgstr ""
 
 msgid "Murtaugh [says] Let's rewind..."
 msgstr "Murtaugh [says] Cofnijmy się..."
@@ -126,17 +126,17 @@ msgstr "Riggs [says] Nie gadasz zbyt wiele, co?"
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr "Riggs [says] Cóż, mamy wystarczająco dużo, aby zatrzymać Cię na kilka nocy. Zobaczmy, czy zmienisz zdanie!"
 
-msgid "[TALKmc] What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr "[TALKmc] Co się ze mną stało... Byłem takim szczęśliwym dzieckiem... Naprawdę myślałam, że zostawiam cały ból za sobą."
+msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgstr ""
 
-msgid "[TALKmc] At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
-msgstr "[TALKmc] Na początku, w domu [ann], wydawało się, że wszystko idzie dobrze. Miałem nadzieję, że wszystko się ułoży."
+msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
+msgstr ""
 
-msgid "[TALKmc] But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
-msgstr "[TALKmc] Ale potem, pod koniec lata, kilka lat temu... (scoffing), gdy Nokia była jeszcze dobrym smartfonem."
+msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
+msgstr ""
 
-msgid "[TALKmc] It all started unravelling after that dream...."
-msgstr "[TALKmc] Wszystko zaczęło się wyjaśniać po tym śnie...."
+msgid "It all started unravelling after that dream...."
+msgstr ""
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
