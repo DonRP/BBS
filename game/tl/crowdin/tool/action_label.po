@@ -12,11 +12,35 @@ msgstr "ERROR"
 msgid "In development"
 msgstr "In development"
 
+# game/tool/action_label.rpy:69
+# translate crowdin carpet_e3cadbe7:
+
+msgid "You want to become a ninja?! then what are you waiting for!"
+msgstr "You want to become a ninja?! then what are you waiting for!"
+
+# game/tool/action_label.rpy:70
+# translate crowdin carpet_48fdceb5:
+
+msgid "Start the game to power up the stealth."
+msgstr "Start the game to power up the stealth."
+
+# game/tool/action_label.rpy:71
+# translate crowdin carpet_fc9fcdf2:
+
+msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
+msgstr "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
+
+# game/tool/action_label.rpy:72
+# translate crowdin carpet_5ac5aa12:
+
+msgid "And with each roun you will increase your stealth by 1."
+msgstr "And with each roun you will increase your stealth by 1."
+
 # translate crowdin strings:
 
 #    # game/tool/action_label.rpy:10
-msgid "Nap for 3 hour"
-msgstr "Nap for 3 hour"
+msgid "Nap for 3 hours"
+msgstr "Nap for 3 hours"
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
@@ -37,4 +61,16 @@ msgstr "7:00"
 #    # game/tool/action_label.rpy:23
 msgid "9:00"
 msgstr "9:00"
+
+#    # game/tool/action_label.rpy:67
+msgid "Tutorial"
+msgstr "Tutorial"
+
+#    # game/tool/action_label.rpy:67
+msgid "Start training"
+msgstr "Start training"
+
+#    # game/tool/action_label.rpy:78
+msgid "{color=#00ff00}{b}+{/b} Stealth"
+msgstr "{color=#00ff00}{b}+{/b} Stealth"
 
