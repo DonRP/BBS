@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-02 12:50\n"
+"PO-Revision-Date: 2021-09-03 12:56\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] ¡¡Guau!!"
 
 msgid "[TALKmc00] Mmmm! It's fantastic!"
-msgstr ""
+msgstr "[TALKmc00] ¡Mmmm!, ¡Esto es fantástico!"
 
 msgid "[TALKmc08] WTF!"
 msgstr "[TALKmc08] ¡Qué carajos!"
 
 msgid "[TALKmc08] [annR.NPClabel] Huh?!"
-msgstr ""
+msgstr "[TALKmc08] [annR.NPClabel]?!"
 
 msgid "[TALKmc08] Mrs. [ann]?!"
 msgstr "[TALKmc08] Sra. [ann]?!"
 
 msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
-msgstr ""
+msgstr "[TALKmc08] {i}Oh Dios!!! Era sólo un sueño. "
 
 msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
 msgstr "[TALKmc07] {i}¡¿Qué se me ha metido?! ¡Esto está tan mal!"
