@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2021-09-03 12:56\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr ""
@@ -34,7 +34,7 @@ msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
 msgstr ""
 
 msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
-msgstr ""
+msgstr "[TALKmc07] {i}嗯...最好先把这个帐篷杆藏起来..."
 
 msgid "(KNOCK KNOCK)"
 msgstr ""
