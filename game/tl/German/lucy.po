@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2021-09-03 12:56\n"
 
 msgid "[TALKmc00] Ehilà"
 msgstr ""
@@ -156,7 +156,7 @@ msgstr ""
 msgid "[TALKmc06] {i}She didn't notice...I can go on!"
 msgstr ""
 
-msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!"
+msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
 msgstr ""
 
 msgid "[TALKmc10] What's going on? [lcy]?!"
