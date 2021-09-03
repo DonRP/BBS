@@ -97,7 +97,7 @@ label lucy_livingroom1B:
     show bg LucyLivingroom A11
     window hide
     pause
-    mc 03 "{i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!" 
+    mc 03 "{i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!" 
     $ fable_minigame_score = 0
     $ fable_minigame_goal = 7
     call start_fable_2_minigame

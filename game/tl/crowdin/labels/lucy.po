@@ -291,8 +291,8 @@ msgstr "[TALKmc06] {i}She didn't notice...I can go on!"
 # game/labels/lucy.rpy:100
 # translate crowdin lucy_livingroom1B_c51c1c60:
 
-msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!"
-msgstr "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.MClabel]'s foot on my cock!"
+msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
+msgstr "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
 
 # game/labels/lucy.rpy:107
 # translate crowdin lucy_livingroom1B_8c5b6c04:
