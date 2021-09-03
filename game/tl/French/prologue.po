@@ -10,10 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-02 12:50\n"
+"PO-Revision-Date: 2021-09-03 12:56\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr "Le Nouveau [says] Vous avez essayé le nouveau resto italien... comment il s'appelle, déjà ? Ah ouais, le Da Luigi !"
+msgstr "Le Nouveau [says] Vous avez essayé le nouveau resto italien... comment il s'appelle, déjà ? Ah ouais, Da Luigi."
 
 msgid "Policewoman [says] No!"
 msgstr "Policière [says] Non !"
@@ -79,7 +79,7 @@ msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him
 msgstr "Murtaugh [says] Du calme... Du calme, Riggs. On sait qu'il est innocent. Mais avant de le laisser partir, on doit savoir qui est son partenaire."
 
 msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
-msgstr ""
+msgstr "Murtaugh [says] Examinons de plus près ton dossier... Après l’âge de 20 ans, tu as commencé à aller d'un centre de réinsertion à un autre..."
 
 msgid "Riggs [says] Whereas, she..."
 msgstr "Riggs [says] Alors qu'elle..."
@@ -127,16 +127,16 @@ msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's 
 msgstr "Riggs [says] Bon, ben on a de quoi te garder au frais pendant quelques nuits. On va voir si ça te rend plus causant !"
 
 msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr ""
+msgstr "Qu’est-ce qui m’est arrivé… J’étais un enfant si heureux… Je croyais vraiment pouvoir laisser la souffrance derrière moi."
 
 msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
-msgstr ""
+msgstr "Au début, chez [ann], ça semblait bien se passer. J’espérais vraiment que tout irait bien."
 
 msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
-msgstr ""
+msgstr "Mais il y a quelques années, à la fin de l'été... (moqueur) quand Nokia faisait encore de bons smartphones."
 
 msgid "It all started unravelling after that dream...."
-msgstr ""
+msgstr "Tout a commencé à s'effondrer après ce rêve...."
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
