@@ -2,7 +2,7 @@
 ![Last Release](https://img.shields.io/github/v/release/DonRP/BBS)
 ![Last commit](https://img.shields.io/github/last-commit/DonRP/BBS)
 ![License](https://img.shields.io/github/license/DonRP/BBS)
-[![Crowdin](https://badges.crowdin.net/BBS/localized.svg)](https://crowdin.com/project/bad-bobby-saga-the-return)
+[![Crowdin](https://badges.crowdin.net/bad-bobby-saga-the-return/localized.svg)](https://crowdin.com/project/bad-bobby-saga-the-return)
 <span class="discord">
 <a href="https://discord.gg/UdRJ5Yq85E" title="Discord"><img src="https://img.shields.io/discord/688162156151439536" alt="Discord" /></a>
 </span>
