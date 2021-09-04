@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-03 12:56\n"
+"PO-Revision-Date: 2021-09-04 13:14\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Génial !!"
@@ -19,7 +19,7 @@ msgid "[TALKmc00] Mmmm! It's fantastic!"
 msgstr "[TALKmc00] Hmm ! C'est incroyable !"
 
 msgid "[TALKmc08] WTF!"
-msgstr "[TALKmc08] Hein ?!"
+msgstr "[TALKmc08] c’est quoi ce bordel!"
 
 msgid "[TALKmc08] [annR.NPClabel] Huh?!"
 msgstr "[TALKmc08] [annR.NPClabel] Quoi?!"
@@ -52,7 +52,7 @@ msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
 msgstr "[TALKann00] Je vais faire une lessive, tu as quelque chose à laver ?"
 
 msgid "[TALKmc07] Yawn! Sorry, I can't remember."
-msgstr "[TALKmc07] Yawn! Désolé, je ne me souviens plus."
+msgstr "[TALKmc07] *baille*! Désolé, je ne me souviens plus."
 
 msgid "[TALKann00] Let's see, I had left... ah! there it is!"
 msgstr "[TALKann00] Voyons voir, j'avais... ah ! voilà !"
@@ -119,7 +119,7 @@ msgstr "[TALKann03] Ça va, je peux le faire."
 
 #    # game/labels/anna.rpy:56
 msgid "About the dream"
-msgstr "Parler du rêve"
+msgstr "A propos du rêve"
 
 #    # game/labels/anna.rpy:56
 msgid "I would like a hug"
