@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-03 12:56\n"
+"PO-Revision-Date: 2021-09-04 13:13\n"
 
 msgid "[TALKmc00] Ehilà"
 msgstr "[TALKmc00] Salut"
@@ -49,7 +49,7 @@ msgid "[TALKmc04] Why transparent, so bad looking!"
 msgstr "[TALKmc04] Pourquoi transparent, c'est pas joli !"
 
 msgid "[TALKlcy06] I know, right?"
-msgstr ""
+msgstr "[TALKlcy06] j'ai raison, n’est-ce pas?"
 
 msgid "[TALKmc00] It's coming along nicely!"
 msgstr "[TALKmc00] Ça paraît bien !"
@@ -73,19 +73,19 @@ msgid "[TALKmc08] What? You're crazy!"
 msgstr "[TALKmc08] Quoi? T'es dingue!"
 
 msgid "[TALKmc08] She'll kill me if she finds out!"
-msgstr ""
+msgstr "[TALKmc08] Elle me tuera si elle le découvre !"
 
 msgid "[TALKlcy07] Come on... you're my little [lcyR.MClabel]!!!! Be nice, do it for me."
-msgstr ""
+msgstr "[TALKlcy07] Aller... Tu es mon petit [lcyR.MClabel]!!!! Soyez sympa, fais-le pour moi."
 
 msgid "[TALKmc06] {i}When she stretches her boobs like that... I would literally do anything to my [lcyR.NPClabel]"
-msgstr ""
+msgstr "[TALKmc06] {i}Quand elle malaxe ses seins comme ça ... Je ferai littéralement n'importe quoi à mon [lcyR.NPClabel]"
 
 msgid "[TALKmc05] Okay, but you owe me!"
 msgstr "[TALKmc05] Ok, mais tu m'en dois une!"
 
 msgid "[TALKlcy03] Great, it's the pink one."
-msgstr ""
+msgstr "[TALKlcy03] Génial, c'est le rose."
 
 msgid "[TALKlcy01] So?!"
 msgstr "[TALKlcy01] Donc?!"
@@ -121,25 +121,25 @@ msgid "{i}You owe me a favor: [nointeract]"
 msgstr "{i}Tu me dois une faveur: [nointeract]"
 
 msgid "[TALKmc10] Actually.... I was thinking you should let me apply this on you!"
-msgstr ""
+msgstr "[TALKmc10] En fait... Je pensais que tu devrais me laisser appliquer cela sur toi !"
 
 msgid "[TALKlcy07] What??"
-msgstr ""
+msgstr "[TALKlcy07] Quoi??"
 
 msgid "[TALKlcy06] Stop messing around, [mc]!"
-msgstr ""
+msgstr "[TALKlcy06] Arrêtes de déconner, [mc]!"
 
 msgid "[TALKlcy02] Come on, I'm in a hurry!"
-msgstr ""
+msgstr "[TALKlcy02] Vas-y, je suis pressé!"
 
 msgid "[TALKmc00] I'm serious, let me try!"
-msgstr ""
+msgstr "[TALKmc00] Je suis sérieux, laisses-moi essayer !"
 
 msgid "[TALKmc04] Or return it to [liz]..."
-msgstr ""
+msgstr "[TALKmc04] Ou bien retournes-le à [liz]..."
 
 msgid "[TALKlcy06] You know what...it's fine!"
-msgstr ""
+msgstr "[TALKlcy06] Tu sais quoi... ça va !"
 
 msgid "[TALKlcy01] You deserve it!"
 msgstr "[TALKlcy01] Tu le mérites !"
@@ -157,7 +157,7 @@ msgid "[TALKmc06] {i}She didn't notice...I can go on!"
 msgstr "[TALKmc06] {i}Elle n'a pas remarqué ...Je peux continuer !"
 
 msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
-msgstr ""
+msgstr "[TALKmc03] {i}Oh mon dieu!!! Je peux sentir le pied de ma [lcyR.NPClabel]sur ma bite!"
 
 msgid "[TALKmc10] What's going on? [lcy]?!"
 msgstr "[TALKmc10] Que se passe-t-il ? [lcy]?!"
