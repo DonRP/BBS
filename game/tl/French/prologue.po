@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-03 12:56\n"
+"PO-Revision-Date: 2021-09-04 13:13\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Le Nouveau [says] Vous avez essayé le nouveau resto italien... comment il s'appelle, déjà ? Ah ouais, Da Luigi."
@@ -88,7 +88,7 @@ msgid "Riggs [says] Your..."
 msgstr "Riggs [says] Ta..."
 
 msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
-msgstr ""
+msgstr "Riggs [says] J'ai désespérément besoin d'aide. Mais vous vous en fichez. Pas vrai?"
 
 msgid "Murtaugh [says] Let's rewind..."
 msgstr "Murtaugh [says] Reprenons du début..."
