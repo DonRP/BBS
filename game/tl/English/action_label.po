@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-02 12:52\n"
+"PO-Revision-Date: 2021-09-04 13:14\n"
 
 msgid "ERROR"
 msgstr "ERROR"
@@ -19,20 +19,20 @@ msgid "In development"
 msgstr "In development"
 
 msgid "You want to become a ninja?! then what are you waiting for!"
-msgstr ""
+msgstr "You want to become a ninja?! Then what are you waiting for!"
 
 msgid "Start the game to power up the stealth."
-msgstr ""
+msgstr "Start the game to level up the stealth."
 
 msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
-msgstr ""
+msgstr "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
 
 msgid "And with each roun you will increase your stealth by 1."
-msgstr ""
+msgstr "And with each round you will increase your stealth by 1."
 
 #    # game/tool/action_label.rpy:10
 msgid "Nap for 3 hours"
-msgstr ""
+msgstr "Nap for 3 hours."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
@@ -56,13 +56,13 @@ msgstr ""
 
 #    # game/tool/action_label.rpy:67
 msgid "Tutorial"
-msgstr ""
+msgstr "Tutorial"
 
 #    # game/tool/action_label.rpy:67
 msgid "Start training"
-msgstr ""
+msgstr "Start training"
 
 #    # game/tool/action_label.rpy:78
 msgid "{color=#00ff00}{b}+{/b} Stealth"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Stealth"
 
