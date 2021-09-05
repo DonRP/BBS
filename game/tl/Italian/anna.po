@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-03 12:56\n"
+"PO-Revision-Date: 2021-09-05 23:22\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -31,25 +31,25 @@ msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
 msgstr "[TALKmc08] {i}Oh Dio!!! Era solo un sogno. "
 
 msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
-msgstr ""
+msgstr "[TALKmc07] {i}Che cosa mi è preso?! Era così sbagliato!"
 
 msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
-msgstr ""
+msgstr "[TALKmc07] {i}Mhh... Meglio nascondere questa alzabandiera prima che..."
 
 msgid "(KNOCK KNOCK)"
 msgstr "(TOC TOC)"
 
 msgid "[TALKmc08] {i}Damn it!"
-msgstr ""
+msgstr "[TALKmc08] {i}Accidenti!"
 
 msgid "[TALKann00] Good morning Bobby! Time to get up!"
-msgstr ""
+msgstr "[TALKann00] Buongiorno Bobby! È ora di alzarsi!"
 
 msgid "[TALKmc12] Yawn! Morning."
-msgstr ""
+msgstr "[TALKmc12] Yawn! Buongiorno."
 
 msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
-msgstr ""
+msgstr "[TALKann00] Sto facendo del bucato, hai qualcosa da lavare?"
 
 msgid "[TALKmc07] Yawn! Sorry, I can't remember."
 msgstr ""
