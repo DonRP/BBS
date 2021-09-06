@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-02 10:33\n"
+"PO-Revision-Date: 2021-09-06 23:27\n"
 
 #    # game/tool/action_value.rpy:7
 msgid "Nap"
-msgstr ""
+msgstr "Sonnellino"
 
 #    # game/tool/action_value.rpy:7
 msgid "Laptop"
-msgstr ""
+msgstr "Portatile"
 
 #    # game/tool/action_value.rpy:7
 msgid "Stealth Training"
-msgstr ""
+msgstr "Allenamento Furtivo"
 
 #    # game/tool/action_value.rpy:7
 msgid "Go to Kitchen"
-msgstr ""
+msgstr "Via in cucina"
 
