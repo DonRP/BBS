@@ -10,28 +10,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-02 12:52\n"
+"PO-Revision-Date: 2021-09-06 23:27\n"
 
 msgid "OK, I'm off. See you."
 msgstr ""
 
 msgid "It's getting late. See you."
-msgstr ""
+msgstr "Si sta facendo tardi. Ci si vede."
 
 msgid "Sorry, but I have to go now. Bye."
-msgstr ""
+msgstr "Spiacente, ma devo andare ora. Ciao."
 
 msgid "Good talk. We should do this more often."
-msgstr ""
+msgstr "Bella chiacchierata. Dovremmo farlo più spesso."
 
 msgid "I just remembered something. Gotta go! Bye."
-msgstr ""
+msgstr "Mi sono appena ricordata una cosa. Devo andare! Ciao."
 
 msgid "I won't keep you any longer. Bye."
-msgstr ""
+msgstr "Non ti trattengo di più. Ciao."
 
 msgid "I was supposed to tell you something else.... But I can't remember."
-msgstr ""
+msgstr "Dovevo dirvi qualcos'altro... ma mene sono appena dimenticato."
 
 msgid "When it comes back to me I'll let you know, bye."
 msgstr ""
