@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-02 09:32\n"
+"PO-Revision-Date: 2021-09-07 23:29\n"
 
 #    # game/tool/nav_value.rpy:1
 msgid "[mc] room"
@@ -30,5 +30,5 @@ msgstr "Cocina"
 
 #    # game/tool/nav_value.rpy:8
 msgid "[mc] house"
-msgstr "Casa [mc]"
+msgstr "[mc] casa"
 
