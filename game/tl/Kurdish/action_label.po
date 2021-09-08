@@ -10,16 +10,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-08 23:24\n"
 
 msgid "ERROR"
-msgstr ""
+msgstr "هەڵەڕوویدا"
 
 msgid "In development"
-msgstr ""
+msgstr "لەگەشەپێداندایە"
 
 msgid "You want to become a ninja?! then what are you waiting for!"
-msgstr ""
+msgstr "تۆ دەتەوێت ببیتە نینجا؟! کەواتە تۆ چاوەڕێی چی دەکەیت!"
 
 msgid "Start the game to power up the stealth."
 msgstr ""
@@ -36,7 +36,7 @@ msgstr ""
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
-msgstr ""
+msgstr "خەو"
 
 #    # game/tool/action_label.rpy:23
 msgid "What time do you want to set the alarm?"
@@ -60,7 +60,7 @@ msgstr ""
 
 #    # game/tool/action_label.rpy:67
 msgid "Start training"
-msgstr ""
+msgstr "دەست بکە بە ڕاهێنان"
 
 #    # game/tool/action_label.rpy:78
 msgid "{color=#00ff00}{b}+{/b} Stealth"
