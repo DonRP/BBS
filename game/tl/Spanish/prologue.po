@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-10 16:08\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Novato [says] Probaste ese nuevo restaurante italiano ¿cómo se llamaba? ¡Así lo recuerdo! Da Luigi."
@@ -25,28 +25,28 @@ msgid "Policewoman [says] I don't think so!!!"
 msgstr "Policewoman [says] no lo creo!!!"
 
 msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
-msgstr ""
+msgstr "Novato [says] Um... No me acercaba a ti, solo quería saber un poco más sobre ti."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
-msgstr ""
+msgstr "Policia femenina [says] Novato, como ya he explicado... Estoy aquí para que no hagas nada estúpido y dos, porque el capitán dice que no puedo trabajar sola... ¡Es una mierda!"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, were partners. Understood?"
-msgstr ""
+msgstr "Mujer policía [says] Dicho esto, no estoy aquí para hacer amigos, somos compañeros. ¿Entendido?"
 
 msgid "Newbie [says] Yes! Mam!"
-msgstr ""
+msgstr "Novato [says] ¡Sí! ¡Señora!"
 
 msgid "Policewoman [says] Okay, we're here."
 msgstr "Mujer policía [says] Está bien, estamos aquí."
 
 msgid "Policewoman [says] Newbie, make sure the thug is getting comfortable with the handcuffs."
-msgstr ""
+msgstr "Mujer policía [says] novato, asegúrate de que el pandillero se siente cómodo con las esposas."
 
 msgid "Newbie [says] You heard her! Today is your big day..."
-msgstr ""
+msgstr "Novato [says] ¡La escuchaste! Hoy es tu gran día..."
 
 msgid "Cop [says] Smile pretty..."
-msgstr ""
+msgstr "Policía [says] Sonríe guapa..."
 
 msgid "Cop [says] Okay, now let's see who we have here today:"
 msgstr "Cop [says] Bien, ahora veamos quiénes tenemos aquí hoy:"
