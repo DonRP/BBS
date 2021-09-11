@@ -1,4 +1,4 @@
-## Bad Bobby Saga: The return
+## Bad Bobby Saga: The Return
 ![Last Release](https://img.shields.io/github/v/release/DonRP/BBS)
 ![Last commit](https://img.shields.io/github/last-commit/DonRP/BBS)
 ![License](https://img.shields.io/github/license/DonRP/BBS)
