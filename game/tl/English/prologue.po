@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-04 13:14\n"
+"PO-Revision-Date: 2021-09-11 16:18\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
@@ -28,19 +28,19 @@ msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit 
 msgstr "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
-msgstr "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... which's bullshit!"
+msgstr "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, were partners. Understood?"
 msgstr "Policewoman [says] With that said, I'm not here to make friends, we're partners. Understood?"
 
 msgid "Newbie [says] Yes! Mam!"
-msgstr "Newbie [says] Yes! Ma'am!"
+msgstr "Newbie [says] Yes, Ma'am!"
 
 msgid "Policewoman [says] Okay, we're here."
 msgstr "Policewoman [says] Okay, we're here."
 
 msgid "Policewoman [says] Newbie, make sure the thug is getting comfortable with the handcuffs."
-msgstr "Policewoman [says] Newbie, make sure the thug is getting comfortable with the handcuffs."
+msgstr "Policewoman [says] Newbie, make sure the perp comfortable with the handcuffs."
 
 msgid "Newbie [says] You heard her! Today is your big day..."
 msgstr "Newbie [says] You heard her! Today is your big day..."
