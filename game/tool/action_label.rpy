@@ -8,7 +8,7 @@ label nap:
     call check_block_spendtime
 
     menu:
-        "Nap for 3 hours":
+        "Nap for 3 hours..":
             $ wait_hour = 3
             jump wait
         "Sleep":
@@ -67,9 +67,9 @@ label carpet:
     menu:
         "Tutorial":
             "You want to become a ninja?! then what are you waiting for!"
-            "Start the game to power up the stealth."
+            "Start the game to level up the stealth."
             "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
-            "And with each roun you will increase your stealth by 1."
+            "And with each round you will increase your stealth by 1."
             jump after_wait
         "Start training":
             $ fable_minigame_goal = 15

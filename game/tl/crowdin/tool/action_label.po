@@ -21,8 +21,8 @@ msgstr "You want to become a ninja?! then what are you waiting for!"
 # game/tool/action_label.rpy:70
 # translate crowdin carpet_48fdceb5:
 
-msgid "Start the game to power up the stealth."
-msgstr "Start the game to power up the stealth."
+msgid "Start the game to level up the stealth."
+msgstr "Start the game to level up the stealth."
 
 # game/tool/action_label.rpy:71
 # translate crowdin carpet_fc9fcdf2:
@@ -33,14 +33,14 @@ msgstr "The game is very simple: you have to click or press space when the ball 
 # game/tool/action_label.rpy:72
 # translate crowdin carpet_5ac5aa12:
 
-msgid "And with each roun you will increase your stealth by 1."
-msgstr "And with each roun you will increase your stealth by 1."
+msgid "And with each round you will increase your stealth by 1."
+msgstr "And with each round you will increase your stealth by 1."
 
 # translate crowdin strings:
 
 #    # game/tool/action_label.rpy:10
-msgid "Nap for 3 hours"
-msgstr "Nap for 3 hours"
+msgid "Nap for 3 hours.."
+msgstr "Nap for 3 hours.."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
