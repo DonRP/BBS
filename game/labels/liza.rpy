@@ -21,7 +21,7 @@ label liza_kitchen1_lizasmartphone:
     show bg lizaroom 0 blur
     with dissolve
     show smartphone bobby liza
-    mc 09 "{i}Shit, he's got the password!"
+    mc 09 "{i}Shit, she's got the password!"
     mc 10 "{i}Ah though! what a background... slutty."
     $ del sp_actions["lizasmartphone"]
     $ smartphone_liza = True
@@ -95,8 +95,8 @@ label liza_kitchen1B:
     mc 05 "I have never had such delicous fruits, too bad they are all for me."
     menu:
         mc "Just because you're my [lizR.NPClabel], I could give you one:"
-        "Ananas":
-            show item LizaKitchen B ananas
+        "Pineapple":
+            show item LizaKitchen B Pineapple
             jump liza_kitchen1Error
         "Banana":
             show item LizaKitchen B banana
@@ -106,7 +106,7 @@ label liza_kitchen1B:
             jump liza_kitchen1Error
     liz 04 "Did you say in special delivery!?"
     mc 00 "Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
-    liz 04 "Hmm... Okay! They say bananas are good for your fitness."
+    liz 04 "Hmm... Okay! They say bPineapple are good for your fitness."
     hide item
     show bg LizaKitchen A08A
     mc 04 "Here, try one! It's so sweet."
@@ -249,32 +249,32 @@ label liza_lizasmartphone0:
     show bg lizaroom 0 blur
     with dissolve
     show smartphone bobby liza
-    mc 09 "{i}But he left his phone here!" 
+    mc 09 "{i}But she left his phone here!!" 
     mc 09 "{i}I need to find a way to unlock it!"
     hide smartphone
     show bg lizaroom
-    mc 07 "{i}I better go think about this in my bedroom!" 
+    mc 07 "{i}I better go think about this in my room." 
     show bg Bobby A03
     with fade
     window hide
     pause
-    mc "{i}So, how to unlock Liza's phone?" 
+    mc "{i}So, how do I unlock [liz]'s phone?" 
     mc "{i}Hmm....." 
-    mc "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
-    mc "{i}Maybe if I find some kind of invisible ink and spread it on his phone." 
+    mc "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+    mc "{i}Maybe I could find some kind of invisible ink and spread it on her phone." 
     mc "{i}It just might work!!!" 
     mc "{i}All I need is a UV flashlight and some invisible ink!" 
     mc "{i}I have a UV flashlight, but where can I find the invisible ink?" 
-    mc "{i}I need an online search!" 
+    mc "{i}I need to google this!" 
     show bg Bobby A04
     with fade
     window hide
     pause
-    mc 08 "{i}Wait!" 
+    mc 08 "{i}Wait, what?!" 
     window hide
     pause
     mc 00 "{i}LOL!!!" 
-    mc 05 "{i}Eh who could know!" 
+    mc 05 "{i}Hah, who would've known!" 
     mc 04 "{i}It says here that semen glows under a UV light." 
     mc 06 "{i}Well..." 
     mc 06 "{i}Let's do it!" 
@@ -288,8 +288,8 @@ label liza_lizasmartphone1:
     show bg LizaLizaRoom B01 animated
     window hide
     pause
-    mc 03 "{i}she is so sexy"
-    mc 03 "{i}let's do it"
+    mc 03 "{i}She is so sexy"
+    mc 03 "{i}Let's do it"
     show bg LizaLizaRoom B01B
     window hide
     pause
@@ -308,7 +308,7 @@ label liza_lizasmartphone1:
     show bg LizaLizaRoom B02C
     window hide
     pause
-    mc 03 "{i}Wow nice. Now I need to rub it genlty and run away"
+    mc 03 "{i}Wow nice. Now I need to rub it gently and run away."
     $ del sp_actions["lizasmartphone"]
     $ tm.new_hour(1)
     call temporary_end_game
