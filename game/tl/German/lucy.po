@@ -10,37 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-03 12:56\n"
+"PO-Revision-Date: 2021-09-11 16:18\n"
 
 msgid "[TALKmc00] Ehilà"
 msgstr ""
 
 msgid "[TALKmc02] Hi [lcy]..."
-msgstr ""
+msgstr "[TALKmc02] Hallo [lcy]..."
 
 msgid "[TALKlcy02] Ehi..."
 msgstr ""
 
 msgid "[TALKmc00] What are you doing?"
-msgstr ""
+msgstr "[TALKmc00] Was tust du?"
 
 msgid "[TALKlcy02] What does it look like I'm doing?"
-msgstr ""
+msgstr "[TALKlcy02] Was denkst du, was ich hier mache?"
 
 msgid "[TALKmc10] Need help?"
-msgstr ""
+msgstr "[TALKmc10] Brauchst du Hilfe?"
 
 msgid "[TALKlcy06] From you... No, thanks! I don't need your help."
-msgstr ""
+msgstr "[TALKlcy06] Von dir... Nein, danke! Ich brauche deine Hilfe nicht."
 
 msgid "[TALKmc03] {i}Mmm... Look at that little foot!"
-msgstr ""
+msgstr "[TALKmc03] {i}Mmm... Schau dir den kleinen Idioten an!"
 
 msgid "[TALKmc03] {i}She's so hot!"
-msgstr ""
+msgstr "[TALKmc03] {i}Sie ist so heiß!"
 
 msgid "[TALKmc06] Mhhh..."
-msgstr ""
+msgstr "[TALKmc06] Mhhh..."
 
 msgid "What should I tell [lcy] about her nails: [nointeract]"
 msgstr ""
