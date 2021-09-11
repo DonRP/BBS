@@ -15,6 +15,6 @@ define df_actions = {
             is_in_room = True, xpos = 732, ypos = 776),
         "laptop_liza"       :   Action(name = _("Laptop"), icon = "/location/lizaroom-laptop.webp", icon_selected = "/location/lizaroom-laptop a.webp", label = "laptop",
             is_in_room = True, xpos = 1575, ypos = 331),
-        "kitchen"   :   Action(name = _("Go to Kitchen"), icon = "/location/livingroom-kitchen.webp", label = "go_kitchen",
+        "kitchen"   :   Action(name = _("Go to the Kitchen"), icon = "/location/livingroom-kitchen.webp", label = "go_kitchen",
             is_in_room = True, xpos = 408, ypos = 664),
     }
