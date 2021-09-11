@@ -90,7 +90,7 @@ label start_scene:
             show bg AnnaMCRoom A04C
             $ stats["ann"].change("submission", 1)
             ann 04 "... It's okay baby, I can do it!"
-            mc 03 "{i}Oh my gosh!!! it feels so good!"
+            mc 03 "{i}Oh my god!!! it feels so good!"
         "Help her with the basket":
             show bg AnnaMCRoom A04A
             mc 00 "Hey [annR.NPClabel]! Let me help you with this."

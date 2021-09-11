@@ -36,16 +36,16 @@ label liza_kitchen1B:
         "Indeed!" if (smartphone_liza):
             pass
         "Not yet!":
-            liz 06 "Go ahead! What are you waiting for."
+            liz 06 "Go look for it! What are you waiting for?!"
             jump after_wait
 
-    liz 08 "Finally! what took you so long?"
+    liz 08 "Finally! What took you so long?"
     menu:
         "I couldn't find it":
             mc 02 "I had a little trouble finding it!"
-            liz 03 "Bah, you are so weird! it was right on my nightstand."
+            liz 03 "Bah, you are so weird! It was right on my nightstand."
         "About your password...":
-            mc 06 "By the way, what is the password?"
+            mc 06 "By the way, what's the password?"
             liz 09 "Excuse me?!! Why do you ask?"
             liz 05 "Wait, what did you want to look at?"
             mc 08 "Nooo... nothing..."
@@ -232,7 +232,7 @@ label liza_lizaroom1:
     window hide
     pause
     liz 05 "Never!!! Fuck you!" 
-    mc 01 "{i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
+    mc 01 "{i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
     mc 07 "{i}I need to find out more about these photos but I need to get out of here early and fast!"
     show bg Bobby A05
     with fade

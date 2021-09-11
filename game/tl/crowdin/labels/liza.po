@@ -75,14 +75,14 @@ msgstr "[TALKliz] Did you get my phone? [nointeract]"
 # game/labels/liza.rpy:39
 # translate crowdin liza_kitchen1B_a4acbae3:
 
-msgid "[TALKliz06] Go ahead! What are you waiting for."
-msgstr "[TALKliz06] Go ahead! What are you waiting for."
+msgid "[TALKliz06] Go look for it! What are you waiting for?!"
+msgstr "[TALKliz06] Go look for it! What are you waiting for?!"
 
 # game/labels/liza.rpy:42
 # translate crowdin liza_kitchen1B_ffe1d641:
 
-msgid "[TALKliz08] Finally! what took you so long?"
-msgstr "[TALKliz08] Finally! what took you so long?"
+msgid "[TALKliz08] Finally! What took you so long?"
+msgstr "[TALKliz08] Finally! What took you so long?"
 
 # game/labels/liza.rpy:45
 # translate crowdin liza_kitchen1B_85907fac:
@@ -93,14 +93,14 @@ msgstr "[TALKmc02] I had a little trouble finding it!"
 # game/labels/liza.rpy:46
 # translate crowdin liza_kitchen1B_e370ffaa:
 
-msgid "[TALKliz03] Bah, you are so weird! it was right on my nightstand."
-msgstr "[TALKliz03] Bah, you are so weird! it was right on my nightstand."
+msgid "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
+msgstr "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
 
 # game/labels/liza.rpy:48
 # translate crowdin liza_kitchen1B_de52473f:
 
-msgid "[TALKmc06] By the way, what is the password?"
-msgstr "[TALKmc06] By the way, what is the password?"
+msgid "[TALKmc06] By the way, what's the password?"
+msgstr "[TALKmc06] By the way, what's the password?"
 
 # game/labels/liza.rpy:49
 # translate crowdin liza_kitchen1B_70b51451:
@@ -621,8 +621,8 @@ msgstr "[TALKliz05] Never!!! Fuck you!"
 # game/labels/liza.rpy:235
 # translate crowdin liza_lizaroom1_013ece5d:
 
-msgid "[TALKmc01] {i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
-msgstr "[TALKmc01] {i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
+msgid "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
+msgstr "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
 
 # game/labels/liza.rpy:236
 # translate crowdin liza_lizaroom1_cec1cedd:
