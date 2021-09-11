@@ -10,10 +10,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-10 16:08\n"
+"PO-Revision-Date: 2021-09-11 16:18\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
-msgstr "Novato [says] Probaste ese nuevo restaurante italiano ¿cómo se llamaba? ¡Así lo recuerdo! Da Luigi."
+msgstr "Novato [says] ¿Probaste ese nuevo restaurante italiano... ¡¿cómo se llamaba?! ¡Oh, cierto! Da Luigi."
 
 msgid "Policewoman [says] No!"
 msgstr "Mujer policía [says] ¡No!"
@@ -58,28 +58,28 @@ msgid "Cop [says] Surname:"
 msgstr "Apellido [says] policía:"
 
 msgid "Cop [says] Age: 24 years old."
-msgstr ""
+msgstr "Policia [says] Edad: 24 años."
 
 msgid "Cop [says] Good! Now straight to the interrogation room, officers Murtaugh and Riggs want to have a quick chat with you."
-msgstr ""
+msgstr "¡Policía [says] bien! Ahora directamente a la sala de interrogatorios, los oficiales Murtaugh y Riggs quieren tener una charla rápida contigo."
 
 msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
-msgstr ""
+msgstr "Riggs [says] ¡Aquí está! Nuestro sospechoso... Quien lo diría... No parece un criminal."
 
 msgid "Murtaugh [says] The real question is whether he is more of a petty thief or hardened killer."
-msgstr ""
+msgstr "Murtaugh [says] La verdadera pregunta es si es más un ladronzuelo o un asesino despiadado."
 
 msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you... [mc]! AKA are the bad guy!"
-msgstr ""
+msgstr "Murtaugh [says] Oh mis disculpas, ¿dónde están mis modales? Somos Murtaugh y Riggs, y tú... ¡ [mc]! ¡Aqui el malote!"
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
 msgstr "Riggs [says] CREES QUE ESTO ES UN JUEGO!!! ¿QUIERES TERMINAR COMO TU PADRE???"
 
 msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
-msgstr ""
+msgstr "Murtaugh [says] Tranquilo... Tranquilo Riggs. Sabemos que es inocente. Pero para dejarlo ir, necesitamos saber quién es su socio."
 
 msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
-msgstr ""
+msgstr "Murtaugh [says] Echemos un vistazo más de cerca a su archivo... Después de 20 años entrando y saliendo de casas de acogida..."
 
 msgid "Riggs [says] Whereas, she..."
 msgstr "Riggs [says] Mientras que, ella..."
@@ -88,55 +88,55 @@ msgid "Riggs [says] Your..."
 msgstr "Riggs [says] Tu..."
 
 msgid "Riggs [says] Was desperate to help. But you didn't care. Right?"
-msgstr ""
+msgstr "Riggs [says] Estaba desesperado por ayudar. Pero no te importaba. ¿Correcto?"
 
 msgid "Murtaugh [says] Let's rewind..."
 msgstr "Murtaugh [says] Rebobinamos..."
 
 msgid "Murtaugh [says] Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
-msgstr ""
+msgstr "Murtaugh [says] Anna, después de que tu madrastra muriera, decidió llevarte a ti y a tu [lizR.NPClabel] a su hogar..."
 
 msgid "Murtaugh [says] The children of the man who impregnated her when she was only 18 and then left her."
 msgstr "Murtaugh [says] Los hijos del hombre que la embarazó cuando solo tenía 18 años y luego la dejó."
 
 msgid "Murtaugh [says] Not caring about her..."
-msgstr ""
+msgstr "Murtaugh [says] Sin preocuparse por ella..."
 
 msgid "Murtaugh [says] After that she tried to rebuild her life by having another child with a better man...."
-msgstr ""
+msgstr "Murtaugh [says] Después de eso, ella trató de reconstruir su vida teniendo otro hijo con un hombre mejor...."
 
 msgid "Murtaugh [says] [ann], after your step-mother died, she decided to bring you into her home..."
-msgstr ""
+msgstr "Murtaugh [says] [ann], después de que tu madrastra muriera, decidió llevarte a su hogar..."
 
 msgid "Murtaugh [says] Although you are the son of her ex-boyfriend."
 msgstr "Murtaugh [says] Aunque eres el hijo de su exnovio."
 
 msgid "Murtaugh [says] Treating you like a son, letting you sleep under the same roof as her daughters..."
-msgstr ""
+msgstr "Murtaugh [says] Tratandote como a un hijo, dejándote dormir bajo el mismo techo que sus hijas..."
 
 msgid "Murtaugh [says] And..."
 msgstr "Murtaugh [says] Y..."
 
 msgid "Murtaugh [says] and the other..."
-msgstr ""
+msgstr "Murtaugh [says] y el otro..."
 
 msgid "Riggs [says] You don't talk much, huh?"
-msgstr ""
+msgstr "Riggs [says] No hablas mucho, ¿eh?"
 
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr "Riggs [says] Bueno, tenemos suficiente para mantenerte dentro por algunas noches. ¡A ver si cambias de opinión!"
 
 msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
-msgstr ""
+msgstr "Lo que me pasó... Era un niño tan feliz... Realmente pensé que estaba dejando todo el dolor atrás."
 
 msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
-msgstr ""
+msgstr "Al principio, en la casa de [ann], parecía ir bien. Realmente esperaba que todo saliera bien."
 
 msgid "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
-msgstr ""
+msgstr "Pero luego, al final del verano unos años atras... (burlándose) cuando Nokia todavía era un buen teléfono."
 
 msgid "It all started unravelling after that dream...."
-msgstr ""
+msgstr "Todo comenzó a desmoronarse después de ese sueño...."
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
