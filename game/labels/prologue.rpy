@@ -53,17 +53,17 @@ label intro:
     "Newbie" "Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
     "Policewoman" "No!"
     "Newbie" "Me neither, but I've heard good things about it. We could..."
-    "Policewoman" "I don't think so!!!"
+    "Policewoman" "I don't think so!"
     "Newbie" "Um... I wasn't coming on to you, just wanted to know a bit more about you."
-    "Policewoman" "Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
-    "Policewoman" "With that said, I'm not here to make friends, were partners. Understood?"
-    "Newbie" "Yes! Mam!"
+    "Policewoman" "Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
+    "Policewoman" "With that said, I'm not here to make friends, we're partners. Understood?"
+    "Newbie" "Yes, Ma'am!"
     window hide
     pause
     "Policewoman" "Okay, we're here."
     window hide
     pause
-    "Policewoman" "Newbie, make sure the thug is getting comfortable with the handcuffs."
+    "Policewoman" "Newbie, make sure the perp comfortable with the handcuffs."
     "Newbie" "You heard her! Today is your big day..."
     show prologue A03
     with fade
@@ -85,8 +85,8 @@ label intro:
     show prologue B01 at center_delay(0.1)
     with fade
     "Riggs" "Here he is! Our suspect... How about that... He doesn't look like a criminal."
-    "Murtaugh" "The real question is whether he is more of a petty thief or hardened killer."
-    "Murtaugh" "Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you... [mc]! AKA are the bad guy!"
+    "Murtaugh" "The real question is whether he is more of a petty thief or a hardened killer."
+    "Murtaugh" "Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
     show prologue B02
     with fade
     show prologue B05
@@ -101,7 +101,7 @@ label intro:
     with fade
     show prologue B04
     with fade
-    "Murtaugh" "Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
+    "Murtaugh" "Let's take a closer look at your file... After the age of 20 in and out of halfway houses..."
     show icon ann at center_delay(0.1)
     if renpy.variant("pc"):
         show prologue B04 blur with dissolve
@@ -126,7 +126,7 @@ label intro:
         show icon liza at center_delay(0.1)
         "Murtaugh" "Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
         $ lizI.changeName()
-        "Murtaugh" "The children of the man who impregnated her when she was only 18 and then left her."
+        "Murtaugh" "From the man who was kind enough to impregnated her when she was only 18 and then left her with nothing."
         show icon lucy at center_delay(0.1)
         "Murtaugh" "Not caring about her..."
         $ lcyI.changeName()
@@ -170,7 +170,7 @@ label intro:
     "Riggs" "Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
     show prologue B07
     with fade
-    mc "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+    mc "What happened to me... I was such a happy child... I really thought I was leaving all that pain behind."
     mc "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
     mc "But then, at the end of summer a few years ago... (scoffing) when Nokia was still a good smartphone."
     mc "It all started unravelling after that dream...."
