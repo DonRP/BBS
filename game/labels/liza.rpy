@@ -46,32 +46,32 @@ label liza_kitchen1B:
             liz 03 "Bah, you are so weird! It was right on my nightstand."
         "About your password...":
             mc 06 "By the way, what's the password?"
-            liz 09 "Excuse me?!! Why do you ask?"
+            liz 09 "Excuse me?!! Why would you ask for it?"
             liz 05 "Wait, what did you want to look at?"
-            mc 08 "Nooo... nothing..."
+            mc 08 "I.. er.. nothing."
             liz 02 "Ha ha! You little pervert..."
     show bg LizaKitchen A01B
     mc 10 "So where's my breakfast?"
-    liz 01 "There's nothing here for you, [lizN.MClabel]!"
+    liz 01 "There's nothing for you here [lizN.MClabel]!"
     mc 08 "What??"
-    mc 11 "But we made a deal!"
+    mc 11 "But we had a deal!"
     liz 03 "I'm sorry, it's all for me because you don't deserve it!"
     mc 01 "Okay, {p}All right, {p}I'm not hungry anyway!"
     mc 01 "{i}I hate her!"
     show bg Bobby A02
     mc 02 "{i}Guess I'll have to make do with a coffee."
     show bg LizaKitchen A02
-    mc 02 "Hey, could you give me a cup of coffee?"
+    mc 02 "Hey, could you give me a coffee cup?"
     mc 00 "They are in that drawer"
     liz 08 "They are in the bottom drawer."
     show bg LizaKitchen A03
-    mc 08 "{i}Wow, what a cute little ass!"
+    mc 08 "{i}Wow, what a cute little butt!!"
     if (bl_values["incs"]):
-        mc 03 "{i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel] like that."
+        mc 03 "{i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel]'s ass like that."
     else:
         mc 03 "{i}Hmm... maybe I shouldn't stare at it like that."
     show bg LizaKitchen A04A
-    mc 03 "{i}Damn! [liz] how can she be so sour, but so hot..."
+    mc 03 "{i}Damn [liz]! How can she be so sour, but so hot..."
     show bg LizaKitchen A04B
     liz 08 "Catch!"
     mc 00 "Thanks!"
@@ -79,20 +79,20 @@ label liza_kitchen1B:
     window hide
     pause
     scene black
-    mc 02 "{i}My stomach is growling... What a fam!"
+    mc 02 "{i}My stomach is growling... I'm so hungry!"
     show bg LizaKitchen A05
     with fade
-    mc 07 "{i}It looks like your breakfast is so good!"
+    mc 07 "{i}[liz]'s breakfast looks so good!"
     mc 01 "{i}Hmm... I'll get my revenge somehow."
-    mc 20 "So how's breakfast?"
+    mc 20 "So how's the breakfast?"
     liz 01 "Mmmmmm"
     liz 00 "It's so good!"
     liz 01 "I am such a good cook!"
     liz 02 "Don't worry, you can eat some fruit from the table!"
-    mc 06 "{i}I've got an idea! I could get revenge now..."
+    mc 06 "{i}I've got an idea! I can get my revenge now..."
     show bg LizaKitchen A07
     mc 05 "Ha ha! You don't know what you're missing... [ann] did buy them on special delivery yesterday."
-    mc 05 "I have never had such good fruit, too bad they are all for me."
+    mc 05 "I have never had such delicous fruits, too bad they are all for me."
     menu:
         mc "Just because you're my [lizR.NPClabel], I could give you one:"
         "Ananas":
@@ -104,17 +104,17 @@ label liza_kitchen1B:
         "Kiwi":
             show item LizaKitchen B kiwi
             jump liza_kitchen1Error
-    liz 04 "Did you say in special consegana!?"
-    mc 00 "Yes! you know, only Anna knows where to buy good fresh fruit, at a good price."
-    liz 04 "Hmm... Okay! They say bananas are good for fitness."
+    liz 04 "Did you say in special delivery!?"
+    mc 00 "Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
+    liz 04 "Hmm... Okay! They say bananas are good for your fitness."
     hide item
     show bg LizaKitchen A08A
     mc 04 "Here, try one! It's so sweet."
-    liz 03 "Haha, you tried!"
-    mc 10 "Go ahead! Try it for yourself."
-    mc 00 "You can take a little bite!"
-    liz 08 "Ha ha ha really?! Get lost!"
-    mc 11 "I'm not going anywhere until you try it!"
+    liz 03 "Haha, I'm not going to be fed by you!"
+    mc 10 "Come on! Y'know you want to."
+    mc 00 "You can have a little bite!"
+    liz 08 "Ha ha ha seriously?! Get lost!"
+    mc 11 "I'm not going anywhere until you have a bite!"
     liz 08 "Okay, but then leave me alone, you pervert!"
     show bg LizaKitchen A08B
     window hide
@@ -137,23 +137,23 @@ label liza_kitchen1B:
     window hide
     pause
     $ stats["liz"].change("anger", 1)
-    liz 05 "You are dead!!!"
+    liz 05 "You're dead!!!"
     show bg LizaKitchen A09
     mc 12 "Ow! Ow! You're hurting me!"
     window hide
     pause
     show bg Bobby A01
     mc 07 "{i}Ow! What a pain! But it was worth it!"
-    mc 05 "{i}It was crazy!"
-    mc 04 "{i}My sweet revenge!"
+    mc 05 "{i}That was crazy!"
+    mc 04 "{i}My sweet sweet revenge!"
     show bg Bobby A03
     with fade
     mc 05 "{i}I definitely should have pushed it deeper down her throat!"
     mc 07 "{i}...."
     mc 07 "{i}Damn!!!"
     mc 07 "{i}What's wrong with me ... she is my [lizR.NPClabel]!!"
-    mc 07 "{i}He will probably tell [ann]..."
-    mc 07 "{i}Shit, I have to think of an excuse."
+    mc 07 "{i}She will probably tell [ann]..."
+    mc 07 "{i}Shit, I'll have to think of an excuse."
     jump liza_kitchen1end
 label liza_kitchen1Error:
     liz 04 "Hmmm... also no... thanks!"
@@ -163,7 +163,7 @@ label liza_kitchen1Error:
     show bg Bobby A03
     with fade
     mc 07 "Damn!!!"
-    mc 07 "I failed! I must think of another revenge."
+    mc 07 "I failed! I must think of another way for revenge."
     jump liza_kitchen1end
 label liza_kitchen1end:
     "(A few hours later)"
@@ -176,20 +176,20 @@ label liza_kitchen1end:
 
 label liza_lizaroom1:
     show bg Bobby A05
-    mc 01 "{i}Shit, [liz]'s talking on the phone!" 
-    mc 06 "{i}Maybe you might not notice...."
+    mc 01 "{i}Shit, [liz] is talking on the phone!!" 
+    mc 06 "{i}Maybe she won't notice if I sneak around..."
     if (stats["mc"].get("stealth")>0):
         menu:
-            mc "{i}OK! after this [lcy] will owe me a favor:"
+            mc "{i}OK! After this [lcy] will owe me a favor:"
             "Do it now":
-                mc 04 "{i}Are you ready Ninjia?!"
+                mc 04 "{i}Are you ready Ninja?!"
             "Not yet":
                 mc 07 "{i}Hmm... I don't think I'm ready yet."
                 $ cur_room = rooms[0]
                 jump after_wait
     else:
         mc 06 "{i}But first I need to warm up a bit in my room."
-        mc 07 "{i}Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
+        mc 07 "{i}Mhh... I should warm up a bit first, in my room there is in carpet where I can do that."
         $ cur_room = rooms[0]
         jump after_wait
     $ fable_minigame_goal = 4
@@ -197,7 +197,7 @@ label liza_lizaroom1:
     show bg LizaLizaRoom A00
     with fade
     call start_fable_2_minigame
-    mc 04 "{i}Ah Ah! Found it!"
+    mc 04 "{i}Aha! Found it!"
     show bg LizaLizaRoom A04
     with dissolve
     liz 09 "Asshole!!!"
@@ -220,7 +220,7 @@ label liza_lizaroom1:
     pause
     liz 07 "Please...don't!" 
     liz 07 "You don't have to say anything to my boyfriend!" 
-    mc 08 "{i}Oh my God! I think this [mik] guy is blackmailing her!" 
+    mc 08 "{i}Oh my god! I think this [mik] guy is blackmailing her!" 
     liz 09 "Absolutely not!"
     window hide
     pause
@@ -233,7 +233,7 @@ label liza_lizaroom1:
     pause
     liz 05 "Never!!! Fuck you!" 
     mc 01 "{i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
-    mc 07 "{i}I need to find out more about these photos but I need to get out of here early and fast!"
+    mc 07 "{i}I need to find out more about these photos but I need to get out of here first!"
     show bg Bobby A05
     with fade
     window hide
@@ -245,7 +245,7 @@ label liza_lizaroom1:
     jump after_wait
 
 label liza_lizasmartphone0:
-    mc 06 "{i}Hmmm... Liza is not in her room!" 
+    mc 06 "{i}Hmmm... [liz] is not in her room!" 
     show bg lizaroom 0 blur
     with dissolve
     show smartphone bobby liza
