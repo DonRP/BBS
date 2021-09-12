@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Bad Bobby Saga: The return\n"
+"Bad Bobby Saga: The Return\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: bad-bobby-saga-the-return\n"
 "X-Crowdin-Project-ID: 473156\n"
@@ -11,9 +11,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-02 09:33\n"
+"PO-Revision-Date: 2021-09-12 16:24\n"
 
 #    # game/options.rpy:15
-msgid "Bad Bobby Saga: The return"
+msgid "Bad Bobby Saga: The Return"
 msgstr "Bad Bobby Saga: The Return"
 
