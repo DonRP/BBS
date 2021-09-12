@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2021-09-02 12:50\n"
+"PO-Revision-Date: 2021-09-12 16:24\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr ""
@@ -21,25 +21,25 @@ msgstr ""
 msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
 msgstr ""
 
-msgid "Policewoman [says] I don't think so!!!"
+msgid "Policewoman [says] I don't think so!"
 msgstr ""
 
 msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
 msgstr ""
 
-msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the captain says I can't work alone... It's bullshit!"
+msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
 msgstr ""
 
-msgid "Policewoman [says] With that said, I'm not here to make friends, were partners. Understood?"
+msgid "Policewoman [says] With that said, I'm not here to make friends, we're partners. Understood?"
 msgstr ""
 
-msgid "Newbie [says] Yes! Mam!"
+msgid "Newbie [says] Yes, Ma'am!"
 msgstr ""
 
 msgid "Policewoman [says] Okay, we're here."
 msgstr ""
 
-msgid "Policewoman [says] Newbie, make sure the thug is getting comfortable with the handcuffs."
+msgid "Policewoman [says] Newbie, make sure the perp comfortable with the handcuffs."
 msgstr ""
 
 msgid "Newbie [says] You heard her! Today is your big day..."
@@ -66,10 +66,10 @@ msgstr ""
 msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look like a criminal."
 msgstr ""
 
-msgid "Murtaugh [says] The real question is whether he is more of a petty thief or hardened killer."
+msgid "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
 msgstr ""
 
-msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you... [mc]! AKA are the bad guy!"
+msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
 msgstr ""
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
@@ -78,7 +78,7 @@ msgstr ""
 msgid "Murtaugh [says] Easy... Easy Riggs. We know he's innocent. But to let him go, we need to know who his partner is."
 msgstr ""
 
-msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of half-way houses..."
+msgid "Murtaugh [says] Let's take a closer look at your file... After the age of 20 in and out of halfway houses..."
 msgstr ""
 
 msgid "Riggs [says] Whereas, she..."
@@ -96,7 +96,7 @@ msgstr ""
 msgid "Murtaugh [says] Anna, after your step-mother died, decided to bring you and your [lizR.NPClabel] into her home..."
 msgstr ""
 
-msgid "Murtaugh [says] The children of the man who impregnated her when she was only 18 and then left her."
+msgid "Murtaugh [says] From the man who was kind enough to impregnated her when she was only 18 and then left her with nothing."
 msgstr ""
 
 msgid "Murtaugh [says] Not caring about her..."
@@ -126,7 +126,7 @@ msgstr ""
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr ""
 
-msgid "What happened to me... I was such a happy child... I really thought I was leaving all the pain behind."
+msgid "What happened to me... I was such a happy child... I really thought I was leaving all that pain behind."
 msgstr ""
 
 msgid "At first, at [ann]'s house, it seemed to go well. I was really hoping everything would work out."
