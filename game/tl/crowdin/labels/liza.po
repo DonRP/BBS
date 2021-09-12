@@ -51,8 +51,8 @@ msgstr "[TALKmc09] {i}Hmmm, Liza's phone! She's always on the phone, I wonder wh
 # game/labels/liza.rpy:24
 # translate crowdin liza_kitchen1_lizasmartphone_13d0c0dc:
 
-msgid "[TALKmc09] {i}Shit, he's got the password!"
-msgstr "[TALKmc09] {i}Shit, he's got the password!"
+msgid "[TALKmc09] {i}Shit, she's got the password!"
+msgstr "[TALKmc09] {i}Shit, she's got the password!"
 
 # game/labels/liza.rpy:25
 # translate crowdin liza_kitchen1_lizasmartphone_845cc47b:
@@ -75,14 +75,14 @@ msgstr "[TALKliz] Did you get my phone? [nointeract]"
 # game/labels/liza.rpy:39
 # translate crowdin liza_kitchen1B_a4acbae3:
 
-msgid "[TALKliz06] Go ahead! What are you waiting for."
-msgstr "[TALKliz06] Go ahead! What are you waiting for."
+msgid "[TALKliz06] Go look for it! What are you waiting for?!"
+msgstr "[TALKliz06] Go look for it! What are you waiting for?!"
 
 # game/labels/liza.rpy:42
 # translate crowdin liza_kitchen1B_ffe1d641:
 
-msgid "[TALKliz08] Finally! what took you so long?"
-msgstr "[TALKliz08] Finally! what took you so long?"
+msgid "[TALKliz08] Finally! What took you so long?"
+msgstr "[TALKliz08] Finally! What took you so long?"
 
 # game/labels/liza.rpy:45
 # translate crowdin liza_kitchen1B_85907fac:
@@ -93,20 +93,20 @@ msgstr "[TALKmc02] I had a little trouble finding it!"
 # game/labels/liza.rpy:46
 # translate crowdin liza_kitchen1B_e370ffaa:
 
-msgid "[TALKliz03] Bah, you are so weird! it was right on my nightstand."
-msgstr "[TALKliz03] Bah, you are so weird! it was right on my nightstand."
+msgid "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
+msgstr "[TALKliz03] Bah, you are so weird! It was right on my nightstand."
 
 # game/labels/liza.rpy:48
 # translate crowdin liza_kitchen1B_de52473f:
 
-msgid "[TALKmc06] By the way, what is the password?"
-msgstr "[TALKmc06] By the way, what is the password?"
+msgid "[TALKmc06] By the way, what's the password?"
+msgstr "[TALKmc06] By the way, what's the password?"
 
 # game/labels/liza.rpy:49
 # translate crowdin liza_kitchen1B_70b51451:
 
-msgid "[TALKliz09] Excuse me?!! Why do you ask?"
-msgstr "[TALKliz09] Excuse me?!! Why do you ask?"
+msgid "[TALKliz09] Excuse me?!! Why would you ask for it?"
+msgstr "[TALKliz09] Excuse me?!! Why would you ask for it?"
 
 # game/labels/liza.rpy:50
 # translate crowdin liza_kitchen1B_48eff828:
@@ -117,8 +117,8 @@ msgstr "[TALKliz05] Wait, what did you want to look at?"
 # game/labels/liza.rpy:51
 # translate crowdin liza_kitchen1B_5f9ee4f2:
 
-msgid "[TALKmc08] Nooo... nothing..."
-msgstr "[TALKmc08] Nooo... nothing..."
+msgid "[TALKmc08] I.. er.. nothing."
+msgstr "[TALKmc08] I.. er.. nothing."
 
 # game/labels/liza.rpy:52
 # translate crowdin liza_kitchen1B_e9722e36:
@@ -135,8 +135,8 @@ msgstr "[TALKmc10] So where's my breakfast?"
 # game/labels/liza.rpy:55
 # translate crowdin liza_kitchen1B_55e5c433:
 
-msgid "[TALKliz01] There's nothing here for you, [lizN.MClabel]!"
-msgstr "[TALKliz01] There's nothing here for you, [lizN.MClabel]!"
+msgid "[TALKliz01] There's nothing for you here [lizN.MClabel]!"
+msgstr "[TALKliz01] There's nothing for you here [lizN.MClabel]!"
 
 # game/labels/liza.rpy:56
 # translate crowdin liza_kitchen1B_71a56d94:
@@ -147,8 +147,8 @@ msgstr "[TALKmc08] What??"
 # game/labels/liza.rpy:57
 # translate crowdin liza_kitchen1B_0242d774:
 
-msgid "[TALKmc11] But we made a deal!"
-msgstr "[TALKmc11] But we made a deal!"
+msgid "[TALKmc11] But we had a deal!"
+msgstr "[TALKmc11] But we had a deal!"
 
 # game/labels/liza.rpy:58
 # translate crowdin liza_kitchen1B_cf86ad2c:
@@ -177,8 +177,8 @@ msgstr "[TALKmc02] {i}Guess I'll have to make do with a coffee."
 # game/labels/liza.rpy:64
 # translate crowdin liza_kitchen1B_be2d2856:
 
-msgid "[TALKmc02] Hey, could you give me a cup of coffee?"
-msgstr "[TALKmc02] Hey, could you give me a cup of coffee?"
+msgid "[TALKmc02] Hey, could you give me a coffee cup?"
+msgstr "[TALKmc02] Hey, could you give me a coffee cup?"
 
 # game/labels/liza.rpy:65
 # translate crowdin liza_kitchen1B_c42e0b6c:
@@ -195,14 +195,14 @@ msgstr "[TALKliz08] They are in the bottom drawer."
 # game/labels/liza.rpy:68
 # translate crowdin liza_kitchen1B_e72100e1:
 
-msgid "[TALKmc08] {i}Wow, what a cute little ass!"
-msgstr "[TALKmc08] {i}Wow, what a cute little ass!"
+msgid "[TALKmc08] {i}Wow, what a cute little butt!!"
+msgstr "[TALKmc08] {i}Wow, what a cute little butt!!"
 
 # game/labels/liza.rpy:70
 # translate crowdin liza_kitchen1B_f747e535:
 
-msgid "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel] like that."
-msgstr "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel] like that."
+msgid "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel]'s ass like that."
+msgstr "[TALKmc03] {i}Hmm...maybe I shouldn't stare at my [lizR.NPClabel]'s ass like that."
 
 # game/labels/liza.rpy:72
 # translate crowdin liza_kitchen1B_05cf50fa:
@@ -213,8 +213,8 @@ msgstr "[TALKmc03] {i}Hmm... maybe I shouldn't stare at it like that."
 # game/labels/liza.rpy:74
 # translate crowdin liza_kitchen1B_458a24d4:
 
-msgid "[TALKmc03] {i}Damn! [liz] how can she be so sour, but so hot..."
-msgstr "[TALKmc03] {i}Damn! [liz] how can she be so sour, but so hot..."
+msgid "[TALKmc03] {i}Damn [liz]! How can she be so sour, but so hot..."
+msgstr "[TALKmc03] {i}Damn [liz]! How can she be so sour, but so hot..."
 
 # game/labels/liza.rpy:76
 # translate crowdin liza_kitchen1B_dd1f2a11:
@@ -231,14 +231,14 @@ msgstr "[TALKmc00] Thanks!"
 # game/labels/liza.rpy:82
 # translate crowdin liza_kitchen1B_66bbf784:
 
-msgid "[TALKmc02] {i}My stomach is growling... What a fam!"
-msgstr "[TALKmc02] {i}My stomach is growling... What a fam!"
+msgid "[TALKmc02] {i}My stomach is growling... I'm so hungry!"
+msgstr "[TALKmc02] {i}My stomach is growling... I'm so hungry!"
 
 # game/labels/liza.rpy:85
 # translate crowdin liza_kitchen1B_f9869e86:
 
-msgid "[TALKmc07] {i}It looks like your breakfast is so good!"
-msgstr "[TALKmc07] {i}It looks like your breakfast is so good!"
+msgid "[TALKmc07] {i}[liz]'s breakfast looks so good!"
+msgstr "[TALKmc07] {i}[liz]'s breakfast looks so good!"
 
 # game/labels/liza.rpy:86
 # translate crowdin liza_kitchen1B_f1099d2b:
@@ -249,8 +249,8 @@ msgstr "[TALKmc01] {i}Hmm... I'll get my revenge somehow."
 # game/labels/liza.rpy:87
 # translate crowdin liza_kitchen1B_c7c4d98a:
 
-msgid "[TALKmc20] So how's breakfast?"
-msgstr "[TALKmc20] So how's breakfast?"
+msgid "[TALKmc20] So how's the breakfast?"
+msgstr "[TALKmc20] So how's the breakfast?"
 
 # game/labels/liza.rpy:88
 # translate crowdin liza_kitchen1B_ce0ce35f:
@@ -279,8 +279,8 @@ msgstr "[TALKliz02] Don't worry, you can eat some fruit from the table!"
 # game/labels/liza.rpy:92
 # translate crowdin liza_kitchen1B_3a789150:
 
-msgid "[TALKmc06] {i}I've got an idea! I could get revenge now..."
-msgstr "[TALKmc06] {i}I've got an idea! I could get revenge now..."
+msgid "[TALKmc06] {i}I've got an idea! I can get my revenge now..."
+msgstr "[TALKmc06] {i}I've got an idea! I can get my revenge now..."
 
 # game/labels/liza.rpy:94
 # translate crowdin liza_kitchen1B_2a010a78:
@@ -291,8 +291,8 @@ msgstr "[TALKmc05] Ha ha! You don't know what you're missing... [ann] did buy th
 # game/labels/liza.rpy:95
 # translate crowdin liza_kitchen1B_44c8c88e:
 
-msgid "[TALKmc05] I have never had such good fruit, too bad they are all for me."
-msgstr "[TALKmc05] I have never had such good fruit, too bad they are all for me."
+msgid "[TALKmc05] I have never had such delicous fruits, too bad they are all for me."
+msgstr "[TALKmc05] I have never had such delicous fruits, too bad they are all for me."
 
 # game/labels/liza.rpy:96
 # translate crowdin liza_kitchen1B_c29386d2:
@@ -303,20 +303,20 @@ msgstr "Just because you're my [lizR.NPClabel], I could give you one: [nointerac
 # game/labels/liza.rpy:107
 # translate crowdin liza_kitchen1B_26006673:
 
-msgid "[TALKliz04] Did you say in special consegana!?"
-msgstr "[TALKliz04] Did you say in special consegana!?"
+msgid "[TALKliz04] Did you say in special delivery!?"
+msgstr "[TALKliz04] Did you say in special delivery!?"
 
 # game/labels/liza.rpy:108
 # translate crowdin liza_kitchen1B_e9296772:
 
-msgid "[TALKmc00] Yes! you know, only Anna knows where to buy good fresh fruit, at a good price."
-msgstr "[TALKmc00] Yes! you know, only Anna knows where to buy good fresh fruit, at a good price."
+msgid "[TALKmc00] Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
+msgstr "[TALKmc00] Yes! You know, only [ann] knows where to buy quality fresh fruits, at a good price."
 
 # game/labels/liza.rpy:109
 # translate crowdin liza_kitchen1B_171d542c:
 
-msgid "[TALKliz04] Hmm... Okay! They say bananas are good for fitness."
-msgstr "[TALKliz04] Hmm... Okay! They say bananas are good for fitness."
+msgid "[TALKliz04] Hmm... Okay! They say bPineapple are good for your fitness."
+msgstr "[TALKliz04] Hmm... Okay! They say bPineapple are good for your fitness."
 
 # game/labels/liza.rpy:112
 # translate crowdin liza_kitchen1B_56e23bcc:
@@ -327,32 +327,32 @@ msgstr "[TALKmc04] Here, try one! It's so sweet."
 # game/labels/liza.rpy:113
 # translate crowdin liza_kitchen1B_c5ea3705:
 
-msgid "[TALKliz03] Haha, you tried!"
-msgstr "[TALKliz03] Haha, you tried!"
+msgid "[TALKliz03] Haha, I'm not going to be fed by you!"
+msgstr "[TALKliz03] Haha, I'm not going to be fed by you!"
 
 # game/labels/liza.rpy:114
 # translate crowdin liza_kitchen1B_9500a2ad:
 
-msgid "[TALKmc10] Go ahead! Try it for yourself."
-msgstr "[TALKmc10] Go ahead! Try it for yourself."
+msgid "[TALKmc10] Come on! Y'know you want to."
+msgstr "[TALKmc10] Come on! Y'know you want to."
 
 # game/labels/liza.rpy:115
 # translate crowdin liza_kitchen1B_778ddefd:
 
-msgid "[TALKmc00] You can take a little bite!"
-msgstr "[TALKmc00] You can take a little bite!"
+msgid "[TALKmc00] You can have a little bite!"
+msgstr "[TALKmc00] You can have a little bite!"
 
 # game/labels/liza.rpy:116
 # translate crowdin liza_kitchen1B_d8e84c05:
 
-msgid "[TALKliz08] Ha ha ha really?! Get lost!"
-msgstr "[TALKliz08] Ha ha ha really?! Get lost!"
+msgid "[TALKliz08] Ha ha ha seriously?! Get lost!"
+msgstr "[TALKliz08] Ha ha ha seriously?! Get lost!"
 
 # game/labels/liza.rpy:117
 # translate crowdin liza_kitchen1B_a58c5649:
 
-msgid "[TALKmc11] I'm not going anywhere until you try it!"
-msgstr "[TALKmc11] I'm not going anywhere until you try it!"
+msgid "[TALKmc11] I'm not going anywhere until you have a bite!"
+msgstr "[TALKmc11] I'm not going anywhere until you have a bite!"
 
 # game/labels/liza.rpy:118
 # translate crowdin liza_kitchen1B_328924c3:
@@ -375,8 +375,8 @@ msgstr "[TALKliz06] (Cough...)"
 # game/labels/liza.rpy:140
 # translate crowdin liza_kitchen1B_73889904:
 
-msgid "[TALKliz05] You are dead!!!"
-msgstr "[TALKliz05] You are dead!!!"
+msgid "[TALKliz05] You're dead!!!"
+msgstr "[TALKliz05] You're dead!!!"
 
 # game/labels/liza.rpy:142
 # translate crowdin liza_kitchen1B_2d8cd1fd:
@@ -393,14 +393,14 @@ msgstr "[TALKmc07] {i}Ow! What a pain! But it was worth it!"
 # game/labels/liza.rpy:147
 # translate crowdin liza_kitchen1B_ad69a309:
 
-msgid "[TALKmc05] {i}It was crazy!"
-msgstr "[TALKmc05] {i}It was crazy!"
+msgid "[TALKmc05] {i}That was crazy!"
+msgstr "[TALKmc05] {i}That was crazy!"
 
 # game/labels/liza.rpy:148
 # translate crowdin liza_kitchen1B_521d5d4d:
 
-msgid "[TALKmc04] {i}My sweet revenge!"
-msgstr "[TALKmc04] {i}My sweet revenge!"
+msgid "[TALKmc04] {i}My sweet sweet revenge!"
+msgstr "[TALKmc04] {i}My sweet sweet revenge!"
 
 # game/labels/liza.rpy:151
 # translate crowdin liza_kitchen1B_a87a3911:
@@ -429,14 +429,14 @@ msgstr "[TALKmc07] {i}What's wrong with me ... she is my [lizR.NPClabel]!!"
 # game/labels/liza.rpy:155
 # translate crowdin liza_kitchen1B_fc6327d5:
 
-msgid "[TALKmc07] {i}He will probably tell [ann]..."
-msgstr "[TALKmc07] {i}He will probably tell [ann]..."
+msgid "[TALKmc07] {i}She will probably tell [ann]..."
+msgstr "[TALKmc07] {i}She will probably tell [ann]..."
 
 # game/labels/liza.rpy:156
 # translate crowdin liza_kitchen1B_646536e8:
 
-msgid "[TALKmc07] {i}Shit, I have to think of an excuse."
-msgstr "[TALKmc07] {i}Shit, I have to think of an excuse."
+msgid "[TALKmc07] {i}Shit, I'll have to think of an excuse."
+msgstr "[TALKmc07] {i}Shit, I'll have to think of an excuse."
 
 # game/labels/liza.rpy:159
 # translate crowdin liza_kitchen1Error_3b0426b3:
@@ -465,8 +465,8 @@ msgstr "[TALKmc07] Damn!!!"
 # game/labels/liza.rpy:166
 # translate crowdin liza_kitchen1Error_6e2938a0:
 
-msgid "[TALKmc07] I failed! I must think of another revenge."
-msgstr "[TALKmc07] I failed! I must think of another revenge."
+msgid "[TALKmc07] I failed! I must think of another way for revenge."
+msgstr "[TALKmc07] I failed! I must think of another way for revenge."
 
 # game/labels/liza.rpy:169
 # translate crowdin liza_kitchen1end_58ff4a11:
@@ -477,26 +477,26 @@ msgstr "(A few hours later)"
 # game/labels/liza.rpy:179
 # translate crowdin liza_lizaroom1_fec06955:
 
-msgid "[TALKmc01] {i}Shit, [liz]'s talking on the phone!"
-msgstr "[TALKmc01] {i}Shit, [liz]'s talking on the phone!"
+msgid "[TALKmc01] {i}Shit, [liz] is talking on the phone!!"
+msgstr "[TALKmc01] {i}Shit, [liz] is talking on the phone!!"
 
 # game/labels/liza.rpy:180
 # translate crowdin liza_lizaroom1_0c16b3c9:
 
-msgid "[TALKmc06] {i}Maybe you might not notice...."
-msgstr "[TALKmc06] {i}Maybe you might not notice...."
+msgid "[TALKmc06] {i}Maybe she won't notice if I sneak around..."
+msgstr "[TALKmc06] {i}Maybe she won't notice if I sneak around..."
 
 # game/labels/liza.rpy:182
 # translate crowdin liza_lizaroom1_d8249e3b:
 
-msgid "{i}OK! after this [lcy] will owe me a favor: [nointeract]"
-msgstr "{i}OK! after this [lcy] will owe me a favor: [nointeract]"
+msgid "{i}OK! After this [lcy] will owe me a favor: [nointeract]"
+msgstr "{i}OK! After this [lcy] will owe me a favor: [nointeract]"
 
 # game/labels/liza.rpy:185
 # translate crowdin liza_lizaroom1_3c479fc5:
 
-msgid "[TALKmc04] {i}Are you ready Ninjia?!"
-msgstr "[TALKmc04] {i}Are you ready Ninjia?!"
+msgid "[TALKmc04] {i}Are you ready Ninja?!"
+msgstr "[TALKmc04] {i}Are you ready Ninja?!"
 
 # game/labels/liza.rpy:187
 # translate crowdin liza_lizaroom1_77498084:
@@ -513,14 +513,14 @@ msgstr "[TALKmc06] {i}But first I need to warm up a bit in my room."
 # game/labels/liza.rpy:192
 # translate crowdin liza_lizaroom1_b51af1b0:
 
-msgid "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
-msgstr "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I could do that."
+msgid "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I can do that."
+msgstr "[TALKmc07] {i}Mhh... I should warm up a bit first, in my room there is in carpet where I can do that."
 
 # game/labels/liza.rpy:200
 # translate crowdin liza_lizaroom1_3457e9b4:
 
-msgid "[TALKmc04] {i}Ah Ah! Found it!"
-msgstr "[TALKmc04] {i}Ah Ah! Found it!"
+msgid "[TALKmc04] {i}Aha! Found it!"
+msgstr "[TALKmc04] {i}Aha! Found it!"
 
 # game/labels/liza.rpy:203
 # translate crowdin liza_lizaroom1_3d2441db:
@@ -585,8 +585,8 @@ msgstr "[TALKliz07] You don't have to say anything to my boyfriend!"
 # game/labels/liza.rpy:223
 # translate crowdin liza_lizaroom1_df6e4e08:
 
-msgid "[TALKmc08] {i}Oh my God! I think this [mik] guy is blackmailing her!"
-msgstr "[TALKmc08] {i}Oh my God! I think this [mik] guy is blackmailing her!"
+msgid "[TALKmc08] {i}Oh my god! I think this [mik] guy is blackmailing her!"
+msgstr "[TALKmc08] {i}Oh my god! I think this [mik] guy is blackmailing her!"
 
 # game/labels/liza.rpy:224
 # translate crowdin liza_lizaroom1_79f1acbc:
@@ -621,26 +621,26 @@ msgstr "[TALKliz05] Never!!! Fuck you!"
 # game/labels/liza.rpy:235
 # translate crowdin liza_lizaroom1_013ece5d:
 
-msgid "[TALKmc01] {i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
-msgstr "[TALKmc01] {i}Grrr... I don't like this Mike. I'm going to have to deal with it...."
+msgid "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
+msgstr "[TALKmc01] {i}Grrr... I don't like this [mik]. I'm going to have to deal with it...."
 
 # game/labels/liza.rpy:236
 # translate crowdin liza_lizaroom1_cec1cedd:
 
-msgid "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here early and fast!"
-msgstr "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here early and fast!"
+msgid "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here first!"
+msgstr "[TALKmc07] {i}I need to find out more about these photos but I need to get out of here first!"
 
 # game/labels/liza.rpy:248
 # translate crowdin liza_lizasmartphone0_34eeef50:
 
-msgid "[TALKmc06] {i}Hmmm... Liza is not in her room!"
-msgstr "[TALKmc06] {i}Hmmm... Liza is not in her room!"
+msgid "[TALKmc06] {i}Hmmm... [liz] is not in her room!"
+msgstr "[TALKmc06] {i}Hmmm... [liz] is not in her room!"
 
 # game/labels/liza.rpy:252
 # translate crowdin liza_lizasmartphone0_58c737bf:
 
-msgid "[TALKmc09] {i}But he left his phone here!"
-msgstr "[TALKmc09] {i}But he left his phone here!"
+msgid "[TALKmc09] {i}But she left his phone here!!"
+msgstr "[TALKmc09] {i}But she left his phone here!!"
 
 # game/labels/liza.rpy:253
 # translate crowdin liza_lizasmartphone0_f5086cae:
@@ -651,14 +651,14 @@ msgstr "[TALKmc09] {i}I need to find a way to unlock it!"
 # game/labels/liza.rpy:256
 # translate crowdin liza_lizasmartphone0_abde6055:
 
-msgid "[TALKmc07] {i}I better go think about this in my bedroom!"
-msgstr "[TALKmc07] {i}I better go think about this in my bedroom!"
+msgid "[TALKmc07] {i}I better go think about this in my room."
+msgstr "[TALKmc07] {i}I better go think about this in my room."
 
 # game/labels/liza.rpy:261
 # translate crowdin liza_lizasmartphone0_06abb7b0:
 
-msgid "{i}So, how to unlock Liza's phone?"
-msgstr "{i}So, how to unlock Liza's phone?"
+msgid "{i}So, how do I unlock [liz]'s phone?"
+msgstr "{i}So, how do I unlock [liz]'s phone?"
 
 # game/labels/liza.rpy:262
 # translate crowdin liza_lizasmartphone0_43599940:
@@ -669,14 +669,14 @@ msgstr "{i}Hmm....."
 # game/labels/liza.rpy:263
 # translate crowdin liza_lizasmartphone0_23d607a2:
 
-msgid "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
-msgstr "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
 
 # game/labels/liza.rpy:264
 # translate crowdin liza_lizasmartphone0_23d607a2_1:
 
-msgid "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
-msgstr "{i}Maybe if I find some kind of invisible ink and spread it on his phone."
+msgid "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
+msgstr "{i}Maybe I could find some kind of invisible ink and spread it on her phone."
 
 # game/labels/liza.rpy:265
 # translate crowdin liza_lizasmartphone0_e5f32ee6:
@@ -699,14 +699,14 @@ msgstr "{i}I have a UV flashlight, but where can I find the invisible ink?"
 # game/labels/liza.rpy:268
 # translate crowdin liza_lizasmartphone0_7c5bf88f:
 
-msgid "{i}I need an online search!"
-msgstr "{i}I need an online search!"
+msgid "{i}I need to google this!"
+msgstr "{i}I need to google this!"
 
 # game/labels/liza.rpy:273
 # translate crowdin liza_lizasmartphone0_7021bef5:
 
-msgid "[TALKmc08] {i}Wait!"
-msgstr "[TALKmc08] {i}Wait!"
+msgid "[TALKmc08] {i}Wait, what?!"
+msgstr "[TALKmc08] {i}Wait, what?!"
 
 # game/labels/liza.rpy:276
 # translate crowdin liza_lizasmartphone0_f12c6c9e:
@@ -717,8 +717,8 @@ msgstr "[TALKmc00] {i}LOL!!!"
 # game/labels/liza.rpy:277
 # translate crowdin liza_lizasmartphone0_744c7142:
 
-msgid "[TALKmc05] {i}Eh who could know!"
-msgstr "[TALKmc05] {i}Eh who could know!"
+msgid "[TALKmc05] {i}Hah, who would've known!"
+msgstr "[TALKmc05] {i}Hah, who would've known!"
 
 # game/labels/liza.rpy:278
 # translate crowdin liza_lizasmartphone0_0fab507b:
@@ -741,20 +741,20 @@ msgstr "[TALKmc06] {i}Let's do it!"
 # game/labels/liza.rpy:291
 # translate crowdin liza_lizasmartphone1_6ecd80d9:
 
-msgid "[TALKmc03] {i}she is so sexy"
-msgstr "[TALKmc03] {i}she is so sexy"
+msgid "[TALKmc03] {i}She is so sexy"
+msgstr "[TALKmc03] {i}She is so sexy"
 
 # game/labels/liza.rpy:292
 # translate crowdin liza_lizasmartphone1_0f23c15a:
 
-msgid "[TALKmc03] {i}let's do it"
-msgstr "[TALKmc03] {i}let's do it"
+msgid "[TALKmc03] {i}Let's do it"
+msgstr "[TALKmc03] {i}Let's do it"
 
 # game/labels/liza.rpy:311
 # translate crowdin liza_lizasmartphone1_146dbb52:
 
-msgid "[TALKmc03] {i}Wow nice. Now I need to rub it genlty and run away"
-msgstr "[TALKmc03] {i}Wow nice. Now I need to rub it genlty and run away"
+msgid "[TALKmc03] {i}Wow nice. Now I need to rub it gently and run away."
+msgstr "[TALKmc03] {i}Wow nice. Now I need to rub it gently and run away."
 
 # translate crowdin strings:
 
@@ -787,8 +787,8 @@ msgid "About your password..."
 msgstr "About your password..."
 
 #    # game/labels/liza.rpy:96
-msgid "Ananas"
-msgstr "Ananas"
+msgid "Pineapple"
+msgstr "Pineapple"
 
 #    # game/labels/liza.rpy:96
 msgid "Banana"
