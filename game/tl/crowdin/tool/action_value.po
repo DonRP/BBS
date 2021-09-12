@@ -15,6 +15,6 @@ msgid "Stealth Training"
 msgstr "Stealth Training"
 
 #    # game/tool/action_value.rpy:7
-msgid "Go to Kitchen"
-msgstr "Go to Kitchen"
+msgid "Go to the Kitchen"
+msgstr "Go to the Kitchen"
 
