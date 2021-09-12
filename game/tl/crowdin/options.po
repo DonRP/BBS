@@ -3,6 +3,6 @@
 # translate crowdin strings:
 
 #    # game/options.rpy:15
-msgid "Bad Bobby Saga: The return"
-msgstr "Bad Bobby Saga: The return"
+msgid "Bad Bobby Saga: The Return"
+msgstr "Bad Bobby Saga: The Return"
 
