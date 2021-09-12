@@ -54,7 +54,7 @@ label talk_back:
     if num == 1:
         mc "OK, I'm off. See you."
     elif num == 2:
-        mc "It's getting late. See you."
+        mc "It's getting late. See you later."
     elif num == 3:
         mc "Sorry, but I have to go now. Bye."
     elif num == 4:
@@ -64,7 +64,7 @@ label talk_back:
     elif num == 6:
         mc "I won't keep you any longer. Bye."
     elif num == 7:
-        mc "I was supposed to tell you something else.... But I can't remember."
+        mc "I was supposed to tell you something else.... But I can't remember what it was."
         mc "When it comes back to me I'll let you know, bye."
 
     $ del num

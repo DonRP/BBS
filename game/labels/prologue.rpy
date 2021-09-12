@@ -56,14 +56,14 @@ label intro:
     "Policewoman" "I don't think so!"
     "Newbie" "Um... I wasn't coming on to you, just wanted to know a bit more about you."
     "Policewoman" "Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
-    "Policewoman" "With that said, I'm not here to make friends, we're partners. Understood?"
+    "Policewoman" "With that said, I'm not here to make friends, we're just partners. Understood?"
     "Newbie" "Yes, Ma'am!"
     window hide
     pause
     "Policewoman" "Okay, we're here."
     window hide
     pause
-    "Policewoman" "Newbie, make sure the perp comfortable with the handcuffs."
+    "Policewoman" "Newbie, make sure the perp is comfortable with the handcuffs."
     "Newbie" "You heard her! Today is your big day..."
     show prologue A03
     with fade

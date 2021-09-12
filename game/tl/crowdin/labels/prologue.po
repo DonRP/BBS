@@ -39,8 +39,8 @@ msgstr "Policewoman [says] Rookie, as I've already explained... I'm here so you 
 # game/labels/prologue.rpy:59
 # translate crowdin intro_dfc6275d:
 
-msgid "Policewoman [says] With that said, I'm not here to make friends, we're partners. Understood?"
-msgstr "Policewoman [says] With that said, I'm not here to make friends, we're partners. Understood?"
+msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
+msgstr "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
 
 # game/labels/prologue.rpy:60
 # translate crowdin intro_bc4f1dfc:
@@ -57,8 +57,8 @@ msgstr "Policewoman [says] Okay, we're here."
 # game/labels/prologue.rpy:66
 # translate crowdin intro_0f8b4b24:
 
-msgid "Policewoman [says] Newbie, make sure the perp comfortable with the handcuffs."
-msgstr "Policewoman [says] Newbie, make sure the perp comfortable with the handcuffs."
+msgid "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
+msgstr "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
 
 # game/labels/prologue.rpy:67
 # translate crowdin intro_ae8f916a:
