@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2021-09-02 12:50\n"
+"PO-Revision-Date: 2021-09-12 16:24\n"
 
 msgid "ERROR"
 msgstr ""
@@ -21,17 +21,17 @@ msgstr ""
 msgid "You want to become a ninja?! then what are you waiting for!"
 msgstr ""
 
-msgid "Start the game to power up the stealth."
+msgid "Start the game to level up the stealth."
 msgstr ""
 
 msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
 msgstr ""
 
-msgid "And with each roun you will increase your stealth by 1."
+msgid "And with each round you will increase your stealth by 1."
 msgstr ""
 
 #    # game/tool/action_label.rpy:10
-msgid "Nap for 3 hours"
+msgid "Nap for 3 hours.."
 msgstr ""
 
 #    # game/tool/action_label.rpy:10
