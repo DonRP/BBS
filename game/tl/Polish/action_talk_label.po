@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-06 23:27\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "OK, I'm off. See you."
 msgstr "OK. Do zobaczenia."
 
-msgid "It's getting late. See you."
-msgstr "Robi się późno. Do zobaczenia."
+msgid "It's getting late. See you later."
+msgstr ""
 
 msgid "Sorry, but I have to go now. Bye."
 msgstr "Niestety, ale muszę już iść. Żegnaj."
@@ -30,8 +30,8 @@ msgstr "Właśnie o czymś sobie przypomniałem. Muszę iść! Na razie."
 msgid "I won't keep you any longer. Bye."
 msgstr "Nie będę cię dłużej zatrzymywał. Cześć."
 
-msgid "I was supposed to tell you something else.... But I can't remember."
-msgstr "Chciałem Ci powiedzieć coś jeszcze.... ale nie pamiętam co."
+msgid "I was supposed to tell you something else.... But I can't remember what it was."
+msgstr ""
 
 msgid "When it comes back to me I'll let you know, bye."
 msgstr "Jak sobie przypomnę to dam ci znać, pa."
