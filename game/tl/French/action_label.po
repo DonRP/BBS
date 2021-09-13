@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "ERROR"
 msgstr "ERREUR"
@@ -31,7 +31,7 @@ msgid "And with each round you will increase your stealth by 1."
 msgstr ""
 
 #    # game/tool/action_label.rpy:10
-msgid "Nap for 3 hours.."
+msgid "Nap for 3 hours..."
 msgstr ""
 
 #    # game/tool/action_label.rpy:10
