@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Novato [says] ¿Probaste ese nuevo restaurante italiano... ¡¿cómo se llamaba?! ¡Oh, cierto! Da Luigi."
@@ -30,7 +30,7 @@ msgstr "Novato [says] Um... No me acercaba a ti, solo quería saber un poco más
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
 msgstr ""
 
-msgid "Policewoman [says] With that said, I'm not here to make friends, we're partners. Understood?"
+msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
 msgstr ""
 
 msgid "Newbie [says] Yes, Ma'am!"
@@ -39,7 +39,7 @@ msgstr ""
 msgid "Policewoman [says] Okay, we're here."
 msgstr "Mujer policía [says] Está bien, estamos aquí."
 
-msgid "Policewoman [says] Newbie, make sure the perp comfortable with the handcuffs."
+msgid "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
 msgstr ""
 
 msgid "Newbie [says] You heard her! Today is your big day..."
