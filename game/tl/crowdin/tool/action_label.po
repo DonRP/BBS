@@ -39,8 +39,8 @@ msgstr "And with each round you will increase your stealth by 1."
 # translate crowdin strings:
 
 #    # game/tool/action_label.rpy:10
-msgid "Nap for 3 hours.."
-msgstr "Nap for 3 hours.."
+msgid "Nap for 3 hours..."
+msgstr "Nap for 3 hours..."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
