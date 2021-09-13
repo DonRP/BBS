@@ -9,8 +9,8 @@ msgstr "OK, I'm off. See you."
 # game/tool/action_talk_label.rpy:57
 # translate crowdin talk_back_6d0331c8:
 
-msgid "It's getting late. See you."
-msgstr "It's getting late. See you."
+msgid "It's getting late. See you later."
+msgstr "It's getting late. See you later."
 
 # game/tool/action_talk_label.rpy:59
 # translate crowdin talk_back_5b23cf87:
@@ -39,8 +39,8 @@ msgstr "I won't keep you any longer. Bye."
 # game/tool/action_talk_label.rpy:67
 # translate crowdin talk_back_257f36eb:
 
-msgid "I was supposed to tell you something else.... But I can't remember."
-msgstr "I was supposed to tell you something else.... But I can't remember."
+msgid "I was supposed to tell you something else.... But I can't remember what it was."
+msgstr "I was supposed to tell you something else.... But I can't remember what it was."
 
 # game/tool/action_talk_label.rpy:68
 # translate crowdin talk_back_c000e6a8:
