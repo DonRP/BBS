@@ -10,13 +10,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-04 13:14\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "OK, I'm off. See you."
 msgstr "OK, I'm off. See you."
 
-msgid "It's getting late. See you."
-msgstr "It's getting late. See you later."
+msgid "It's getting late. See you later."
+msgstr ""
 
 msgid "Sorry, but I have to go now. Bye."
 msgstr "Sorry, but I have to go now. Bye."
@@ -30,8 +30,8 @@ msgstr "I just remembered something. Gotta go! Bye."
 msgid "I won't keep you any longer. Bye."
 msgstr "I won't keep you any longer. Bye."
 
-msgid "I was supposed to tell you something else.... But I can't remember."
-msgstr "I was supposed to tell you something else.... But I can't remember what it was."
+msgid "I was supposed to tell you something else.... But I can't remember what it was."
+msgstr ""
 
 msgid "When it comes back to me I'll let you know, bye."
 msgstr "When it comes back to me I'll let you know, bye."
