@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Arabic\n"
 "Language: ar_SA\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr ""
@@ -102,7 +102,7 @@ msgstr ""
 msgid "[TALKann04] ... It's okay baby, I can do it!"
 msgstr ""
 
-msgid "[TALKmc03] {i}Oh my god!!! it feels so good!"
+msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
 msgstr ""
 
 msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
