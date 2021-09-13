@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: English\n"
 "Language: en_US\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-13 16:18\n"
 
 msgid "[TALKliz00] Hey there [lizN.MClabel]!"
 msgstr "[TALKliz00] Hey there [lizN.MClabel]!"
@@ -400,7 +400,7 @@ msgstr "What about me?!"
 
 #    # game/labels/liza.rpy:15
 msgid "Liza smartphone"
-msgstr "Liza smartphone"
+msgstr "Liza's Smartphone"
 
 #    # game/labels/liza.rpy:34
 msgid "Indeed!"
