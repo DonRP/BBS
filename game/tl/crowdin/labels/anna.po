@@ -183,8 +183,8 @@ msgstr "[TALKann04] ... It's okay baby, I can do it!"
 # game/labels/anna.rpy:93
 # translate crowdin start_scene_ecf3c988:
 
-msgid "[TALKmc03] {i}Oh my god!!! it feels so good!"
-msgstr "[TALKmc03] {i}Oh my god!!! it feels so good!"
+msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
+msgstr "[TALKmc03] {i}Oh my god!!! It feels so good!"
 
 # game/labels/anna.rpy:96
 # translate crowdin start_scene_da5ed010:
