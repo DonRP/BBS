@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "[TALKmc00] Hey"
 msgstr ""
@@ -124,7 +124,7 @@ msgid "[TALKmc10] Actually.... I was thinking you should let me do your nails fo
 msgstr ""
 
 msgid "[TALKlcy07] What??"
-msgstr ""
+msgstr "[TALKlcy07] chiy??"
 
 msgid "[TALKlcy06] Stop messing around, [mc]!"
 msgstr ""
