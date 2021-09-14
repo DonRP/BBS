@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "This is the temporary end (current version: [config.version]). You'll have to wait for a new update."
 msgstr ""
@@ -20,13 +20,13 @@ msgid "If you want more updates, support me on {a=patreon_link}Patreon"
 msgstr ""
 
 msgid "Save your game now."
-msgstr ""
+msgstr "Pashakawt krdny Yary Esat."
 
 msgid "Pressing ENTER will return you to the Main Menu."
 msgstr ""
 
 msgid "(Coming soon)"
-msgstr ""
+msgstr "(Bam zwana)"
 
 msgid "Support me on {a=patreon_link}Patreon"
 msgstr ""
