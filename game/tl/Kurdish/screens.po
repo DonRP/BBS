@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 #    # game/tool/screens.rpy:254
 msgid "Talk"
-msgstr ""
+msgstr "qsa krdn"
 
 #    # game/tool/screens.rpy:262
 msgid "Wait"
-msgstr ""
+msgstr "Chawaria bka"
 
 #    # game/tool/screens.rpy:304
 msgid "Settings"
-msgstr ""
+msgstr "Reakxestn"
 
 #    # game/tool/screens.rpy:314
 msgid "Characters info"
-msgstr ""
+msgstr "Zaniary karaktaran"
 
 #    # game/tool/screens.rpy:325
 msgid "Memo"
-msgstr ""
+msgstr "Padasht"
 
 #    # game/tool/screens.rpy:356
 msgid "Backpack"
@@ -38,11 +38,11 @@ msgstr ""
 
 #    # game/tool/screens.rpy:366
 msgid "Smartphone"
-msgstr ""
+msgstr "Mobil"
 
 #    # game/tool/screens.rpy:376
 msgid "Map"
-msgstr ""
+msgstr "Naxesha"
 
 #    # game/tool/screens.rpy:482
 msgid "It is currently the end of this story, unfortunately you have to wait for an update to continue this story."
@@ -50,5 +50,5 @@ msgstr ""
 
 #    # game/tool/screens.rpy:484
 msgid "You have completed all the quests."
-msgstr ""
+msgstr "To Hamu aw Garananat Tawaw Krdwa."
 
