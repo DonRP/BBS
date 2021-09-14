@@ -10,25 +10,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 #    # game/tool/nav_value.rpy:1
 msgid "[mc] room"
-msgstr ""
+msgstr "[mc] źoor"
 
 #    # game/tool/nav_value.rpy:1
 msgid "[liz] room"
-msgstr ""
+msgstr "[liz] źoor"
 
 #    # game/tool/nav_value.rpy:1
 msgid "Lounge"
-msgstr ""
+msgstr "Źoory miwan"
 
 #    # game/tool/nav_value.rpy:1
 msgid "Kitchen"
-msgstr ""
+msgstr "Chestxana"
 
 #    # game/tool/nav_value.rpy:8
 msgid "[mc] house"
-msgstr ""
+msgstr "[mc] xanw"
 
