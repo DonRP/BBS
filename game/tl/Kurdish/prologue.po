@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr ""
@@ -115,13 +115,13 @@ msgid "Murtaugh [says] Treating you like a son, letting you sleep under the same
 msgstr ""
 
 msgid "Murtaugh [says] And..."
-msgstr ""
+msgstr "Murtaugh [says] w..."
 
 msgid "Murtaugh [says] and the other..."
-msgstr ""
+msgstr "Murtaugh [says] wa hiy tr..."
 
 msgid "Riggs [says] You don't talk much, huh?"
-msgstr ""
+msgstr "Riggs [says] To Zoor qsa Nakay, hhhh?"
 
 msgid "Riggs [says] Well, we have enough to keep you in for a few nights. let's see if you change your mind!"
 msgstr ""
@@ -140,7 +140,7 @@ msgstr ""
 
 #    # game/labels/prologue.rpy:42
 msgid "Special thanks"
-msgstr ""
+msgstr "Supasiaky Taibat"
 
 #    # game/labels/prologue.rpy:46
 msgid "3D Modeling\n"
@@ -151,39 +151,46 @@ msgid "3D Modeling\n"
 "bxIvan\n"
 "Megaplayboy10k\n"
 "SummmerP"
-msgstr ""
+msgstr "3D Modeling\n"
+"BigIrishLug\n"
+"krekerman003\n"
+"schlebbsaga\n\n"
+"Various support\n"
+"bxIvan\n"
+"Megaplayboy10k\n"
+"SummmerP"
 
 #    # game/labels/prologue.rpy:114
 msgid "mom"
-msgstr ""
+msgstr "daya"
 
 #    # game/labels/prologue.rpy:114
 msgid "mother"
-msgstr ""
+msgstr "dayik"
 
 #    # game/labels/prologue.rpy:116
 msgid "step son"
-msgstr ""
+msgstr "zř kuř"
 
 #    # game/labels/prologue.rpy:117
 msgid "step mom"
-msgstr ""
+msgstr "zř dayik"
 
 #    # game/labels/prologue.rpy:120
 msgid "brother"
-msgstr ""
+msgstr "bra"
 
 #    # game/labels/prologue.rpy:121
 msgid "sister"
-msgstr ""
+msgstr "xushk"
 
 #    # game/labels/prologue.rpy:122
 msgid "step brother"
-msgstr ""
+msgstr "zř bra"
 
 #    # game/labels/prologue.rpy:123
 msgid "step sister"
-msgstr ""
+msgstr "zř xushk"
 
 #    # game/labels/prologue.rpy:138
 msgid "landlord"
