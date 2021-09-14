@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr ""
@@ -119,11 +119,11 @@ msgstr ""
 
 #    # game/labels/anna.rpy:56
 msgid "About the dream"
-msgstr ""
+msgstr "Darbaray Xawnka"
 
 #    # game/labels/anna.rpy:56
 msgid "I would like a hug"
-msgstr ""
+msgstr "Mn hazm la bawashiaka"
 
 #    # game/labels/anna.rpy:76
 msgid "Play a trick on her"
@@ -131,5 +131,5 @@ msgstr ""
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
-msgstr ""
+msgstr "Yarmaty aw bda l sabataka"
 
