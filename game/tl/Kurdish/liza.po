@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-12 16:24\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "[TALKliz00] Hey there [lizN.MClabel]!"
 msgstr ""
@@ -82,19 +82,19 @@ msgid "[TALKliz01] There's nothing for you here [lizN.MClabel]!"
 msgstr ""
 
 msgid "[TALKmc08] What??"
-msgstr ""
+msgstr "[TALKmc08] chiy??"
 
 msgid "[TALKmc11] But we had a deal!"
-msgstr ""
+msgstr "[TALKmc11] baĺam eiama mamaĺayakman krdbu!"
 
 msgid "[TALKliz03] I'm sorry, it's all for me because you don't deserve it!"
-msgstr ""
+msgstr "[TALKliz03] bbura, Hamuy bo mna labar away to shayany awa niy!"
 
 msgid "[TALKmc01] Okay, {p}All right, {p}I'm not hungry anyway!"
-msgstr ""
+msgstr "[TALKmc01] Basha, {p} basha, {p}mn brsy nim har chonyiak bet!"
 
 msgid "[TALKmc01] {i}I hate her!"
-msgstr ""
+msgstr "[TALKmc01] {i}rqm la awa!"
 
 msgid "[TALKmc02] {i}Guess I'll have to make do with a coffee."
 msgstr ""
@@ -226,43 +226,43 @@ msgid "[TALKmc07] {i}What's wrong with me ... she is my [lizR.NPClabel]!!"
 msgstr ""
 
 msgid "[TALKmc07] {i}She will probably tell [ann]..."
-msgstr ""
+msgstr "[TALKmc07] {i} aw lawanaya Bĺiat [ann]..."
 
 msgid "[TALKmc07] {i}Shit, I'll have to think of an excuse."
-msgstr ""
+msgstr "[TALKmc07] {i}Shit, peawesta ber la pasaweik bkamawa."
 
 msgid "[TALKliz04] Hmmm... also no... thanks!"
-msgstr ""
+msgstr "[TALKliz04] Hmmm... Harwa Na... supas!"
 
 msgid "[TALKliz10] Just give a little taste."
 msgstr ""
 
 msgid "[TALKliz05] NO! go away! before I call [ann]."
-msgstr ""
+msgstr "[TALKliz05] Naxer! Dur bkawa! Beash away talafon bkam [ann]."
 
 msgid "[TALKmc07] Damn!!!"
-msgstr ""
+msgstr "[TALKmc07] Nafrat!!!"
 
 msgid "[TALKmc07] I failed! I must think of another way for revenge."
-msgstr ""
+msgstr "[TALKmc07] Mn shkstm hena! Mn dabet ber la regayaky tr bkamawa bo tolsandnowa."
 
 msgid "(A few hours later)"
-msgstr ""
+msgstr "(Chant katzhmerky tr)"
 
 msgid "[TALKmc01] {i}Shit, [liz] is talking on the phone!!"
-msgstr ""
+msgstr "[TALKmc01] {i}Nafrat, [liz] iaw talafon dakat!!"
 
 msgid "[TALKmc06] {i}Maybe she won't notice if I sneak around..."
-msgstr ""
+msgstr "[TALKmc06] {i} lawanaya aw sarnj nadat agar dza bkam..."
 
 msgid "{i}OK! After this [lcy] will owe me a favor: [nointeract]"
 msgstr ""
 
 msgid "[TALKmc04] {i}Are you ready Ninja?!"
-msgstr ""
+msgstr "[TALKmc04] {i}Aya amaday Ninja?!"
 
 msgid "[TALKmc07] {i}Hmm... I don't think I'm ready yet."
-msgstr ""
+msgstr "[TALKmc07] {i}Hmm... wabzanm heshta amada nim."
 
 msgid "[TALKmc06] {i}But first I need to warm up a bit in my room."
 msgstr ""
@@ -376,65 +376,65 @@ msgid "[TALKmc04] {i}It says here that semen glows under a UV light."
 msgstr ""
 
 msgid "[TALKmc06] {i}Well..."
-msgstr ""
+msgstr "[TALKmc06] {i}Basha..."
 
 msgid "[TALKmc06] {i}Let's do it!"
-msgstr ""
+msgstr "[TALKmc06] {i}Ba anjamy bdayin!"
 
 msgid "[TALKmc03] {i}She is so sexy"
-msgstr ""
+msgstr "[TALKmc03] {i} aw Kchiaky zor seksia"
 
 msgid "[TALKmc03] {i}Let's do it"
-msgstr ""
+msgstr "[TALKmc03] {i} Ba anjamy bdayn"
 
 msgid "[TALKmc03] {i}Wow nice. Now I need to rub it gently and run away."
 msgstr ""
 
 #    # game/labels/liza.rpy:5
 msgid "Okay"
-msgstr ""
+msgstr "Basha"
 
 #    # game/labels/liza.rpy:5
 msgid "What about me?!"
-msgstr ""
+msgstr "Chy sparat ba mn?!"
 
 #    # game/labels/liza.rpy:15
 msgid "Liza smartphone"
-msgstr ""
+msgstr "Mobily liza"
 
 #    # game/labels/liza.rpy:34
 msgid "Indeed!"
-msgstr ""
+msgstr "Ba Rasty!"
 
 #    # game/labels/liza.rpy:34
 msgid "Not yet!"
-msgstr ""
+msgstr "Heiashta Na!"
 
 #    # game/labels/liza.rpy:43
 msgid "I couldn't find it"
-msgstr ""
+msgstr "Mn Namtwany Bedwozmaua"
 
 #    # game/labels/liza.rpy:43
 msgid "About your password..."
-msgstr ""
+msgstr "Darbaray wshaynheinyakait..."
 
 #    # game/labels/liza.rpy:96
 msgid "Pineapple"
-msgstr ""
+msgstr "Ananas"
 
 #    # game/labels/liza.rpy:96
 msgid "Banana"
-msgstr ""
+msgstr "Moz"
 
 #    # game/labels/liza.rpy:96
 msgid "Kiwi"
-msgstr ""
+msgstr "Kewy"
 
 #    # game/labels/liza.rpy:182
 msgid "Do it now"
-msgstr ""
+msgstr "Esat bekan"
 
 #    # game/labels/liza.rpy:182
 msgid "Not yet"
-msgstr ""
+msgstr "Heshta Na"
 
