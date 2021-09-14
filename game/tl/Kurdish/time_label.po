@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 msgid "[block_spendtime_dialogue]"
-msgstr ""
+msgstr "[block_spendtime_dialogue]"
 
 msgid "(It's late, you have to go to bed)"
-msgstr ""
+msgstr "(Zor dranfa, To peiawest bchita sar Chiagakaw)"
 
 #    # game/tool/time_label.rpy:4
 msgid "You can't do that now"
-msgstr ""
+msgstr "Eiasta Natwanit Ama Bkait"
 
