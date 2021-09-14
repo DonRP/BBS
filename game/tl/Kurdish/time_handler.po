@@ -10,21 +10,21 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-07 23:29\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Night"
-msgstr ""
+msgstr "Shaw"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Morning"
-msgstr ""
+msgstr "Bayany"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Afternoon"
-msgstr ""
+msgstr "Niwaro"
 
 #    # game/tool/time_handler.rpy:3
 msgid "Evening"
-msgstr ""
+msgstr "Eiawara"
 
