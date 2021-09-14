@@ -10,15 +10,15 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-09-14 16:26\n"
 
 #    # game/tool/action_value.rpy:7
 msgid "Nap"
-msgstr ""
+msgstr "Sar xaw"
 
 #    # game/tool/action_value.rpy:7
 msgid "Laptop"
-msgstr ""
+msgstr "Laptop"
 
 #    # game/tool/action_value.rpy:7
 msgid "Stealth Training"
@@ -26,5 +26,5 @@ msgstr ""
 
 #    # game/tool/action_value.rpy:7
 msgid "Go to the Kitchen"
-msgstr ""
+msgstr "Bro bo chestxana"
 
