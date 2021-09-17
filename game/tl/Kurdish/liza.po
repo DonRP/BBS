@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Kurdish\n"
 "Language: ku_TR\n"
-"PO-Revision-Date: 2021-09-14 16:26\n"
+"PO-Revision-Date: 2021-09-17 16:34\n"
 
 msgid "[TALKliz00] Hey there [lizN.MClabel]!"
 msgstr ""
@@ -196,10 +196,10 @@ msgid "[TALKliz06] Mmmmmmmm"
 msgstr ""
 
 msgid "[TALKliz06] (Cough...)"
-msgstr ""
+msgstr "[TALKliz06] (kokha...)"
 
 msgid "[TALKliz05] You're dead!!!"
-msgstr ""
+msgstr "[TALKliz05] To Mrduid!!!"
 
 msgid "[TALKmc12] Ow! Ow! You're hurting me!"
 msgstr ""
@@ -316,7 +316,7 @@ msgid "[TALKliz07] I can't do this again... please."
 msgstr ""
 
 msgid "[TALKliz07] Don't do that!"
-msgstr ""
+msgstr "[TALKliz07] awa maka!"
 
 msgid "[TALKliz05] Never!!! Fuck you!"
 msgstr ""
