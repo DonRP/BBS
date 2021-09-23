@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-09-23 08:51\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Newbie [says] Hai provato quel nuovo ristorante italiano... come si chiamava?! Oh giusto! Da Luigi."
@@ -19,16 +19,16 @@ msgid "Policewoman [says] No!"
 msgstr "Poliziotta [says] No!"
 
 msgid "Newbie [says] Me neither, but I've heard good things about it. We could..."
-msgstr ""
+msgstr "Novellino [says] Nemmeno io, ma ho sentito parlarne bene. Potremmo..."
 
 msgid "Policewoman [says] I don't think so!"
-msgstr ""
+msgstr "Poliziotta [says] Non penso proprio!"
 
 msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
-msgstr ""
+msgstr "Novellino [says] Ehm... Non ci stavo provando con te, volevo solo conoscerti un po' meglio."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
-msgstr ""
+msgstr "Poliziotta [says] Pivello, come ti ho già spiegato... Sono qui per evitare che tu faccia qualcosa di stupido e poi perché il capitano ha detto che non posso lavorare da solo... il che è una stronzata!"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
 msgstr ""
