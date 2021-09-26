@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-16 16:28\n"
+"PO-Revision-Date: 2021-09-26 20:01\n"
 
 msgid "[TALKmc00] Hey"
 msgstr "[TALKmc00] Hey"
@@ -55,13 +55,13 @@ msgid "[TALKmc00] Your nails are looking nice!"
 msgstr ""
 
 msgid "[TALKlcy06] Not really..."
-msgstr ""
+msgstr "[TALKlcy06] Pas vraiment..."
 
 msgid "[TALKlcy02] I hate clear nail polish!"
 msgstr "[TALKlcy02] Je déteste le vernis à ongles transparent!"
 
 msgid "[TALKlcy05] Actually... I know how you could help me."
-msgstr ""
+msgstr "[TALKlcy05] En fait ... Je sais comment tu pourrais m'aider."
 
 msgid "[TALKlcy05] [liz] has this really nice nail polish that I'd like to use, but she'll never let me borrow it!"
 msgstr ""
