@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-26 20:01\n"
+"PO-Revision-Date: 2021-09-27 20:07\n"
 
 msgid "[TALKmc00] Hey"
 msgstr "[TALKmc00] Hey"
@@ -151,10 +151,10 @@ msgid "[TALKmc08] {i}Oh my god!!! I can't believe I'm actually going to touch he
 msgstr ""
 
 msgid "[TALKmc03] {i}This is awesome!!!"
-msgstr ""
+msgstr "[TALKmc03] {i}C'est génial!!!"
 
 msgid "[TALKmc06] {i}She didn't notice...I can go further!"
-msgstr ""
+msgstr "[TALKmc06] {i}Elle n'a rien remarqué...Je peux aller plus loin!"
 
 msgid "[TALKmc03] {i}Oh my god!!! I can feel my [lcyR.NPClabel]'s foot on my cock!"
 msgstr "[TALKmc03] {i}Oh mon dieu!!! Je peux sentir le pied de ma [lcyR.NPClabel]sur ma bite!"
