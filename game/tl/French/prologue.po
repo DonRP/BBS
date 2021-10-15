@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2021-09-16 16:28\n"
+"PO-Revision-Date: 2021-10-15 12:59\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Le Nouveau [says] Vous avez essayé le nouveau resto italien... comment il s'appelle, déjà ? Ah ouais, Da Luigi."
@@ -28,7 +28,7 @@ msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit 
 msgstr "Le Nouveau [says] Heu... Je ne vous draguais pas, je voulais juste apprendre à vous connaître."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
-msgstr ""
+msgstr "Femme policière [says] recrue, comme je l'ai déjà expliqué... Je suis ici pour que vous ne faites rien de stupide et par ce que le capitaine dit que je ne peux pas travailler seul... ce qui est juste des conneries !"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
 msgstr ""
