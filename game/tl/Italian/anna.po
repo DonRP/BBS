@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-21 18:14\n"
+"PO-Revision-Date: 2021-10-22 18:21\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -31,7 +31,7 @@ msgid "[TALKmc08] {i}Oh God!!! Was it just a dream. "
 msgstr "[TALKmc08] {i}Oh Dio!!! Era solo un sogno. "
 
 msgid "[TALKmc07] {i}What has gotten into me?! This is so wrong!"
-msgstr "[TALKmc07] {i}Che cosa mi è preso?! Era così sbagliato!"
+msgstr "[TALKmc07] {i}Che cosa mi è preso?! È così sbagliato!"
 
 msgid "[TALKmc07] {i}Mhh... Better to hide this tent pole before..."
 msgstr "[TALKmc07] {i}Mhh... Meglio nascondere questa alzabandiera prima che..."
@@ -40,28 +40,28 @@ msgid "(KNOCK KNOCK)"
 msgstr "(TOC TOC)"
 
 msgid "[TALKmc08] {i}Damn it!"
-msgstr "[TALKmc08] {i}Accidenti!"
+msgstr "[TALKmc08] {i}Dannazione!"
 
 msgid "[TALKann00] Good morning Bobby! Time to get up!"
-msgstr "[TALKann00] Buongiorno Bobby! È ora di alzarsi!"
+msgstr "[TALKann00] Buongiorno Bobby! Ora di alzarsi!"
 
 msgid "[TALKmc12] Yawn! Morning."
 msgstr "[TALKmc12] Yawn! Buongiorno."
 
 msgid "[TALKann00] I'm doing laundry, do you have anything to wash?"
-msgstr "[TALKann00] Sto facendo del bucato, hai qualcosa da lavare?"
+msgstr "[TALKann00] Sto facendo il bucato, hai niente da lavare?"
 
 msgid "[TALKmc07] Yawn! Sorry, I can't remember."
 msgstr "[TALKmc07] Yawn! Non ricordo."
 
 msgid "[TALKann00] Let's see, I had left... ah! there it is!"
-msgstr "[TALKann00] Vediamo un po', dove lo avevo lasciato... ah! eccolo!"
+msgstr "[TALKann00] Vediamo, avevo lasciato... ah! eccolo!"
 
 msgid "[TALKann] What's the matter, honey? You're so quiet this morning. [nointeract]"
 msgstr "[TALKann] Che cosa c'è, tesoro? Sei così silenzioso questa mattina. [nointeract]"
 
 msgid "[TALKmc00] I'm fine, I just a weird dream."
-msgstr "[TALKmc00] Sto bene, solo fatto un sogno strano."
+msgstr "[TALKmc00] Sto bene, ho solo fatto un sogno strano."
 
 msgid "[TALKann00] Tell me! What dream?"
 msgstr "[TALKann00] Racconta! Che sogno?"
@@ -70,13 +70,13 @@ msgid "[TALKmc08] Ahahahah... emmm... it's a bit hard to explain."
 msgstr "[TALKmc08] Ahahahah... emmm... è un po' complicato da spiegare."
 
 msgid "[TALKmc10] I really need a hug...."
-msgstr "[TALKmc10] Ho davvero bisogno di un abbraccio...."
+msgstr "[TALKmc10] Mi serve un abbraccio...."
 
 msgid "[TALKann00] Ahah! {p}Don't be silly."
 msgstr "[TALKann00] Ahah! {p}Non essere sciocco."
 
 msgid "[TALKann00] I'll wash this for you!"
-msgstr "[TALKann00] Ti lavo questo!"
+msgstr "[TALKann00] Te lo lavo io questo!"
 
 msgid "[TALKmc10] {i}Oh fuck, what nice curves..."
 msgstr "[TALKmc10] {i}Oh cazzo, che belle curve..."
@@ -103,7 +103,7 @@ msgid "[TALKann04] ... It's okay baby, I can do it!"
 msgstr "[TALKann04] ... Va bene piccolo, ce la posso fare!"
 
 msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
-msgstr ""
+msgstr "[TALKmc03]{i}Oh mio dio!!! È così bello!"
 
 msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
 msgstr "[TALKmc00] Ehi [annR.NPClabel]! Lascia che ti aiuti con questo."
@@ -115,7 +115,7 @@ msgid "[TALKmc08] ..."
 msgstr "[TALKmc08] ..."
 
 msgid "[TALKann03] It's okay, I can handle it."
-msgstr "[TALKann03] Va bene, possofarcela."
+msgstr "[TALKann03] Va bene, posso farcela."
 
 #    # game/labels/anna.rpy:56
 msgid "About the dream"
