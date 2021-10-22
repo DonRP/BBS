@@ -10,61 +10,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-09-12 16:22\n"
+"PO-Revision-Date: 2021-10-22 18:21\n"
 
 msgid "[TALKmc00] Hey"
-msgstr ""
+msgstr "[TALKmc00] Ehi"
 
 msgid "[TALKmc02] Hi [lcy]..."
-msgstr ""
+msgstr "[TALKmc02] Ciao [lcy]..."
 
 msgid "[TALKlcy02] Ugh..."
-msgstr ""
+msgstr "[TALKlcy02] Uff..."
 
 msgid "[TALKmc00] What are you doing?"
-msgstr ""
+msgstr "[TALKmc00] Cosa stai facendo?"
 
 msgid "[TALKlcy02] What does it look like I'm doing?"
-msgstr ""
+msgstr "[TALKlcy02] Cosa sembra che stia facendo?"
 
 msgid "[TALKmc10] Do you need any help?"
-msgstr ""
+msgstr "[TALKmc10] Ti serve aiuto?"
 
 msgid "[TALKlcy06] From you... No, thanks! I don't need any help from you."
-msgstr ""
+msgstr "[TALKlcy06] da te... No, grazie! Non mi serve nessun aiuto da te."
 
 msgid "[TALKmc03] {i}Mmm... Look at that those feet!!"
-msgstr ""
+msgstr "[TALKmc03] {i}Mmm... Guarda quei piedi!!"
 
 msgid "[TALKmc03] {i}She's so hot!"
-msgstr ""
+msgstr "[TALKmc03] {i}È hot!"
 
 msgid "[TALKmc06] Mhhh..."
-msgstr ""
+msgstr "[TALKmc06] Mhhh..."
 
 msgid "What should I tell [lcy] about her nails: [nointeract]"
-msgstr ""
+msgstr "Cosa dovrei dire a [lcy] delle sue unghie: [nointeract]"
 
 msgid "[TALKmc04] Why a transparent nail polish?! Isn't it useless?!"
-msgstr ""
+msgstr "[TALKmc04] Perchè una lucidatura trasparente per unghie?! Non è inutile?!"
 
 msgid "[TALKlcy06] I know, right?"
-msgstr ""
+msgstr "[TALKlcy06] Infatti, vero?"
 
 msgid "[TALKmc00] Your nails are looking nice!"
-msgstr ""
+msgstr "[TALKmc00] Hai delle belle unghie!"
 
 msgid "[TALKlcy06] Not really..."
-msgstr ""
+msgstr "[TALKlcy06] Non davvero..."
 
 msgid "[TALKlcy02] I hate clear nail polish!"
-msgstr ""
+msgstr "[TALKlcy02] Odio la lucidatura trasparente per unghie!"
 
 msgid "[TALKlcy05] Actually... I know how you could help me."
-msgstr ""
+msgstr "[TALKlcy05] Di fatti... So come potresti aiutarmi."
 
 msgid "[TALKlcy05] [liz] has this really nice nail polish that I'd like to use, but she'll never let me borrow it!"
-msgstr ""
+msgstr "[TALKlcy05] [liz] ha questa lucidatura per unghie che mi piacerebbe provare, ma non me lo darà mai in prestito!"
 
 msgid "[TALKlcy07] It'd be great if you could... y'know... maybe steal it from her?"
 msgstr ""
