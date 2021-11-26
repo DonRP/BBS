@@ -10,46 +10,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-11-26 21:59\n"
 
 msgid "[TALKliz00] Hey there [lizN.MClabel]!"
-msgstr ""
+msgstr "[TALKliz00] Cześć tutaj [lizN.MClabel]!"
 
 msgid "[TALKliz01] Yawn! Be nice I forgot my cell phone in my room...go get it!"
-msgstr ""
+msgstr "[TALKliz01] Jawn! Bądź miły, zostawiłam telefon w moim pokoju...idź po niego!"
 
 msgid "[TALKmc02] Okay"
-msgstr ""
+msgstr "[TALKmc02] Okej"
 
 msgid "[TALKmc10] What about me?! What do I get in return?"
-msgstr ""
+msgstr "[TALKmc10] Co ze mną?! Co dostanę w zamian?"
 
 msgid "[TALKliz04] For you?!"
-msgstr ""
+msgstr "[TALKliz04] Dla Ciebie?!"
 
 msgid "[TALKliz02] Haha! Well, I was thinking of making some eggs... what do you say?"
-msgstr ""
+msgstr "[TALKliz02] Haha! Cóż, myślałem o tym, żeby zrobić jajecznicę... co ty na to?"
 
 msgid "[TALKmc00] Hmm... that's good"
-msgstr ""
+msgstr "[TALKmc00] Hmm... To dobre"
 
 msgid "[TALKmc09] {i}Hmmm, Liza's phone! She's always on the phone, I wonder who she's chatting with. I might..."
-msgstr ""
+msgstr "[TALKmc09] {i}Hmmm, telefon Lizy! Zawsze jest w telefonie, zastanawiam się, z kim rozmawiała. Mogę..."
 
 msgid "[TALKmc09] {i}Shit, she's got the password!"
-msgstr ""
+msgstr "[TALKmc09] {i}kurde, ma hasło!"
 
 msgid "[TALKmc10] {i}Ah though! what a background... slutty."
-msgstr ""
+msgstr "[TALKmc10] {i}Ah! Co za tapeta... zdzirowata."
 
 msgid "[TALKliz01] So..."
-msgstr ""
+msgstr "[TALKliz01] Więc..."
 
 msgid "[TALKliz] Did you get my phone? [nointeract]"
-msgstr ""
+msgstr "[TALKliz] Znalazłeś mój telefon? [nointeract]"
 
 msgid "[TALKliz06] Go look for it! What are you waiting for?!"
-msgstr ""
+msgstr "[TALKliz06] Idź poszukaj go! Na co czekasz?!"
 
 msgid "[TALKliz08] Finally! What took you so long?"
 msgstr ""
