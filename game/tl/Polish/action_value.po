@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-12 16:22\n"
+"PO-Revision-Date: 2021-11-27 22:46\n"
 
 #    # game/tool/action_value.rpy:7
 msgid "Nap"
@@ -26,5 +26,5 @@ msgstr "Szkolenie skradania"
 
 #    # game/tool/action_value.rpy:7
 msgid "Go to the Kitchen"
-msgstr ""
+msgstr "Idź do kuchni"
 
