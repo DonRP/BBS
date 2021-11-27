@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-11-27 22:46\n"
 
 msgid "ERROR"
 msgstr "BŁĄD"
@@ -19,20 +19,20 @@ msgid "In development"
 msgstr "W trakcie rozwoju"
 
 msgid "You want to become a ninja?! then what are you waiting for!"
-msgstr ""
+msgstr "Chcesz zostać ninja?! to na co czekasz!"
 
 msgid "Start the game to level up the stealth."
-msgstr ""
+msgstr "Rozpocznij grę, aby podnieść poziom skradania się."
 
 msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
-msgstr ""
+msgstr "Gra jest bardzo prosta: musisz kliknąć lub nacisnąć spację, gdy piłka znajduje się na środku paska."
 
 msgid "And with each round you will increase your stealth by 1."
-msgstr ""
+msgstr "Z każdą rundą zwiększysz swoją skradankę o 1."
 
 #    # game/tool/action_label.rpy:10
 msgid "Nap for 3 hours..."
-msgstr ""
+msgstr "Drzemka przez 3 godziny..."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
@@ -56,13 +56,13 @@ msgstr ""
 
 #    # game/tool/action_label.rpy:67
 msgid "Tutorial"
-msgstr ""
+msgstr "Samouczek"
 
 #    # game/tool/action_label.rpy:67
 msgid "Start training"
-msgstr ""
+msgstr "Rozpocznij szkolenie"
 
 #    # game/tool/action_label.rpy:78
 msgid "{color=#00ff00}{b}+{/b} Stealth"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Stealth"
 
