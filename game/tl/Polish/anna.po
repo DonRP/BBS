@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-11-27 22:46\n"
 
 msgid "[TALKmc03] Wow!!"
 msgstr "[TALKmc03] Wow!!"
@@ -85,7 +85,7 @@ msgid "[TALKmc06] {i}Think [mc]..."
 msgstr "[TALKmc06] {i}Myśl [mc]..."
 
 msgid "What I could do now: [nointeract]"
-msgstr ""
+msgstr "Co mógłbym teraz zrobić: [nointeract]"
 
 msgid "[TALKmc13] [annR.NPClabel] Huh?!"
 msgstr "[TALKmc13] [annR.NPClabel] Huh?!"
@@ -103,7 +103,7 @@ msgid "[TALKann04] ... It's okay baby, I can do it!"
 msgstr "[TALKann04] ...W porządku, kochanie, mogę to zrobić!"
 
 msgid "[TALKmc03] {i}Oh my god!!! It feels so good!"
-msgstr ""
+msgstr "[TALKmc03] {i}O mój Boże!!! To takie dobre uczucie!"
 
 msgid "[TALKmc00] Hey [annR.NPClabel]! Let me help you with this."
 msgstr "[TALKmc00] Hej [annR.NPClabel]! Pozwól, że ci z tym pomogę."
@@ -127,7 +127,7 @@ msgstr "Chciałbym się przytulić"
 
 #    # game/labels/anna.rpy:76
 msgid "Play a trick on her"
-msgstr ""
+msgstr "Oszukaj ją"
 
 #    # game/labels/anna.rpy:76
 msgid "Help her with the basket"
