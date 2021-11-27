@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2021-11-27 22:46\n"
 
 #    # game/tool/notifications_value.rpy:1
 msgid "Is against a love affair with you"
@@ -62,11 +62,11 @@ msgstr "{color=#f00} {b}-{/b} Pożądanie"
 
 #    # game/tool/notifications_value.rpy:14
 msgid "{color=#00ff00}{b}+{/b} Submission"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Uległość"
 
 #    # game/tool/notifications_value.rpy:15
 msgid "{color=#f00} {b}-{/b} Submission"
-msgstr ""
+msgstr "{color=#f00} {b}-{/b} Uległość"
 
 #    # game/tool/notifications_value.rpy:17
 msgid "{color=#00ff00}{b}+{/b} Friendship"
