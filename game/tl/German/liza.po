@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-12 16:23\n"
+"PO-Revision-Date: 2021-12-02 07:10\n"
 
 msgid "[TALKliz00] Hey there [lizN.MClabel]!"
 msgstr "[TALKliz00] Hallo [lizN.MClabel]!"
@@ -37,7 +37,7 @@ msgid "[TALKmc09] {i}Hmmm, Liza's phone! She's always on the phone, I wonder who
 msgstr "[TALKmc09] {i}Hmmm, Lizas Telefon! Sie ist immer auf dem Telefon, ich frage mich, mit wem sie chattet. Ich könnte..."
 
 msgid "[TALKmc09] {i}Shit, she's got the password!"
-msgstr ""
+msgstr "[TALKmc09] {i}Mist, sie hat das Passwort!"
 
 msgid "[TALKmc10] {i}Ah though! what a background... slutty."
 msgstr "[TALKmc10] {i}Ah, was für ein Hintergrund... Schlamperei."
