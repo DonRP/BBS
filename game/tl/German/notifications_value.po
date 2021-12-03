@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-02 12:51\n"
+"PO-Revision-Date: 2021-12-03 07:19\n"
 
 #    # game/tool/notifications_value.rpy:1
 msgid "Is against a love affair with you"
@@ -46,11 +46,11 @@ msgstr "{color=#00ff00} {b}-{/b} Hemmung"
 
 #    # game/tool/notifications_value.rpy:10
 msgid "{color=#00ff00}{b}+{/b} Addictions"
-msgstr "{color=#00ff00}{b}+{/b} Süchte"
+msgstr "{color=#00ff00}{b}+{/b} Sucht"
 
 #    # game/tool/notifications_value.rpy:11
 msgid "{color=#f00} {b}-{/b} Addictions"
-msgstr "{color=#f00} {b}-{/b} Süchte"
+msgstr "{color=#f00} {b}-{/b} Sucht"
 
 #    # game/tool/notifications_value.rpy:12
 msgid "{color=#00ff00}{b}+{/b} Lust"
