@@ -11,19 +11,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-09-02 12:52\n"
+"PO-Revision-Date: 2021-12-03 07:19\n"
 
 msgid "This is the temporary end (current version: [config.version]). You'll have to wait for a new update."
-msgstr ""
+msgstr "Dies ist das temporäre Ende (aktuelle Version: [config.version]). Du musst auf ein neues Update warten."
 
 msgid "If you want more updates, support me on {a=patreon_link}Patreon"
 msgstr "Wenn Sie mehr Updates wünschen, unterstützen Sie mich auf {a=patreon_link} Patreon"
 
 msgid "Save your game now."
-msgstr ""
+msgstr "Speicher das Spiel jetzt."
 
 msgid "Pressing ENTER will return you to the Main Menu."
-msgstr ""
+msgstr "Wenn du die EINGABETASTE drückst, kehrst du zum Hauptmenü zurück."
 
 msgid "(Coming soon)"
 msgstr "(bald verfügbar)"
