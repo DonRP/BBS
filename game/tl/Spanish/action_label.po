@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2021-12-27 21:18\n"
 
 msgid "ERROR"
 msgstr "ERROR"
@@ -22,7 +22,7 @@ msgid "You want to become a ninja?! then what are you waiting for!"
 msgstr "¿Quieres convertirte en un ninja?! entonces, ¡qué estás esperando!"
 
 msgid "Start the game to level up the stealth."
-msgstr ""
+msgstr "Inicia el juego para subir de nivel el sigilo."
 
 msgid "The game is very simple: you have to click or press space when the ball is in the middle of the bar."
 msgstr "El juego es muy simple: tienes que hacer clic o pulsar el espacio cuando la bola está en el centro de la barra."
