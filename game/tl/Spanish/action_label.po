@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-12-27 21:18\n"
+"PO-Revision-Date: 2022-01-18 21:22\n"
 
 msgid "ERROR"
 msgstr "ERROR"
@@ -28,11 +28,11 @@ msgid "The game is very simple: you have to click or press space when the ball i
 msgstr "El juego es muy simple: tienes que hacer clic o pulsar el espacio cuando la bola está en el centro de la barra."
 
 msgid "And with each round you will increase your stealth by 1."
-msgstr ""
+msgstr "And with each round you will increase your stealth by 1."
 
 #    # game/tool/action_label.rpy:10
 msgid "Nap for 3 hours..."
-msgstr ""
+msgstr "Nap for 3 hours..."
 
 #    # game/tool/action_label.rpy:10
 msgid "Sleep"
