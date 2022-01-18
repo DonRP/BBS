@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2021-09-13 16:18\n"
+"PO-Revision-Date: 2022-01-18 21:22\n"
 
 msgid "Newbie [says] Did you try that new Italian restaurant... what was it called?! Oh right! Da Luigi."
 msgstr "Novato [says] ¿Probaste ese nuevo restaurante italiano... ¡¿cómo se llamaba?! ¡Oh, cierto! Da Luigi."
@@ -22,25 +22,25 @@ msgid "Newbie [says] Me neither, but I've heard good things about it. We could..
 msgstr "Newbie [says] Yo tampoco, pero he escuchado cosas buenas al respecto. Podriamos..."
 
 msgid "Policewoman [says] I don't think so!"
-msgstr ""
+msgstr "Policewoman [says] I don't think so!"
 
 msgid "Newbie [says] Um... I wasn't coming on to you, just wanted to know a bit more about you."
 msgstr "Novato [says] Um... No me acercaba a ti, solo quería saber un poco más sobre ti."
 
 msgid "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
-msgstr ""
+msgstr "Policewoman [says] Rookie, as I've already explained... I'm here so you don't do anything stupid and two, cause the Captain says I can't work alone... which is just bullshit!"
 
 msgid "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
-msgstr ""
+msgstr "Policewoman [says] With that said, I'm not here to make friends, we're just partners. Understood?"
 
 msgid "Newbie [says] Yes, Ma'am!"
-msgstr ""
+msgstr "Newbie [says] Yes, Ma'am!"
 
 msgid "Policewoman [says] Okay, we're here."
 msgstr "Mujer policía [says] Está bien, estamos aquí."
 
 msgid "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
-msgstr ""
+msgstr "Policewoman [says] Newbie, make sure the perp is comfortable with the handcuffs."
 
 msgid "Newbie [says] You heard her! Today is your big day..."
 msgstr "Novato [says] ¡La escuchaste! Hoy es tu gran día..."
@@ -67,10 +67,10 @@ msgid "Riggs [says] Here he is! Our suspect... How about that... He doesn't look
 msgstr "Riggs [says] ¡Aquí está! Nuestro sospechoso... Quien lo diría... No parece un criminal."
 
 msgid "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
-msgstr ""
+msgstr "Murtaugh [says] The real question is whether he is more of a petty thief or a hardened killer."
 
 msgid "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
-msgstr ""
+msgstr "Murtaugh [says] Oh my apologies, where are my manners? We are Murtaugh and Riggs, and you are... [mc]! AKA are the bad guy!"
 
 msgid "Riggs [says] YOU THINK THIS IS A GAME!!! DO YOU WANT TO END UP LIKE YOUR FATHER???"
 msgstr "Riggs [says] CREES QUE ESTO ES UN JUEGO!!! ¿QUIERES TERMINAR COMO TU PADRE???"
