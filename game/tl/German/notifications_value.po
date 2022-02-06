@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2021-12-03 07:19\n"
+"PO-Revision-Date: 2022-02-06 13:14\n"
 
 #    # game/tool/notifications_value.rpy:1
 msgid "Is against a love affair with you"
@@ -62,7 +62,7 @@ msgstr "{color=#f00} {b}- {/b} Lust"
 
 #    # game/tool/notifications_value.rpy:14
 msgid "{color=#00ff00}{b}+{/b} Submission"
-msgstr ""
+msgstr "{color=#00ff00}{b}+{/b} Korruption"
 
 #    # game/tool/notifications_value.rpy:15
 msgid "{color=#f00} {b}-{/b} Submission"
