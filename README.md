@@ -6,9 +6,6 @@
 <span class="discord">
 <a href="https://discord.gg/UdRJ5Yq85E" title="Discord"><img src="https://img.shields.io/discord/688162156151439536" alt="Discord" /></a>
 </span>
-<span class="badge-patreon">
-<a href="https://www.patreon.com/TeamSaga" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
-</span>
 
 BBS is a Game/Visual Novel for adults only. This repo was born for those who want to correct errors, improve some aspects of the game or create Mod.
 
