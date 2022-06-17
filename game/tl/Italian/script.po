@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2021-10-27 12:43\n"
+"PO-Revision-Date: 2022-06-17 11:42\n"
 
 msgid "Welcome to [config.name]"
 msgstr "Benvenuti a [config.name]"
@@ -21,5 +21,5 @@ msgstr "smurf"
 
 #    # game/script.rpy:20
 msgid "dwarf"
-msgstr ""
+msgstr "nana"
 
